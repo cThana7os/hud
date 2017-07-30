@@ -1,0 +1,263 @@
+﻿ID        Code                                    Name                     Rune 0                  Rune 1                  Rune 2                  Rune 3                  Rune 4                  
+79242     Barbarian_Bash                          猛击                       暴揍                      痛殴                      霜咬                      暴怒                      粉碎                      
+79076     Barbarian_BattleRage                    战斗怒火                     猛虎下山                    凶残                      化敌为友                    怒火中烧                    血溅十方                    
+80049     Barbarian_CallOfTheAncients             先祖召唤                     先祖之赐                    议会崛起                    先祖之怒                    部族使命                    戮力同心                    
+80263     Barbarian_Cleave                        顺劈斩                      无边横扫                    冰雪风暴                    顺劈强袭                    旋风收割                    裂击刀法                    
+98878     Barbarian_Earthquake                    地震                       熔火之怒                    擎天神步                    冻土                      圣山之召                    天塌地陷                    
+78548     Barbarian_Frenzy                        狂乱                       狂性难遏                    袖里藏刀                    无情先锋                    霹雳重击                    怒气冲天                    
+97435     Barbarian_FuriousCharge                 狂暴冲撞                     人肉战车                    势不可挡                    寒冰冲撞                    持久战力                    无情突袭                    
+79446     Barbarian_GroundStomp                   大地践踏                     颤栗践踏                    足扭乾坤                    震地猛袭                    足灌千斤                    雷音贯耳                    
+80028     Barbarian_HammerOfTheAncients           先祖之锤                     蓄力重击                    滚雷                      恶魔铁砧                    天生狂战                    雷霆震击                    
+79528     Barbarian_IgnorePain                    无视苦痛                     藐视弱点                    铜头铁臂                    同仇敌忾                    威风八面                    百折不挠                    
+93409     Barbarian_Leap                          跳斩                       亚瑞特的呼唤                  钢铁撞击                    冲天炮                     泰山压顶                    死从天降                    
+159169    Barbarian_Overpower                     压制                       杀戮狂欢                    钢铁风暴                    纵情杀戮                    劲力狂增                    先机占尽                    
+368239    Barbarian_Overpower_CowKing             压制                       杀戮狂欢                    钢铁风暴                    纵情杀戮                    劲力狂增                    先机占尽                    
+205228    Barbarian_Passive_Animosity             杀意骤起                                                                                                                                             
+205187    Barbarian_Passive_BerserkerRage         狂战盛怒                                                                                                                                             
+205217    Barbarian_Passive_Bloodthirst           嗜血                                                                                                                                               
+204603    Barbarian_Passive_BoonOfBulKathos       布尔凯索的庇佑                                                                                                                                          
+205133    Barbarian_Passive_Brawler               好斗勇者                                                                                                                                             
+205546    Barbarian_Passive_InspiringPresence     振奋军心                                                                                                                                             
+205707    Barbarian_Passive_Juggernaut            势不可挡                                                                                                                                             
+217819    Barbarian_Passive_NervesOfSteel         钢铁神经                                                                                                                                             
+204725    Barbarian_Passive_NoEscape              无路可逃                                                                                                                                             
+205205    Barbarian_Passive_PoundOfFlesh          血肉铸就                                                                                                                                             
+205398    Barbarian_Passive_Relentless            坚韧                                                                                                                                               
+205175    Barbarian_Passive_Ruthless              残酷                                                                                                                                               
+205491    Barbarian_Passive_Superstition          力量信仰                                                                                                                                             
+205848    Barbarian_Passive_ToughAsNails          坚如钢钉                                                                                                                                             
+205300    Barbarian_Passive_Unforgiving           世仇未报                                                                                                                                             
+206147    Barbarian_Passive_WeaponsMaster         武器大师                                                                                                                                             
+70472     Barbarian_Rend                          痛割                       撕裂                      切割                      霜刺                      祭刀                      感染                      
+109342    Barbarian_Revenge                       复仇                       惩戒                      挑衅                      憎恨                      血律                      痛宰                      
+86989     Barbarian_SeismicSlam                   裂地斩                      粉碎大地                    大地轰鸣                    天旋地转                    大地之力                    寒霜震波                    
+78551     Barbarian_Sprint                        疾奔                       奔跑健将                    腾挪飞步                    行如疾风                    急行军                     横冲直撞                    
+79077     Barbarian_ThreateningShout              威吓呐喊                     挫志咆哮                    破胆怒吼                    恐怖收割                    惊魂余音                    威吓怒吼                    
+96296     Barbarian_Whirlwind                     旋风斩                      熔岩滔天                    风卷残云                    飓风                      迅步削风                    沐血旋风                    
+79607     Barbarian_WrathOfTheBerserker           狂暴者之怒                    癫狂                      亚瑞特的悲鸣                  天神步                     乱战主宰                    屠戮                      
+77552     DemonHunter_Bolas                       流星索                      烈性炸药                    冰冻打击                    霹雳弹                     无情苦果                    末日迫近                    
+129216    DemonHunter_Caltrops                    铁蒺藜                      锯齿尖刺                    钩刺                      痛苦之地                    尖削钉刺                    布饵诱敌                    
+129213    DemonHunter_Chakram                     飞轮刃                      双飞轮                     回旋镖                     游蛇刃                     剃刀轮                     袖里剑                     
+129214    DemonHunter_ClusterArrow                集束箭                      重装箭                     流星箭                     集束弹                     漩涡弹                     眩光箭                     
+131325    DemonHunter_ElementalArrow              元素箭                      冰霜箭                     闪电球                     火祭箭                     触须箭                     闪电箭                     
+77546     DemonHunter_FanOfKnives                 刀扇                       飞刀大师                    刺客之刃                    匕首飞舞                    弹无虚发                    刀刃护甲                    
+86610     DemonHunter_Grenades                    手雷                       寒冰手雷                    集束手雷                    多重手雷                    炸弹专才                    震荡手雷                    
+129215    DemonHunter_HungeringArrow              追踪箭                      锯齿箭                     分裂箭                     吞噬箭                     穿刺箭                     碎骨箭                     
+131366    DemonHunter_Impale                      暗影飞刀                     强力穿透                    颅击刀法                    化学灼烧                    飞刀弹射                    伤口恶化                    
+130738    DemonHunter_MarkedForDeath              死亡印记                     冷酷死神                    恐惧传染                    死亡之谷                    死敌之恨                    悦耳丧钟                    
+77649     DemonHunter_Multishot                   多重射击                     全线齐射                    狂风冻结                    多重火力                    自由射击                    火力压制                    
+209734    DemonHunter_Passive_Archery             箭术高超                                                                                                                                             
+155723    DemonHunter_Passive_Ballistics          弹道学                                                                                                                                              
+210801    DemonHunter_Passive_Brooding            愈体                                                                                                                                               
+155721    DemonHunter_Passive_CullTheWeak         恃强凌弱                                                                                                                                             
+208610    DemonHunter_Passive_CustomEngineering   兵器专家                                                                                                                                             
+208779    DemonHunter_Passive_Grenadier           掷弹兵                                                                                                                                              
+155725    DemonHunter_Passive_HotPursuit          热力追击                                                                                                                                             
+218350    DemonHunter_Passive_NightStalker        暗夜追踪者                                                                                                                                            
+218398    DemonHunter_Passive_NumbingTraps        麻痹陷阱                                                                                                                                             
+155722    DemonHunter_Passive_Perfectionist       完美主义者                                                                                                                                            
+155715    DemonHunter_Passive_Sharpshooter        百步穿杨                                                                                                                                             
+164363    DemonHunter_Passive_SteadyAim           稳固瞄准                                                                                                                                             
+218385    DemonHunter_Passive_TacticalAdvantage   战术优势                                                                                                                                             
+211225    DemonHunter_Passive_ThrillOfTheHunt     追猎快感                                                                                                                                             
+155714    DemonHunter_Passive_Vengeance           血腥复仇                                                                                                                                             
+129212    DemonHunter_Preparation                 蓄势待发                     惩罚                      精力充沛                    集中心智                    战伤处理                    有备无患                    
+324845    DemonHunter_Preparation_Passive         蓄势待发                     惩罚                      精力充沛                    集中心智                    战伤处理                    有备无患                    
+130831    DemonHunter_RainOfVengeance             复仇之雨                     箭羽遮天                    倾天箭雨                    天罚影兽                    空中打击                    影兽奔袭                    
+131192    DemonHunter_RapidFire                   急速射击                     手雷轰炸                    动能加速                    火力支援                    凋零火矢                    冰霜射击                    
+129217    DemonHunter_Sentry                      箭塔                       折磨链                     穿刺箭                     火焰塔                     寒冰塔                     守护塔                     
+130830    DemonHunter_ShadowPower                 暗影之力                     夜魔化身                    暗影滑行                    遁入暗影                    暗影之泉                    血月之力                    
+130695    DemonHunter_SmokeScreen                 烟雾弹                      消失粉末                    迷雾弥漫                    治疗之雾                    独门烟幕                    飘忽不定                    
+75301     DemonHunter_SpikeTrap                   尖刺陷阱                     穿骨脊刺                    连环爆炸                    手动触发                    陷阱大师                    引雷针                     
+134030    DemonHunter_Strafe                      扫射                       毁灭                      冰寒足迹                    飞弹风暴                    暗影游移                    尖刺钢刃                    
+111215    DemonHunter_Vault                       影轮翻                      火焰之痕                    翻滚特技                    翻滚射击                    翻滚高手                    霹雳翻滚                    
+136954    Monk_BlindingFlash                      眩目闪                      信仰之光                    振奋之光                    玄秘之光                    内省之光                    削弱之光                    
+69130     Monk_BreathOfHeaven                     回天息                      灼魂吐纳                    芳华吐纳                    炽炎怒火                    光能灌注                    御风而行                    
+96311     Monk_CripplingWave                      断筋诀                      伤筋断骨                    排山倒海                    双风贯耳                    内力狂潮                    爆震激波                    
+223473    Monk_CycloneStrike                      飓风破                      阳炎爆                     聚力爆破                    疗伤清风                    风暴之眼                    狂风墙                     
+96019     Monk_DeadlyReach                        冲心拳                      精准预判                    拳路交错                    震雷掌                     隔空打穴                    炽焰拳                     
+97328     Monk_ExplodingPalm                      爆裂掌                      霹雳掌法                    死到临头                    无常色身                    深厚内力                    元神灼烧                    
+95940     Monk_FistsofThunder                     雷光拳                      雷霆震击                    金光迸发                    光流电涌                    风涌雷动                    凛风冲击                    
+111676    Monk_LashingTailKick                    神龙摆尾                     鹰爪腿                     火焰腿                     伊塔之手                    横扫千军                    蝎子摆尾                    
+209104    Monk_Passive_BeaconOfYtar               伊塔之辉                                                                                                                                             
+156467    Monk_Passive_ChantOfResonance           真言谐鸣                                                                                                                                             
+218415    Monk_Passive_CombinationStrike          融会贯通                                                                                                                                             
+209027    Monk_Passive_ExaltedSoul                奇筋异骨                                                                                                                                             
+209029    Monk_Passive_FleetFooted                健步如飞                                                                                                                                             
+156492    Monk_Passive_GuidingLight               动如奔雷                                                                                                                                             
+156484    Monk_Passive_NearDeathExperience        濒死体验                                                                                                                                             
+211581    Monk_Passive_Resolve                    精诚之心                                                                                                                                             
+209628    Monk_Passive_SeizeTheInitiative         先发制人                                                                                                                                             
+209622    Monk_Passive_SixthSense                 先知先觉                                                                                                                                             
+209812    Monk_Passive_TheGuardiansPath           以攻为守                                                                                                                                             
+209250    Monk_Passive_Transcendence              脱凡入化                                                                                                                                             
+96215     Monk_Serenity                           禅定                       心如止水                    现世现报                    心性超脱                    宁静致远                    不速之扰                    
+96694     Monk_SevenSidedStrike                   七相拳                      迅影突袭                    焚身化骨                    喧嚣杀意                    无间拳法                    爆烈强袭                    
+96090     Monk_SweepingWind                       劲风煞                      利刃风暴                    烈焰风暴                    闪电风暴                    心灵风暴                    御风大师                    
+121442    Monk_TempestRush                        风雷冲                      狂风怒号                    顺风而行                    电流禁地                    北风呼啸                    冰风扫掠                    
+96033     Monk_WaveOfLight                        金钟破                      神光壁垒                    光照八荒                    先祖之柱                    钟鸣入道                    洪钟贯耳                    
+97110     Monk_WayOfTheHundredFists               百裂拳                      怒意贯拳                    闪电快拳                    拳出火势                    内力勃发                    风怒快拳                    
+404168    p1_Monk_Passive_Harmony                 天人合一                                                                                                                                             
+402633    p1_Monk_Passive_Provocation             斗志坚决                                                                                                                                             
+404245    p1_Monk_Passive_RelentlessAssault       无情猛袭                                                                                                                                             
+109560    Trait_Witchdoctor_ZombieDogSpawner_Passive召唤僵尸犬                                                                                                                                            
+70455     Witchdoctor_AcidCloud                   酸蚀之云                     死尸炸弹                    酸雨倾降                    酸蚀软泥                    缓慢烧灼                    死亡之吻                    
+117402    Witchdoctor_BigBadVoodoo                巫毒狂舞                     震地狂舞                    丛林惊鼓                    鬼魂恩泽                    祈雨舞                     舞尸化犬                    
+69866     Witchdoctor_CorpseSpider                尸蛛                       炽炎蜘蛛                    蛛后                      跳跃蜘蛛                    寡妇制造者                   麻痹毒蛛                    
+72785     Witchdoctor_FetishArmy                  鬼娃大军                     鬼娃伏击                    利刃军团                    喷火鬼娃                    誓死追随                    猎头鬼娃                    
+105963    Witchdoctor_Firebats                    火蝠                       恐怖蝙蝠                    饥饿蝙蝠                    瘟疫蝙蝠                    吸血蝙蝠                    蝠云密布                    
+67567     Witchdoctor_Firebomb                    烈焰炸弹                     幽魂炸弹                    弹跳之骨                    烈焰之池                    烈焰火柱                    跃动之火                    
+30624     Witchdoctor_Gargantuan                  僵尸巨兽                     狂躁巨尸                    魔人兽                     大毒尸                     暴怒守护者                   斗狠巨尸                    
+69182     Witchdoctor_GraspOfTheDead              亡者之握                     蛆虫海                     天降尸雨                    缠身之握                    绝望之握                    死即是生                    
+83602     Witchdoctor_Haunt                       蚀魂                       吞噬之魂                    游荡之魂                    剧毒之魂                    吸精之魂                    双生怨魂                    
+30631     Witchdoctor_Hex                         妖术                       巨蟾之灾                    愤怒小鸡                    不稳形态                    愈体大法                    厄运缠身                    
+67668     Witchdoctor_Horrify                     惧灵                       骇人仪容                    死神之面                    极度惊悚                    无情恐吓                    恐怖追猎                    
+69867     Witchdoctor_Locust_Swarm                瘟疫虫群                     灼热虫群                    剧毒虫群                    漫天虫群                    噬咬虫群                    疫病虫群                    
+67600     Witchdoctor_MassConfusion               群体混乱                     受害妄想                    群体狂乱                    幻象巨灵                    不稳界域                    死尸转生                    
+217826    Witchdoctor_Passive_BadMedicine         致命毒药                                                                                                                                             
+208568    Witchdoctor_Passive_BloodRitual         鲜血仪式                                                                                                                                             
+208571    Witchdoctor_Passive_CircleOfLife        生命之环                                                                                                                                             
+340908    Witchdoctor_Passive_CreepingDeath       死亡蔓延                                                                                                                                             
+218588    Witchdoctor_Passive_FetishSycophants    鬼娃跟班                                                                                                                                             
+208639    Witchdoctor_Passive_FierceLoyalty       狂热忠诚                                                                                                                                             
+218191    Witchdoctor_Passive_GraveInjustice      剥削死者                                                                                                                                             
+208594    Witchdoctor_Passive_GruesomeFeast       骇人盛宴                                                                                                                                             
+217968    Witchdoctor_Passive_JungleFortitude     丛林坚毅                                                                                                                                             
+340909    Witchdoctor_Passive_MidnightFeast       午夜盛宴                                                                                                                                             
+340910    Witchdoctor_Passive_PhysicalAttunement  沼泽调谐                                                                                                                                             
+208628    Witchdoctor_Passive_PierceTheVeil       穿透迷障                                                                                                                                             
+208565    Witchdoctor_Passive_RushOfEssence       元神奔行                                                                                                                                             
+208569    Witchdoctor_Passive_SpiritualAttunement 灵魂协调                                                                                                                                             
+218501    Witchdoctor_Passive_SpiritVessel        灵魂容器                                                                                                                                             
+208601    Witchdoctor_Passive_TribalRites         部族仪式                                                                                                                                             
+209041    Witchdoctor_Passive_VisionQuest         灵境追寻                                                                                                                                             
+208563    Witchdoctor_Passive_ZombieHandler       僵尸统领                                                                                                                                             
+347265    Witchdoctor_Piranhas                    食人鱼                      邪灵巨鳄                    僵尸食人鱼                   食人鱼旋风                   食人波涛                    寒冰食人鱼                   
+106465    Witchdoctor_PlagueOfToads               蟾蜍之疫                     爆炸蟾蜍                    蟾蜍雨                     穿身毒蟾                    蟾蜍亲和                    蛊毒蟾蜍                    
+103181    Witchdoctor_PoisonDart                  剧毒飞镖                     火焰飞镖                    剧毒镖雨                    麻痹飞镖                    脊刺飞镖                    毒蛇缠身                    
+102572    Witchdoctor_Sacrifice                   牺牲                       激怒兽群                    主人至上                    黑血                      榨干祭品                    相生不灭                    
+67616     Witchdoctor_SoulHarvest                 灵魂收割                     灵魂虹吸                    灵魂耗竭                    困魂压魄                    吞噬灵魂                    复仇怨魂                    
+108506    Witchdoctor_SpiritBarrage               灵魂弹幕                     魅魂飞弹                    灵魂之井                    幽魂鬼影                    万灵之愿                    浮空幽魂                    
+106237    Witchdoctor_SpiritWalk                  灵魂行走                     撞魂                      游魂                      阴界震击                    灵界贵宾                    愈体之旅                    
+102573    Witchdoctor_SummonZombieDog             召唤僵尸犬                    烈焰狂犬                    生命连结                    狂躁尸犬                    彻骨之寒                    吸血兽                     
+134837    Witchdoctor_WallOfZombies               亡者之墙                     死亡围绕                    毒环                      谕魂                      尸墙                      火墙                      
+74003     Witchdoctor_ZombieCharger               僵尸死士                     僵尸熊                     隆冬之寒                    死尸巨塔                    前赴后继                    兽体炸弹                    
+30668     Wizard_ArcaneOrb                        奥术之球                     湮灭之球                    电能火花                    奥术星环                    灼烧之球                    冰冻之球                    
+134456    Wizard_ArcaneTorrent                    奥术洪流                     火焰结界                    奥能衍生                    奥术地雷                    静电放射                    死亡绽放                    
+134872    Wizard_Archon                           御法者                      天人同象                    时间延缓                    传送                      纯净能量                    烈焰爆发                    
+30680     Wizard_Blizzard                         暴风雪                      无情风暴                    异象天启                    闪电风暴                    冰封之雪                    霜凝冰结                    
+75599     Wizard_DiamondSkin                      钻石体肤                     镜光体肤                    耐久体肤                    晶化躯壳                    节能棱镜                    钻石碎片                    
+91549     Wizard_Disintegrate                     瓦解射线                     奥能增幅                    热能汇聚                    光能冲击                    混沌光枢                    激爆                      
+1765      Wizard_Electrocute                      电刑                       闪电冲击                    连环闪电                    弧光闪电                    能量奔涌                    叉状闪电                    
+86991     Wizard_EnergyArmor                      能量护甲                     棱镜护甲                    能量分流                    原力护甲                    吸能护甲                    聚能屏障                    
+77113     Wizard_EnergyTwister                    能量气旋                     狂风之力                    肆虐风暴                    逐风者                     北风劲吹                    邪风                      
+87525     Wizard_ExplosiveBlast                   聚能爆破                     超短引线                    湮没                      引爆迅击                    能量释放                    连锁效应                    
+99120     Wizard_Familiar                         魔星                       烈焰火花                    爆炸魔星                    冰锥魔星                    奥能激涌                    远古卫士                    
+30718     Wizard_FrostNova                        冰霜新星                     冻骨之寒                    冰爆                      冰冻迷雾                    极速冰冻                    深度冰冻                    
+30725     Wizard_Hydra                            多头蛇                      冰霜多头蛇                   闪电多头蛇                   烈焰多头蛇                   巨型多头蛇                   奥术多头蛇                   
+73223     Wizard_IceArmor                         寒冰护甲                     冰刺环身                    寒冷光环                    冰霜风暴                    冰晶护体                    寒冰反射                    
+30744     Wizard_MagicMissile                     魔法飞弹                     充能爆破                    多重飞弹                    烈焰飞弹                    冰川尖刺                    追踪飞弹                    
+76108     Wizard_MagicWeapon                      魔法武器                     烈火焚身                    通电                      原力武器                    能量引导                    偏斜护盾                    
+69190     Wizard_Meteor                           陨石术                      熔火冲击                    陨石雨                     天冰冲撞                    星辰契约                    雷霆撞击                    
+98027     Wizard_MirrorImage                      镜像                       镜像模仿                    多重分身                    强化分身                    意志延伸                    残影爆破                    
+208823    Wizard_Passive_ArcaneDynamo             奥能迸发                                                                                                                                             
+208472    Wizard_Passive_AstralPresence           星辰之躯                                                                                                                                             
+208468    Wizard_Passive_Blur                     残影                                                                                                                                               
+226301    Wizard_Passive_ColdBlooded              冷血                                                                                                                                               
+218044    Wizard_Passive_Conflagration            烧焚                                                                                                                                               
+208473    Wizard_Passive_Evocation                启发                                                                                                                                               
+208541    Wizard_Passive_GalvanizingWard          法能护体                                                                                                                                             
+208471    Wizard_Passive_GlassCannon              玻璃大炮                                                                                                                                             
+208547    Wizard_Passive_Illusionist              幻术师                                                                                                                                              
+226348    Wizard_Passive_Paralysis                瘫痪                                                                                                                                               
+208478    Wizard_Passive_PowerHungry              奥能渴求                                                                                                                                             
+208493    Wizard_Passive_Prodigy                  天赋奇才                                                                                                                                             
+208477    Wizard_Passive_TemporalFlux             时光涌动                                                                                                                                             
+208474    Wizard_Passive_UnstableAnomaly          不稳异能                                                                                                                                             
+93395     Wizard_RayOfFrost                       冰霜射线                     冰雪冲击                    冻雨风暴                    冻体麻痹                    冰冷血脉                    黑冰                      
+30783     Wizard_ShockPulse                       冲击震波                     火焰箭                     活体闪电                    穿刺之球                    能量亲和                    爆裂震击                    
+1769      Wizard_SlowTime                         时间延缓                     时空扭曲                    有进无退                    时空护体                    精疲力竭                    时光延伸                    
+71548     Wizard_SpectralBlade                    幽魂之刃                     烈焰之刃                    飞掷之刃                    冰寒之刃                    虹吸之刃                    壁垒之刃                    
+74499     Wizard_StormArmor                       风暴护甲                     雷电风暴                    电光疾行                    反制电甲                    风暴之力                    电荷之身                    
+168344    Wizard_Teleport                         传送                       灾厄降临                    身影相随                    安全通道                    时空反转                    虫洞                      
+30796     Wizard_WaveOfForce                      原力之波                     强力震波                    静电脉冲                    热力之波                    奥术协调                    衰弱之力                    
+377453    X1_Barbarian_AncientSpear               上古之矛                     飞叉猛掷                    投掷巨石                    曲刃刀                     重矛退敌                    怒掷                      
+353447    X1_Barbarian_Avalanche_v2               山崩地裂                     冰川崩解                    雪覆山巅                    火山爆发                    火山泥流                    地动山摇                    
+361661    X1_Barbarian_Passive_EarthenMight       大地之力                                                                                                                                             
+296572    X1_Barbarian_Passive_Rampage            狂暴                                                                                                                                               
+340877    X1_Barbarian_Passive_SwordAndBoard      剑盾合璧                                                                                                                                             
+375483    X1_Barbarian_WarCry_v2                  战吼                       怒气御体                    老兵之诫                    赦免                      冲锋战吼                    振奋                      
+377452    X1_Barbarian_WeaponThrow                武器飞掷                     蛮力投掷                    飞刀弹射                    飞锤                      怒掷飞斧                    震慑                      
+269032    X1_Crusader_AkaratsChampion             阿卡拉特勇士                   圣火使者                    圣力代言                    集结号令                    先知化身                    急速强攻                    
+266766    X1_Crusader_BlessedHammer               祝福之锤                     炽燃怒火                    雷光贯锤                    无尽之锤                    残暴之力                    统御之锤                    
+266951    X1_Crusader_BlessedShield               祝福之盾                     震荡盾击                    爆燃盾击                    庇护圣盾                    碎盾投掷                    穿刺之盾                    
+284876    X1_Crusader_Bombardment                 轰击                       尖刺桶                     歼灭战                     地雷场                     强力轰炸                    目标锁定                    
+266627    X1_Crusader_Condemn                     天谴                       以牙还牙                    聚能强吸                    无尽复仇                    撼地爆破                    瞬爆                      
+273941    X1_Crusader_Consecration                奉献                       圣域结界                    钉刺满地                    沐浴圣光                    破碎大地                    惊魂失魄                    
+267818    X1_Crusader_CrushingResolve             坚定决心                     ColorTestA              ColorTestB              ColorTestC              NYI                     ColorTestE              
+239137    X1_Crusader_FallingSword                天罚之剑                     灼热之击                    劈云落雷                    同袍奋起                    迅击之剑                    剑刃风暴                    
+239218    X1_Crusader_FistOfTheHeavens            天堂之拳                     天堂风暴                    天堂回音                    雷霆裂隙                    圣电冲击                    圣光惩戒                    
+316014    X1_Crusader_HeavensFury3                天堂之怒                     无上天威                    祝福之地                    怒火燎原                    禁行圣域                    天堂之火                    
+291804    X1_Crusader_IronSkin                    钢铁之肤                     导电之肤                    钢筋铁骨                    爆裂之肤                    反伤之肤                    疾行之肤                    
+267600    X1_Crusader_Judgment                    审判                       忏悔                      集体裁决                    重判                      定罪                      衰弱                      
+325216    X1_Crusader_Justice                     正义                       正义之剑                    分裂之击                    追击之锤                    炸雷之锤                    神圣之击                    
+290960    X1_Crusader_LawsOfFate                  命运律法                     NYI                     NYI                     NYI                     NYI                     NYI                     
+290912    X1_Crusader_LawsOfHope                  希望律法                     NYI                     NYI                     NYI                     NYI                     NYI                     
+342279    X1_Crusader_LawsOfHope2                 希望律法                     天使之翼                    希望不灭                    希望呐喊                    虔信之赐                    信仰之誓                    
+266722    X1_Crusader_LawsOfJustice               正义律法                     NYI                     NYI                     NYI                     NYI                     NYI                     
+342280    X1_Crusader_LawsOfJustice2              正义律法                     舍己为人                    不动如山                    信仰之盾                    凋零之力                    英勇无畏                    
+290946    X1_Crusader_LawsOfValor                 勇气律法                     万夫莫敌                    恐惧无措                    加速冷却                    致命暴击                    NYI                     
+342281    X1_Crusader_LawsOfValor2                勇气律法                     万夫莫敌                    恐惧无措                    致命暴击                    无坚不摧                    发愿蒙允                    
+348773    X1_Crusader_Passive_Blunt               重击之锤                                                                                                                                             
+356176    X1_Crusader_Passive_DivineFortress      神圣堡垒                                                                                                                                             
+357218    X1_Crusader_Passive_Fervor              热忱                                                                                                                                               
+311629    X1_Crusader_Passive_Finery              宝石之力                                                                                                                                             
+286177    X1_Crusader_Passive_HeavenlyStrength    天堂之力                                                                                                                                             
+302500    X1_Crusader_Passive_HoldYourGround      坚守阵地                                                                                                                                             
+310804    X1_Crusader_Passive_HolyCause           神圣使命                                                                                                                                             
+309830    X1_Crusader_Passive_Indestructible      铁胆钢心                                                                                                                                             
+310640    X1_Crusader_Passive_Insurmountable      无懈可击                                                                                                                                             
+310783    X1_Crusader_Passive_IronMaiden          铁处女                                                                                                                                              
+310678    X1_Crusader_Passive_LongArmOfTheLaw     律法无边                                                                                                                                             
+348741    X1_Crusader_Passive_LordCommander       一统千军                                                                                                                                             
+357269    X1_Crusader_Passive_NephalemMajesty     狂热信念                                                                                                                                             
+356173    X1_Crusader_Passive_Renewal             格挡复原                                                                                                                                             
+356147    X1_Crusader_Passive_Righteousness       正义之怒                                                                                                                                             
+356052    X1_Crusader_Passive_ToweringShield      守御之盾                                                                                                                                             
+310626    X1_Crusader_Passive_Vigilant            警戒                                                                                                                                               
+310775    X1_Crusader_Passive_Wrathful            愈体盛怒                                                                                                                                             
+330729    x1_Crusader_Phalanx3                    斗阵                       弓手列队                    盾卫冲锋                    战马冲撞                    铁血人墙                    贴身侍卫                    
+290545    X1_Crusader_Provoke                     挑衅                       净化                      抱头鼠窜                    惊慌失措                    蓄能强击                    见招拆招                    
+285903    X1_Crusader_Punish                      惩罚                       还击                      迅捷                      新生                      怒吼                      怒击                      
+353492    X1_Crusader_ShieldBash2                 盾牌猛击                     碎骨                      碎盾                      盾十字                     重盾猛击                    一对一                     
+268530    X1_Crusader_ShieldGlare                 盾闪                       神圣裁决                    动摇心志                    盾光引爆                    狂热眩光                    强光克敌                    
+289243    X1_Crusader_Slash                       烈焰斩                      狂热                      电化                      怒斩                      劈斩                      戒备                      
+286510    X1_Crusader_Smite                       链击                       命运相连                    锁链加身                    爆裂之链                    收割链环                    奔袭之链                    
+243853    X1_Crusader_SteedCharge                 战马冲锋                     尖刺马铠                    马不停蹄                    神采奕奕                    梦魇火马                    战马拖行                    
+239042    X1_Crusader_SweepAttack                 横扫                       横扫万敌                    烈焰扫击                    神圣震击                    缠拌攻击                    鼓舞横扫                    
+365311    X1_DemonHunter_Companion                战宠                       蜘蛛战宠                    野猪战宠                    恶狼战宠                    蝙蝠战宠                    雪貂战宠                    
+365312    x1_DemonHunter_Companion_Passive        战宠                       蜘蛛战宠                    野猪战宠                    恶狼战宠                    蝙蝠战宠                    雪貂战宠                    
+361936    X1_DemonHunter_EntanglingShot           缠绕射击                     寸步难行                    环锁囚禁                    电击项圈                    伸张正义                    赏金猎人                    
+377450    X1_DemonHunter_EvasiveFire              闪避射击                     硬化护甲                    掩护射击                    临别赠礼                    电涌射击                    凝神射击                    
+352920    X1_DemonHunter_Passive_Ambush           伏击                                                                                                                                               
+324770    X1_DemonHunter_Passive_Awareness        濒死本能                                                                                                                                             
+439525    X1_DemonHunter_Passive_Leech            吸血                                                                                                                                               
+338859    X1_DemonHunter_Passive_SingleOut        逐一击破                                                                                                                                             
+302846    X1_DemonHunter_Vengeance                复仇                       猎魔大军                    黑暗之心                    人形兵器                    排炮轰击                    恨意迸发                    
+312736    X1_Monk_DashingStrike                   疾风击                      乱拳相向                    落星之速                    眩目光速                    流银泻地                    光辉如炬                    
+312307    X1_Monk_Epiphany                        灵光悟                      流沙覆                     疗伤雾                     明心禅                     离心火                     蓄雷步                     
+317076    X1_Monk_InnerSanctuary                  金轮阵                      急速援护                    神圣之地                    庇护之殿                    避难阵                     禁忌之宫                    
+375088    X1_Monk_MantraOfConviction_v2           定罪真言                     震魂摄魄                    邪不胜正                    调伏刚强                    快步流星                    不怒自威                    
+375049    X1_Monk_MantraOfEvasion_v2              救赎真言                     身轻如燕                    五行加身                    坚如金刚                    风拂芦荡                    神恩护体                    
+373143    X1_Monk_MantraOfHealing_v2              治愈真言                     精力充沛                    激励之赐                    天佑之躯                    气运周天                    雪中送炭                    
+375082    X1_Monk_MantraOfRetribution_v2          惩戒真言                     快意恩仇                    借力打力                    义愤难平                    披荆斩棘                    一损俱损                    
+362102    X1_Monk_MysticAlly_v2                   幻身诀                      火相幻身                    水相幻身                    土相幻身                    风相幻身                    坚毅幻身                    
+341559    X1_Monk_Passive_Momentum                劲力狂增                                                                                                                                             
+315271    X1_Monk_Passive_MythicRhythm            神秘韵律                                                                                                                                             
+368899    X1_Monk_Passive_Unity                   齐心协力                                                                                                                                             
+442741    X1_WitchDoctor_Passive_ConfidenceRitual 欺瞒仪式                                                                                                                                             
+341344    x1_Wizard_Passive_ArcaneAegis           彼消我长                                                                                                                                             
+341540    X1_Wizard_Passive_Audacity              无畏无惧                                                                                                                                             
+342326    X1_Wizard_Passive_ElementalExposure     元素易伤                                                                                                                                             
+298038    X1_Wizard_Passive_UnwaveringWill        坚定意志                                                                                                                                             
+243141    X1_Wizard_Wormhole                      黑洞                       超重黑洞                    黑洞视界                    耀变体                     法术窃取                    绝对零度                    

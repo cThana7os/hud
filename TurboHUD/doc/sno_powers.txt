@@ -1,0 +1,2638 @@
+﻿SNO	Code	Name	Description
+301247	_x1_PandExt_Ideation_War_Spawner_Angel		
+301248	_x1_PandExt_Ideation_War_Spawner_Demon		
+285955	_x1westm_ideation_event_RATZNGGOLD		鼠疫下水道通风口
+199789	1000MonsterFight_Meteor	手雷	掷出三枚手雷，爆炸造成 {Script Formula 0} - [{Script Formula 0} + {Script Formula 1}] 点伤害。
+108017	a1dun_Leor_BigFireGrate		
+175159	a1dun_Leor_Fire_Gutter_fire		
+441108	a1dun_Leor_Hallway_Blade_Trap	处决者之刃	处决者之刃
+89418	a1dun_leoric_fireTrench		
+90428	a1dun_leoric_fireTrench_01		
+112259	a1dun_leoric_fireTrench_02		
+153000	A2_Evacuation_BelialBomb	彼列火焰弹	掷出三枚手雷，爆炸造成 {Script Formula 0} - [{Script Formula 0} + {Script Formula 1}] 点伤害。
+396386	a2dun_Aqd_Act_Wood_Platform_Damage	trdun_cath_wallcollapse_damage	
+175069	a2dun_Cave_Goatmen_Dropping_Log_Trap_attack	cave_goatmen_logtrap	
+206565	a2dun_Cave_Larva	洞穴幼虫	
+189864	a2dun_Cave_Larva_AOE	a2dun_cave_larva_aoe	
+114308	a2dun_Cave_SlimeGeyser_A	泥浆喷泉	
+223739	a2dun_Zolt_Tesla_Tower_Cold_spawnAttack	a2dun_Zolt_Tesla_Tower_Lightning_pewpew_	
+29983	a2dun_Zolt_Tesla_Tower_Fire		炙热石碑
+223738	a2dun_Zolt_Tesla_Tower_Fire_spawnAttack	a2dun_Zolt_Tesla_Tower_Lightning_pewpew_	
+29984	a2dun_Zolt_Tesla_Tower_IceNova		
+174642	a2dun_Zolt_Tesla_Tower_Lightning_pewpew	a2dun_zolt_tesla_tower_lightning_pewpew_	
+223731	a2dun_Zolt_Tesla_Tower_Lightning_spawnAttack	a2dun_Zolt_Tesla_Tower_Lightning_pewpew_	
+223740	a2dun_Zolt_Tesla_Tower_Poison_spawnAttack	a2dun_Zolt_Tesla_Tower_Lightning_pewpew_	
+174905	a3_battlefield_demonic_forge	恶魔锻炉	
+122327	A3_Battlefield_DemonMine_AOE	a3_battlefield_demonmine_aoe	
+180931	a3dun_bastionKeepGuard_FireAtNothing		
+123043	a3dun_crater_Demon_GroundTrap_GasChamber	烈焰之室	恶魔陷阱
+212330	a3dun_crater_Demon_GroundTrap_GasChamber_FireOnly	烈焰之室火焰	
+162328	a3dun_crater_DemonClawBomb_A	a3dun_crater_demonclawbomb_a	
+206575	a3dun_Crater_DemonClawBomb_A_trigger	恶魔之爪炸弹A	
+55014	a3dun_Keep_Barrel_Stack_Short_Damage		
+186638	a3dun_Keep_Exploding_Barrel_Stun_power		
+200051	a3dun_keep_fireTrench_01		
+200038	a3dun_keep_fireTrench_02		
+244155	A3Intro_CatapultAttack		
+188960	a4dun_Garden_Corruption_Mine	腐化物地雷	
+223721	a4dun_Heaven_HellRift_FallingRocks_A	屋顶塌陷	
+223722	a4dun_Heaven_HellRift_FallingRocks_B	屋顶塌陷	
+223286	a4Dun_HellFissure	地狱裂隙	
+219695	a4dun_Spire_CorruptionGeyser	a4dun_spire_corruptiongeyser	
+223284	a4dun_spire_firewall	烈焰之墙怪物	
+220634	a4dun_spire_Spike_Trap		
+93716	ActorDisabledBuff		
+224639	ActorGhostedBuff		
+220304	ActorInTownBuff		
+439438	ActorInvulBuff		
+212032	ActorLoadingBuff		
+199222	Adria_event47_blast	麦格妲护盾	
+199198	Adria_event47_projectile	麦格妲护盾	
+313697	AI_Backpedal		
+327537	AI_Backpedal_OneShotThroughActors		
+29986	AI_Circle		
+29987	AI_Circle_Long		
+29989	AI_Circle_Strafe		
+29988	AI_Circle_Strafe_Short		
+29990	AI_Close		
+29991	AI_Close_Long		
+29992	AI_EscortFollow		
+29993	AI_Follow		
+29995	AI_Follow_Close		
+104514	AI_Follow_MeleeLead		
+231004	AI_Follow_MeleeLead_Pet		
+29994	AI_FollowPath		
+1728	AI_FollowWithWalk		
+29996	AI_Idle		
+29997	AI_Idle_Long		
+29998	AI_Idle_Short		
+55433	AI_Orbit		
+193411	AI_ReturnToGuardObject		
+30000	AI_ReturnToPath		
+30001	AI_RunAway		
+30002	AI_RunAway_Long		!!Missing!! - Powers:AI_RunAway_Long_desc
+30003	AI_RunAway_Short		
+410363	AI_RunAway_Short_V2		
+30004	AI_RunInFront		
+163339	AI_RunInFront_Guaranteed		
+30005	AI_RunNearby		
+30006	AI_RunNearby_Gloam		
+30007	AI_RunNearby_Long		
+30008	AI_RunNearby_Short		
+30009	AI_RunTo		
+163338	AI_RunTo_Guaranteed		
+376110	AI_RunTo_Guaranteed_Spider		
+163336	AI_SprintInFront_Guaranteed		
+82805	AI_SprintTo		
+163335	AI_SprintTo_Guaranteed		
+30010	AI_Strafe		
+217618	AI_TownWalkTo_Guaranteed		
+30012	AI_WalkInFront		
+163334	AI_WalkInFront_Guaranteed		
+30013	AI_WalkTo		
+163333	AI_WalkTo_Guaranteed		
+1729	AI_Wander		
+30015	AI_Wander_Long		
+30016	AI_Wander_superLong		
+30014	AI_WanderRun		
+114421	AI_WarnOthers		
+99543	AIEvadeBuff	闪避增益效果	
+106281	AncientSpearKnockback		
+440446	Angel_Corrupt_PiercingDash		
+311167	Anniversary_Buff_EXPMF		
+30020	Axe Bad Data		斧头损坏数据
+30021	Axe_Operate_Gizmo		
+30022	Axe_Operate_NPC		
+123199	Azmodan_AOD_Damage		
+122700	Azmodan_FallingCorpses	阿兹莫丹尸雨	
+122699	Azmodan_GlobeOfAnnihilation	湮灭之球	一个与目标接触即爆炸的纯净能量之球，对位于 {c_green}{script formula 5} 码{/c_green}内的所有敌人造成 {c_green}{script formula 0} - [{script formula 0} + {script formula 1}]点奥术伤害{/c_green}。<br><br>消耗：{c_green}{resource cost} 点奥能{/c_green}
+129243	Azmodan_LaserAttack	azmodan_laserattack	
+133744	Azmodan_Melee	阿兹莫丹击退	
+176046	Azmodan_onDeath		
+123466	Azmodan_Phase3Channel		
+211934	Azmodan_Taunt	阿兹莫丹嘲讽	
+211856	Azmodan_Turning		
+185040	BannerDrop		
+234255	BannerDropPVP		
+134334	Banter_Cooldown		
+79242	Barbarian_Bash	猛击	{c_gold}生成：{/c} {c_green}{Resource Gained On First Hit}{/c} 点怒气<br><br>凶残地猛击单个敌人。
+79076	Barbarian_BattleRage	战斗怒火	{c_gold}消耗：{/c_gold} {c_green}{Resource Cost}{/c_green} 点怒气<br><br>释放你内心的狂怒，使你所造成的伤害和暴击几率提高，持续 {c_green}{Script Formula 17}{/c_green} 秒。
+80049	Barbarian_CallOfTheAncients	先祖召唤	{c_gold}冷却时间：{/c_gold} {c_green}[{Script Formula 16}]{/c_green} 秒<br><br>召唤3名先祖英雄与你并肩作战，持续 {c_green}{Script Formula 9}{/c_green} 秒。
+187092	Barbarian_CallOfTheAncients_Basic_Melee	先祖近战	
+168823	Barbarian_CallOfTheAncients_Cleave	先祖顺劈斩	
+168824	Barbarian_CallOfTheAncients_FuriousCharge	狂暴冲撞	
+168825	Barbarian_CallOfTheAncients_Leap	先祖腾空斩	
+168827	Barbarian_CallOfTheAncients_SeismicSlam	先祖裂地斩	
+168828	Barbarian_CallOfTheAncients_WeaponThrow	先祖武器飞掷	
+168830	Barbarian_CallOfTheAncients_Whirlwind	先祖旋风斩	
+80263	Barbarian_Cleave	顺劈斩	{c_gold}生成：{/c_gold} {c_green}{Resource Gained On First Hit}{/c_green} 点怒气<br><br>用武器挥出一个大弧，攻击多个敌人。
+98878	Barbarian_Earthquake	地震	{c_gold}消耗：{/c_gold} {c_green}{Script Formula 21}{/c_green} 点怒气<br>{c_gold}冷却时间：{/c_gold} {c_green}[{Script Formula 8}]{/c_green} 秒<br><br>剧烈震颤大地，并对附近敌人造成伤害。
+78548	Barbarian_Frenzy	狂乱	{c_gold}生成：{/c_gold} {c_green}{Resource Gained On First Hit}{/c_green} 点怒气<br><br>进入狂暴状态，每次击中都能以更快的速度攻击敌人。
+97435	Barbarian_FuriousCharge	狂暴冲撞	{c_gold}消耗：{/c_gold} {c_green}1{/c_green} 层<br>{c_gold}生成：{/c_gold} {c_green}{Resource Gained On First Hit}{/c_green} 点怒气<br><br>对位于你前进路线上的所有敌人发起冲锋，并将其击退。<br><br>{c_yellow}你每 {c_green}{Script Formula 3}{/c_green} 秒可获得一层效果，最多可同时储存 {c_green}{Script Formula 7}{/c_green} 层效果。{/c_yellow}
+79446	Barbarian_GroundStomp	大地践踏	{c_gold}生成：{/c_gold} {c_green}{Resource Gained On First Hit}{/c_green} 点怒气<br>{c_gold}冷却时间：{/c_gold} {c_green}{Script Formula 8}{/c_green} 秒<br><br>践踏大地并使身边的敌人昏迷，持续 {c_green}{Script Formula 1}{/c_green} 秒。
+30080	Barbarian_GroundStompEffect		
+80028	Barbarian_HammerOfTheAncients	先祖之锤	{c_gold}消耗：{/c_gold} {c_green}{Resource Cost}{/c_green} 点怒气<br><br>召唤出一把神秘之锤，猛击一大群敌人。
+79528	Barbarian_IgnorePain	无视苦痛	{c_gold}冷却时间：{/c_gold} {c_green}{Script Formula 15}{/c_green} 秒<br><br>你的怒火使你在 {c_green}{Script Formula 12}{/c_green} 秒内免受大部分伤害。
+93409	Barbarian_Leap	跳斩	{c_gold}生成：{/c} {c_green}{Resource Gained On First Hit}{/c} 点怒气<br>{c_gold}冷却时间：{/c}{c_green}{Cooldown Time}{/c} 秒<br><br>朝敌人跃去，并对其发起攻击。
+30097	Barbarian_Leap_OLD	腾空斩	野蛮人大力跃起，着地时对附近的所有敌人造成 {physical damage min} 点伤害。腾空斩所造成的伤害取决于力量。<br><br>消耗 {resource cost} 点怒气
+159169	Barbarian_Overpower	压制	{c_gold}冷却时间：{/c_gold}每层蓄能 {c_green}[{Script Formula 27}]{/c_green} 秒<br><br>对附近的敌人发起毁灭性攻击。最多 {c_green}[{Script Formula 29}]{/c_green} 层蓄能。 <br><br>{c_yellow}暴击有一定几率减少充能时间。{/c_yellow}
+368239	Barbarian_Overpower_CowKing	压制	{c_gold}冷却时间：{/c_gold} {c_green}[{Script Formula 27}]{/c_green} 秒<br><br>对 {c_green}{Script Formula 7}{/c_green} 码内的所有目标造成 {c_green}[{Script Formula 6}*100]%{/c_green} 的武器伤害。 <br><br>{c_yellow}暴击时有一定几率使压制的冷却时间缩短 {c_green}{Script Formula 0}{/c_green} 秒。{/c_yellow}
+205228	Barbarian_Passive_Animosity	杀意骤起	“尽管在大多数情况下，我们受训平复灵魂的波澜，但亚瑞特的守护者们却勇于拥抱来自内心的疾风骤雨。”——编年史家阿拉沃克
+205187	Barbarian_Passive_BerserkerRage	狂战盛怒	“你不会想要看到我发怒的样子。” ——狂战班纳
+205217	Barbarian_Passive_Bloodthirst	嗜血	“同情即是软弱。当敌人跪地求饶时仍能乘胜追击，才是王者的登极之道。”——征服者海拉伯德
+204603	Barbarian_Passive_BoonOfBulKathos	布尔凯索的庇佑	不朽之王会帮助那些受之无愧的人。
+205133	Barbarian_Passive_Brawler	好斗勇者	“双刀在手，所向披靡！”——剑圣卡尔尼
+205546	Barbarian_Passive_InspiringPresence	振奋军心	“敌人从裂隙汹涌而出，直到战斗大师卡尔加用战旗一下子钉死了三只恶魔，在高高的城垛上发出一声振奋战呼，把恶魔的尸体扔到下方的乱军之中。”——无星之夜战斗纪实
+205707	Barbarian_Passive_Juggernaut	势不可挡	“我对你发誓，我们把无数支箭矢射到了他身上，他却仍然屹立不倒。这就是所谓的野蛮人——这些来自北方的疯子，没什么能阻止他们。”——巴斯廷要塞守兵
+217819	Barbarian_Passive_NervesOfSteel	钢铁神经	“他们从孩提时期就要经受高强度的训练，征服凶猛残暴的野兽，攀爬暴风肆虐的峭壁，携带连南方战士都能压垮的重型武器。难怪他们从来都不知道什么叫畏缩！”——敦克雷的艾瑞克长官语录
+204725	Barbarian_Passive_NoEscape	无路可逃	“想逃就逃吧，可你只会落得个累死的下场。”——暴徒欧龙
+205205	Barbarian_Passive_PoundOfFlesh	血肉铸就	“天降甘霖使庄稼更加茁壮，敌洒热血令我们愈发势不可当。”——丰收颂歌
+205398	Barbarian_Passive_Relentless	坚韧	不论在何种情况下，某些战士就是拒绝倒下。
+205175	Barbarian_Passive_Ruthless	残酷	每个部族都会在自己的战士身上绘饰独具特色的图案。有些赞美高山，有些崇尚烈焰，但塔戈斯部族却偏爱纯粹的苦痛之殇。
+205491	Barbarian_Passive_Superstition	力量信仰	“西方的巫术只给我们带来了荒芜。是力量筑起了这些高墙，现在力量将守卫它们。”——格鲁查克·锤手
+205848	Barbarian_Passive_ToughAsNails	坚如钢钉	过不了多久，伤疤就会化为厚厚的一层盔甲。
+205300	Barbarian_Passive_Unforgiving	世仇未报	“他仿佛突然感受到众先祖身上每一道伤口的痛楚，并随即痛下决心要为他们所有人复仇。”——编年史家阿拉沃克
+206147	Barbarian_Passive_WeaponsMaster	武器大师	“我们的人在丛林中伏击了那位旅行者，但大吃一惊的却是我们自己。如此敏锐的感知力、迅捷的移动力、无懈可击的战斗力。我们就连一点儿机会都没有。”——红衣大盗
+70472	Barbarian_Rend	痛割	{c_gold}消耗：{/c_gold} {c_green}{Resource Cost}{/c_green} 点怒气<br><br>伤害附近所有敌人，并使其在 {c_green}{Script Formula 15}{/c_green} 秒内血流不止。
+109342	Barbarian_Revenge	复仇	{c_gold}消耗：{/c_gold}{c_green}1{/c_green} 次复仇<br><br>发起强有力的反击，每击中一名敌人即可使你恢复生命值。<br><br>{c_yellow}每次被敌人击中时，有几率获得一次复仇。最多可叠加 {c_green}{Script Formula 19}{/c_green} 次。{/c_yellow}
+109344	Barbarian_Revenge_Buff	复仇增益效果	当被敌人击中时，复仇有 [{revenge proc chance on get hit} * 100]% 的几率变为可用状态。<br><br>猛击大地，对附近所有敌人造成 [powertag.barbarian_revenge."base damage scalar" * 100]% 的武器伤害。每当你击中一名敌人即可恢复自身生命值上限的 [powertag.barbarian_revenge."revenge health percent per hit"*100]% 。
+86989	Barbarian_SeismicSlam	裂地斩	{c_gold}消耗：{/c_gold} {c_green}{Script Formula 16}{/c_green} 点怒气<br><br>形成震荡波，对被其冲击到的敌人造成伤害。
+78551	Barbarian_Sprint	疾奔	{c_gold}消耗：{/c_gold} {c_green}{Resource Cost}{/c_green} 点怒气<br><br>飞快地奔跑，持续 {c_green}{Script Formula 3}{/c_green} 秒。
+79077	Barbarian_ThreateningShout	威吓呐喊	{c_gold}生成：{/c_gold} {c_green}{Script Formula 13}{/c_green} 点怒气<br>{c_gold}冷却时间：{/c_gold} {c_green}{Cooldown Time}{/c_green} 秒<br><br>激起敌人内心的恐惧，降低其所造成的伤害。
+96296	Barbarian_Whirlwind	旋风斩	{c_gold}消耗：{/c_gold} {c_green}{Script Formula 14}{/c_green} 点怒气<br><br>打出一连串回旋击，对位于你前进路线上的所有目标造成伤害。
+442221	Barbarian_Whirlwind_DustDevils_Passability		
+79607	Barbarian_WrathOfTheBerserker	狂暴者之怒	{c_gold}冷却时间：{/c_gold} {c_green}[{Script Formula 7}]{/c_green} 秒<br><br>变成盛怒的化身，持续 {c_green}{Script Formula 6}{/c_green} 秒。
+30145	BareHandedPassive		
+1736	Barrel_Explode_Instant		
+109289	Beast_Weapon_Melee_Instant	近战攻击	这是你近距离战斗时所使用的技能。
+30147	BeastCharge		
+67753	Belial_Ground_Pound		
+95856	Belial_LightningBreath	瓦解射线	发出一股纯净的能量光束，每秒造成 [{arcane damage min} / {disintegrate time between updates}]点奥术伤害。每当光束穿过一个目标，伤害即调整至 [({disintegrate beam strength reduction per target})* 100]% 。<br><br>每秒消耗 {c_green}[{resource cost} / {disintegrate time between updates}]{/c_green} 点奥能。
+241757	Belial_LightningStrike_Enrage	彼列闪电攻击激怒	
+96212	Belial_LightningStrike_v2	瓦解射线	
+96712	Belial_Melee		
+156429	Belial_Melee_Reach		
+95811	Belial_Phase3Buff	彼列第三阶段增益效果	
+63079	Belial_Ranged_Attack	彼列远程攻击	
+98565	Belial_Sprint		
+105312	Belial_Sprint_Away		
+259123	BelialArmProxy		
+149875	BigRed_Charge		
+150552	BigRed_FireBreath	红色烈焰吐息	这是你近距离战斗时所使用的技能。
+355392	BlockChance_10		
+131193	BodyGuard_Teleport		
+433233	Bone_Turret_MortarCast		
+446530	BountyGroundsBurrowOut		
+72675	Brickhouse_ArmShields		
+180875	Brickhouse_DestructionSetup		
+72713	Brickhouse_Enrage		
+72812	Brickhouse_Slam		
+255336	BugWingsBuff		
+30156	BurrowIn		
+194582	BurrowInHidden		
+69949	BurrowInSetup		
+327086	BurrowInSetup2HSwing		
+346610	BurrowInSetupHidden		
+327088	BurrowInSetupStaff		
+30157	BurrowOut		
+75226	BurrowOut_NoFacing		
+194596	BurrowOutSetup		
+30158	BurrowStartBuff		
+86627	Butcher_DamagingFire		伤害性火焰
+96925	Butcher_FloorPanelFire	地板火焰	
+85001	Butcher_Frenzy		
+364220	Butcher_Frenzy_Custom_LR_Boss		
+83008	Butcher_GrapplingHook		
+209203	Butcher_OnDeath		
+85152	Butcher_Slam		
+30160	Butcher_Smash		
+198671	Butcher_Spears	屠夫之矛	掷出一根矛枪，最远攻击范围可达 {c_green}{script formula 2}{/c_green} 码，将一名敌人拽至野蛮人身边，使其移动速度降低，并对其造成 {c_green}[{script formula 0}*100]%{/c_green} 的武器伤害。<br><br>生成：{c_green}{script formula 12}{/c_green} 点怒气<br>冷却时间：{c_green}{cooldown time}{/c_green} 秒
+109153	Butcher_Target_Ranged		
+102449	Cain_Intro_Swing	近战攻击	这是你近距离战斗时所使用的技能。
+156211	Caldeum_PoisonLaser		
+91155	CalldownGrenade	发动弹射打击	告知观测员吉米在何处进行弹射打击。
+134225	Callout_Cooldown		
+151595	Camera_Focus_Buff		
+151604	Camera_Focus_Pet_Buff		
+225599	CannotDieDuringBuff		
+396376	caOut_BoneYards_Collapsing_Bones_Damage	trdun_cath_wallcollapse_damage	
+102874	caOut_Oasis_Attack_Plant_attack		
+108036	CatapultAttack	手雷	掷出三枚手雷，爆炸造成 {script formula 0} - [{script formula 0} + {script formula 1}] 点伤害。
+30166	ChampionClone		
+30167	ChampionTeleport		
+442438	CleanupSummons_OnDeath		
+208706	CollectorsEditionBuff	典藏版增益	
+370781	Community_Event_Buff_EXPMF		
+275399	CompanionBuff		
+300082	Console_PowerGlobe	能量球	[ph]You are empowered
+409455	Consumable_Potion_Buffs		
+30176	Cooldown		
+91052	CopiedVisualEffectsBuff		
+134816	CoreElite_DropPod	空投舱碰撞	
+136455	CoreElite_DropPod_Begin	空投舱警告	
+134815	CoreElitePodSetUp		
+30178	CorpulentExplode		
+122978	CorruptAngel_SpectralStrike		
+428398	Cosmetic_SpectralHound_Buff		
+72366	CreepMob_Creeper_Attack		
+71646	CreepMob_Knockback		
+376935	CreepMob_Knockback_LR		
+71688	CreepMob_Ranged_Arm_Attack		
+30180	CritDebuffCold		
+1738	CryptChildEat		
+30185	CryptChildLeapOut		
+30186	CryptChildLeapOutBuff		
+86152	DamageAttribute		
+228423	DebuffBleed	流血	
+103216	DebuffBlind		
+311910	DebuffCharmed		
+30195	DebuffChilled		
+101002	DebuffFeared		
+312061	DebuffFireDamageProc	燃烧	
+312799	DebuffForceGripped		
+312062	DebuffPoisonDamageProc	中毒	
+101003	DebuffRooted		
+100971	DebuffSlowed		
+101000	DebuffStunned		
+346635	DeleteSelfAnim		
+132940	demonFlyer_dropBomb		
+155188	DemonFlyer_FireBreath	红色烈焰吐息	这是你近距离战斗时所使用的技能。
+130798	DemonFlyer_Projectile		
+121326	demonFlyer_snatch	地狱天鬼	
+77552	DemonHunter_Bolas	流星索	{c_gold}生成：{/c} {c_green}{Script Formula 15}{/c} 点憎恨值<br><br>射出一发流星索缠住敌人并产生爆炸。
+129216	DemonHunter_Caltrops	铁蒺藜	{c_gold}消耗：{/c_gold} {c_green}{Script Formula 8}{/c_green} 点戒律值<br><br>布下一个陷阱，使敌人减速。
+129213	DemonHunter_Chakram	飞轮刃	{c_gold}消耗：{/c} {c_green}{Resource Cost}{/c} 点憎恨值<br><br>放出一把旋转的死亡之刃，穿透敌人。
+129214	DemonHunter_ClusterArrow	集束箭	{c_gold}消耗：{/c_gold} {c_green}{Script Formula 3}{/c_green} 点憎恨值<br><br>射出集束箭，击中后可碎裂成为多发手雷。
+131325	DemonHunter_ElementalArrow	元素箭	{c_gold}消耗：{/c_gold} {c_green}{Resource Cost}{/c_green} 点憎恨值<br><br>射出一支可穿透敌人的烈焰箭矢。
+134280	DemonHunter_EvasiveFire_Flip	闪避射击	灵活地翻滚 {c_green}{Script Formula 0} 码{/c_green}。<br><br>消耗：{c_green}{Resource Cost}{/c_green} 点法力值
+77546	DemonHunter_FanOfKnives	刀扇	{c_gold}冷却时间：{/c_gold} {c_green}{Script Formula 26}{/c_green} 秒<br><br>掷出多把飞刀，攻击附近所有敌人并使其减速。
+86610	DemonHunter_Grenades	手雷	{c_gold}生成：{/c} {c_green}{Script Formula 19}{/c} 点憎恨值<br><br>投掷一枚可弹跳并爆破的手雷。
+129215	DemonHunter_HungeringArrow	追踪箭	{c_gold}生成：{/c} {c_green}{Script Formula 20}{/c} 点憎恨值<br><br>射出一发穿刺箭矢，可追踪额外的敌人。
+131366	DemonHunter_Impale	暗影飞刀	{c_gold}消耗：{/c_gold} {c_green}{Script Formula 3}{/c_green} 点憎恨值<br><br>掷出一把飞刀，刺穿敌人。
+130738	DemonHunter_MarkedForDeath	死亡印记	{c_gold}消耗：{/c_gold} {c_green}{Resource Cost}{/c_green} 点戒律值<br><br>标记一名敌人，使其从攻击中受到额外伤害。
+77649	DemonHunter_Multishot	多重射击	{c_gold}消耗：{/c_gold} {c_green}{Script Formula 13}{/c_green} 点憎恨值<br><br>沿弧形散射大量箭矢。
+209734	DemonHunter_Passive_Archery	箭术高超	“感觉一下手中战弩的重量。现在感受……风，距离，目标的速度。很好。接下来，汇聚眼中的赤焰，拿封喉之距外的恶魔练练手吧。”——猎魔元老格雷斯卡尔
+155723	DemonHunter_Passive_Ballistics	弹道学	“我怎么知道是谁最先发明的这种装置？只需用正确的一端对准敌人，一切都能自动搞定。”——猎魔元老格雷斯卡尔
+210801	DemonHunter_Passive_Brooding	愈体	永远不要忘记你来自哪里。
+155721	DemonHunter_Passive_CullTheWeak	恃强凌弱	“你对我无助的家人有多仁慈，我就会对你多仁慈。”——泰拉·羽翼
+208610	DemonHunter_Passive_CustomEngineering	兵器专家	大多数手持战弩和陷阱所采用的自动装填功能既复杂又难以掌握。需要大量训练才能应用自如。
+208779	DemonHunter_Passive_Grenadier	掷弹兵	“切勿在烛光或火光附近装配此类装置。装配完成后，在数到三之前退到十步之外。”——药剂师匡的详细说明
+155725	DemonHunter_Passive_HotPursuit	热力追击	“别想把我引到地狱里去，渣滓。我能用更快地速度送你回去。”——泰拉·羽翼
+218350	DemonHunter_Passive_NightStalker	暗夜追踪者	“我是怎么学会仇恨和杀戮，怎么学会面对猎物血肉分离而无动于衷？是你教我的。”——泰拉·羽翼对食罪者纳拉说的最后一句话
+218398	DemonHunter_Passive_NumbingTraps	麻痹陷阱	“恶魔的身体构造是诡异而多样的。它们有时毫无理智，可有时却又像我们一样脆弱。”——对敌冥想心得
+155722	DemonHunter_Passive_Perfectionist	完美主义者	一旦陷阱被触发，你必须毫不留情地干掉所有敌人。犹豫会给你带来灾难。
+155715	DemonHunter_Passive_Sharpshooter	百步穿杨	“万物皆有命门。找到它，然后一箭射穿。”——猎魔元老格雷斯卡尔
+164363	DemonHunter_Passive_SteadyAim	稳固瞄准	“想逃就逃吧，魔鬼。我箭袋里随便哪支箭都能轻易追上你。”——泰拉·羽翼
+218385	DemonHunter_Passive_TacticalAdvantage	战术优势	谢绝公平战斗。
+211225	DemonHunter_Passive_ThrillOfTheHunt	追猎快感	“头三个还没落地就已经死了。剩下的可就没那么幸运。”——拉姆福德队长
+155714	DemonHunter_Passive_Vengeance	血腥复仇	“只要敌人流血，你就能把他消灭。慢慢地消灭他。”——猎魔元老格雷斯卡尔
+129212	DemonHunter_Preparation	蓄势待发	{c_gold}冷却时间：{/c_gold} {c_green}{Script Formula 3}{/c_green} 秒<br><br>集中精神，立刻恢复 {c_green}{Script Formula 8}{/c_green} 点戒律值。
+324845	DemonHunter_Preparation_Passive	蓄势待发	{c_gold}冷却时间：{/c_gold} {c_green}{Script Formula 3}{/c_green} 秒<br><br>立即恢复 {c_green}{Script Formula 8}{/c_green} 点戒律值。
+130831	DemonHunter_RainOfVengeance	复仇之雨	{c_gold}冷却时间：{/c_gold} {c_green}{Cooldown Time}{/c_green} 秒<br><br>箭矢如雨点般从天砸落。
+131192	DemonHunter_RapidFire	急速射击	{c_gold}消耗：{/c_gold}初始消耗 {c_green}{Script Formula 4}{/c_green} 点憎恨值，引导时再消耗额外 {c_green}[{Script Formula 17}]{/c_green} 点憎恨值。<br><br>坚守阵地，持续射出一连串箭矢。
+129217	DemonHunter_Sentry	箭塔	{c_gold}消耗：{/c_gold} {c_green}{Resource Cost}{/c_green} 点憎恨值<br><br>召唤一座箭塔，自动朝附近敌人开火。<br><br>{c_yellow}你每 {c_green}{Script Formula 23}{/c_green} 秒可获得一层效果，最多可同时储存 {c_green}{Script Formula 22}{/c_green} 层效果。{/c_yellow}
+129661	DemonHunter_Sentry_TurretAttack	箭塔攻击	
+130830	DemonHunter_ShadowPower	暗影之力	{c_gold}消耗：{/c_gold} {c_green}{Script Formula 6}{/c_green} 点戒律值<br><br>在对敌人造成伤害的同时恢复生命值，持续 {c_green}[{Script Formula 0}]{/c_green} 秒。
+130695	DemonHunter_SmokeScreen	烟雾弹	{c_gold}消耗：{/c_gold} {c_green}{Script Formula 13}{/c_green} 点戒律值<br>{c_gold}冷却时间：{/c_gold} {c_green}[{Script Formula 9}|1|]{/c_green} 秒<br><br>在短时间内消失不见。<br><br>{c_yellow}该技能在效果结束前不会触发冷却时间。{/c_yellow}
+75301	DemonHunter_SpikeTrap	尖刺陷阱	{c_gold}消耗：{/c_gold} {c_green}{Resource Cost}{/c_green} 点憎恨值<br><br>布下一个致命陷阱，消耗憎恨值时会将其引爆。
+134030	DemonHunter_Strafe	扫射	{c_gold}消耗：{/c_gold} {c_green}[{Script Formula 16} + ({Script Formula 15} * {Script Formula 0})]{/c_green} 点憎恨值<br><br>在移动的同时，朝附近敌人射击。
+111215	DemonHunter_Vault	影轮翻	{c_gold}消耗：{/c_gold} {c_green}{Script Formula 5}{/c_green} 点戒律值<br><br>灵活地翻滚以避开攻击。
+143198	DemonTrooperLeapOut		
+30207	Dervish_Whirlwind		
+256026	Dervish_Whirlwind_Mortar_Prototype		
+152865	Despair_Melee_Cleave	绝望顺劈斩	
+241778	Despair_Melee_CleaveEnrage		
+150486	Despair_SummonMinion	绝望召唤仆从	
+149911	Despair_Teleport	绝望传送	
+209700	Despair_Teleport_Away	绝望传送	
+152866	Despair_Volley	绝望齐射	
+366277	Despair_Volley_LR_Boss	绝望齐射	
+30208	DestructableObjectAOE		
+30209	DestructableObjectChandelier_AOE		
+358809	DestructableObjectChandelier_AOE_Hoist		
+368174	DestructionStreak_Buff_Run_Speed		
+133887	DH_Companion_ChargeAttack	战宠冲锋攻击	朝一个目标冲锋，造成 [{script formula 0}*100]% 的武器伤害，并使其昏迷 {script formula 4} 秒。
+227240	DH_Companion_MeleeAttack	战宠攻击	朝一个目标冲锋，造成 [{Script Formula 0}*100]% 的武器伤害，并使其昏迷 {Script Formula 4} 秒。
+150075	DH_rainofArrows_shadowBeast_bombDrop		
+195816	Diablo_Charge	暗影消散	
+136189	Diablo_ClawRip	爪撕	
+375905	Diablo_ClawRip_Uber	爪撕	
+161174	Diablo_CorruptionShield	爪撕	
+136828	Diablo_CurseOfAnguish	痛苦诅咒	
+136831	Diablo_CurseOfDestruction	毁灭诅咒	
+136830	Diablo_CurseOfHate	憎恨诅咒	
+136829	Diablo_CurseOfPain	剧痛诅咒	
+185997	Diablo_ExpandingFireRing	扩大烈焰之环	
+375908	Diablo_ExpandingFireRing_Uber	扩大烈焰之环	
+214831	Diablo_FireMeteor	迪亚波罗召唤陨石	掷出三枚手雷，爆炸造成 {script formula 0} - [{script formula 0} + {script formula 1}]点伤害。
+214668	Diablo_GetHit		
+136226	Diablo_HellSpikes	地狱尖刺	
+136219	Diablo_LightningBreath	闪电吐息	
+428985	Diablo_LightningBreath_LR_TerrorDemon	闪电吐息	
+439719	Diablo_LightningBreath_LR_TerrorDemon_Clone	闪电吐息	
+375904	Diablo_LightningBreath_Uber	闪电吐息	
+167560	Diablo_LightningBreath_v2	闪电吐息	
+141865	Diablo_Phase1Buff		
+136850	Diablo_Phase2Buff		
+136852	Diablo_Phase3Buff		
+136223	Diablo_RingOfFire	烈焰之环	
+375907	Diablo_RingOfFire_Uber	烈焰之环	
+136281	Diablo_ShadowClones	暗影克隆体	
+136237	Diablo_ShadowVanish	暗影消散	
+142582	Diablo_ShadowVanish_Charge	暗影消散	
+136849	Diablo_ShadowVanish_Grab	暗影消散	
+169212	Diablo_Smash_Puny_Destructible	碎笼	
+199476	Diablo_StompAndStun	扩大烈焰之环	
+219598	Diablo_Teleport	迪亚波罗传送	
+360319	DisableGetHitBuff_Infinite		
+340708	DisablePowerBuff_Infinite		
+95701	DOTDebuff		
+30211	DrinkHealthPotion		
+335158	DualWield_Scripted		
+335253	DualWield_Scripted_Remove		
+193438	DualWieldBuff		
+270058	DuelBuff		
+275135	DuelDefeatBuff		
+434761	Easter_Egg_World_Buff		
+30214	EatCorpse		
+57932	ElectricEel_ElectricBurst		
+59836	ElectricEelLeapOut		
+188254	EmoteAttack		
+185085	EmoteBye		
+384214	EmoteDance		
+185087	EmoteDie		
+185042	EmoteFollow		
+185081	EmoteGive		
+185629	EmoteGo		
+185093	EmoteHelp		
+188256	EmoteHold		
+188258	EmoteLaugh		
+188252	EmoteNo		
+188255	EmoteRetreat		
+185598	EmoteRun		
+185083	EmoteSorry		
+188253	EmoteStay		
+188257	EmoteTakeObjective		
+185082	EmoteThanks		
+185600	EmoteWait		
+188251	EmoteYes		
+102057	Enchantress_Charm	魅惑	{c_gold}冷却时间：{/c_gold} {c_green}{Script Formula 0}{/c_green} 秒<br><br>暂时魅惑一名敌人，让他为你作战。
+84469	Enchantress_Cripple	致残	使目标减速50%，持续3秒，并降低其所造成的伤害
+101990	Enchantress_Disorient	混乱	{c_gold}冷却时间：{/c_gold} {c_green}{Script Formula 0}{/c_green} 秒<br><br>在短时间内使敌人陷入混乱。
+101425	Enchantress_FocusedMind	集中心智	一道光环，可提高你和魔女的攻击速度。
+101969	Enchantress_ForcefulPush	原力之冲	{c_gold}冷却时间：{/c_gold} {c_green}{Script Formula 7}{/c_green} 秒<br><br>制造一场爆炸，对敌人造成大量伤害，并将其击退。
+201524	Enchantress_MassCharm	群体控制	{c_gold}冷却时间：{/c_gold} {c_green}{Script Formula 7}{/c_green} 秒<br><br>对附近一群敌人使用妖术。
+230238	Enchantress_Melee_Instant	近战攻击	挥动你的近战武器，造成 {c_green}{DamageMin} - {DamageMax}{/c} 点伤害。
+257687	Enchantress_MissileWard	飞弹结界	降低你和魔女受到的远程伤害。
+101461	Enchantress_PoweredArmor	灌能护甲	提高你和魔女的护甲值，并降低近战敌人的攻击速度。
+186200	Enchantress_RunAway		
+220872	Enchantress_ScorchedEarth	腐蚀	{c_gold}冷却时间：{/c_gold} {c_green}{Script Formula 10}{/c_green} 秒<br><br>召唤一个能量池，造成伤害，并使受影响的敌人承受额外伤害。
+201538	EnterRecallPortal	召回之石	这是你近距离战斗时所使用的技能。
+200036	EnterStoneOfRecall	召回之石	这是你近距离战斗时所使用的技能。
+391680	EnvironmentKill_Buff_Resource_Regen	陷阱精通	
+434427	EquippedLegendaryPower		
+86241	EscortingBuff		
+201570	ExitRecallPortal	召回之石	这是你近距离战斗时所使用的技能。
+200039	ExitStoneOfRecall	召回之石	这是你近距离战斗时所使用的技能。
+158955	Fallen_Lunatic_Aggro_A		
+330501	Fallen_Lunatic_Aggro_B		
+330800	Fallen_Lunatic_Aggro_C		
+330802	Fallen_Lunatic_Aggro_D		
+66547	Fallen_Lunatic_Suicide		
+433469	Fallen_Lunatic_Suicide_Ring_Summon	纳格尔召唤魔爆炸	
+30222	FallenChampion_Leader_Shout		
+1740	FallenChampion_Power_Hit		
+30223	FallenGrunt_Shout		
+30225	FallenShaman_Projectile		
+364817	FallenShaman_Projectile_LR		
+329401	FallingSword_CheckPath_Passability		
+30227	FastMummy_Disease_Cloud	疾病之云	
+123843	Frenzy_Affix		
+230745	g_killElitePack	奈非天之勇	
+85954	g_levelUp	等级提升	
+252038	g_levelUp_AA	巅峰等级提升	
+286747	g_paragonBuff		
+129386	Generic_SetCannotBeAddedToAITargetList		
+129395	Generic_SetDoesFakeDamage		
+76107	Generic_SetInvisible		
+62731	Generic_SetInvulnerable		
+129393	Generic_SetObserver		
+129394	Generic_SetTakesNoDamage		
+62666	Generic_SetUntargetable		
+60777	Generic_Taunt		
+30242	GenericArrow_Projectile		
+94972	Ghost_A_Unique_House1000Undead_Slow		
+30243	Ghost_Melee_Drain		
+30244	Ghost_SoulSiphon		
+99094	GhostWalkThroughWalls		
+129689	Gizmo_a3dun_rmpt_OilVat_A_Attack	热油	
+30249	GizmoOperatePortalWithAnimation		
+93838	Gluttony_Breath_Attack		
+93676	Gluttony_Gas_Cloud		
+369667	Gluttony_Gas_Cloud_LR_Boss		
+211292	Gluttony_Loogiespawn		
+98587	Gluttony_OnDeath		
+123158	Goatman_Cold_Shield		
+99077	Goatman_Iceball	寒冰箭	射出寒冰，对目标造成伤害并使其减速。
+30251	Goatman_Lightning_Shield		
+30252	Goatman_Moonclan_Ranged_Projectile		
+168554	Goatman_Shaman_Empower		
+77342	Goatman_Shaman_Lightningbolt		
+97497	GoatmanDrumsBeating		
+159004	GoatMutant_Ranged_Projectile		
+131588	GoatMutantEnrage	goatmutantenrage	
+131699	GoatMutantGroundSmash	近战攻击	这是你近距离战斗时所使用的技能。
+157947	GoatMutantShamanBlast		
+413313	GoblinAffix_Teleporter		
+30255	GraveDigger_Knockback_Attack		
+113817	graveDigger_warden_rangedAttack	掘墓者远程攻击	
+30256	GraveRobber_Dodge_Left		
+30257	GraveRobber_Dodge_Right		
+30258	graveRobber_Projectile		
+408505	Greed_StompAndStun		
+30264	HealingWell_Heal		
+30265	Hearth		
+30266	Hearth_Finish		
+118226	HellPortalSummoningMachineActivate		
+73289	HelperArcherProjectile		
+87093	Hireling_Callout_BattleCry		
+117323	Hireling_Callout_BattleFinished		
+196142	Hireling_Dismiss		
+196103	Hireling_Dismiss_Buff		
+196251	Hireling_Dismiss_Buff_Remove		
+30273	HirelingMage_MagicMissile		
+135701	HoodedNightmare_BoneArmor	骨甲	
+136071	HoodedNightmare_Curses	诅咒	
+136072	HoodedNightmare_GatewayToHell	地狱大门	
+135412	HoodedNightmare_LightningOfUnlife	麦格妲护盾	
+293981	IdentifyAllWithCast		
+226757	IdentifyWithCast	召回之石	这是你近距离战斗时所使用的技能。
+259848	IdentifyWithCastLegendary		
+238686	IGR_Buff_EXP	启迪	
+30283	ImmuneToFearDuringBuff		
+30284	ImmuneToRootDuringBuff		
+30285	ImmuneToSnareDuringBuff		
+30286	ImmuneToStunDuringBuff		
+30287	Interact_Crouching		
+30288	Interact_Normal		
+30289	InvisibileDuringBuff		
+30290	InvulnerableDuringBuff		
+371005	ItemPassive_SetBonus_Chantodo		你的护盾在效果结束时会治疗你相当于剩余护盾值25%的生命值。
+246590	itemPassive_Unique_Amulet_001		
+246750	itemPassive_Unique_Amulet_003	月光法球	攻击时有 {c_magic}[{VALUE1} * 100]%{/c_magic} 的几率召唤出护体的奥能法球。
+364343	itemPassive_Unique_Amulet_003_x1	月光法球	击中 15 码范围内的一名敌人有一定几率使你获得奥能碎片结界，当敌人靠近时爆炸，对 15 码范围内的所有敌人造成 {c_magic}[{VALUE1}*100]%{/c} 的武器伤害（作为奥术伤害）。
+248136	itemPassive_Unique_Amulet_011		召唤出一只来自深渊的怪物。
+322978	ItemPassive_Unique_Amulet_017_x1		击中有一定几率魅惑敌人。当被魅惑时，敌人受到的伤害提高 35% 。
+334880	ItemPassive_Unique_Amulet_105_x1		当获得一次大歼灭奖励后，会有 {c_magic}{VALUE1}{/c} 具骷髅为你作战10秒。
+245854	ItemPassive_Unique_Axe_1H_003		攻击时有一定几率召唤出一名堕落者勇士的鬼魂。
+364311	ItemPassive_Unique_Axe_1H_003_x1		攻击时有一定几率召唤出一名堕落者勇士的鬼魂。
+246101	ItemPassive_Unique_Axe_1H_005	天罚	击中敌人时有 {c_magic}[{VALUE1} * 100]%{/c_magic} 的几率用闪电重击敌人。
+433993	ItemPassive_Unique_Axe_1H_005_p2	天罚	每当你击中敌人时，有 {c_magic}[{VALUE1} * 100]%{/c} 的几率对其重击，造成 600-750% 的武器伤害（作为闪电伤害）。
+364318	ItemPassive_Unique_Axe_1H_005_x1	天罚	击中敌人时有 {c_magic}[{VALUE1} * 100]%{/c} 的几率用闪电重击敌人。
+248484	ItemPassive_Unique_Axe_1H_006	屠夫钩镰	攻击时有 {c_magic}[{VALUE1} * 100]%{/c_magic} 的几率将敌人拖到你的身前。
+246113	ItemPassive_Unique_Axe_1H_007		被击中时有一定几率忘却伤痛继续战斗。
+246118	ItemPassive_Unique_Axe_2H_001		屠夫的怨魂依然寄宿在他的剁肉刀里。
+248462	ItemPassive_Unique_Axe_2H_010	火球术	攻击时有 {c_magic}[{VALUE1} * 100]%{/c_magic} 的几率施放一枚火球。
+322974	ItemPassive_Unique_Axe_2H_012_x1		消灭敌人和摧毁物品有一定几率使你获得相当于主能量上限20%的能量。
+246363	ItemPassive_Unique_BarbBelt_003	雷霆冲击	当击中敌人时，有 {c_magic}[{VALUE1} * 100]%{/c_magic} 的几率使敌人产生冲击震波。
+364341	ItemPassive_Unique_BarbBelt_003_x1	雷霆冲击	格挡、躲闪或被命中都会使你释放闪电箭，造成 {c_magic}[{VALUE1} * 100]%{/c} 的武器伤害（作为闪电伤害）。
+433996	ItemPassive_Unique_Belt_016_p2		
+322980	ItemPassive_Unique_Belt_016_x1		拾取生命球会使你的生命值上限在15秒内提高5%，最多叠加5次。
+246442	ItemPassive_Unique_Boots_007	烧灼大地	引燃你踩踏而过的地面。
+434010	ItemPassive_Unique_Boots_007_p2	烧灼大地	引燃你踩踏而过的地面，每秒造成{c_magic}[{VALUE1}*100]%{/c}的武器伤害。
+342515	ItemPassive_Unique_Boots_007_x1	烧灼大地	引燃你踩踏而过的地面，每秒造成100%的武器伤害。
+322976	ItemPassive_Unique_Boots_020_x1		站定不动时可获得10000点的每秒生命值恢复。该效果最多可叠加4次。
+246605	ItemPassive_Unique_Bow_008		渡鸦群聚到你的身边。
+375037	ItemPassive_Unique_Bow_008_x1		一只渡鸦飞到你的身边。
+248817	ItemPassive_Unique_Bow_015	咯咯叫	攻击时有 {c_magic}[{VALUE1} * 100]%{/c_magic} 的几率射出咯咯叫的飞禽。
+344372	ItemPassive_Unique_Bow_015_x1	咯咯叫	攻击时有 {c_magic}[{VALUE1} * 100]%{/c} 的几率射出咯咯叫的飞禽。
+334881	ItemPassive_Unique_Bracer_105_x1		被命中时有一定几率对周围的敌人造成相当于你“荆棘”属性 10 倍的伤害。
+245835	ItemPassive_Unique_CeremonialDagger_002		攻击时有一定几率召唤一名鬼娃。
+364316	ItemPassive_Unique_CeremonialDagger_002_x1	吉德宾	攻击时有一定几率召唤一名鬼娃。
+247896	ItemPassive_Unique_CeremonialDagger_008	临终之息	让敌人死无全尸。
+246515	ItemPassive_Unique_Chest_001		击中敌人时有一定几率使其掉落金币。
+247777	ItemPassive_Unique_CombatStaff_2H_007		啪！
+246562	ItemPassive_Unique_CombatStaff_2H_009		攻击时有一定几率使你的攻击速度加倍提高。
+247769	ItemPassive_Unique_Dagger_006		鲜血从你身上缓缓渗出。
+245836	ItemPassive_Unique_Dagger_007		唧！
+245837	ItemPassive_Unique_Dagger_010	冰冻之球	攻击时有 {c_magic}[{VALUE1} * 100]%{/c_magic} 的几率射出一枚冰冻之球。
+364312	ItemPassive_Unique_Dagger_010_x1	冰冻之球	进行一次攻击时有 {c_magic}[{VALUE1} * 100]%{/c_magic} 的几率射出一枚冰冻之球。
+334882	ItemPassive_Unique_Dagger_011_x1		
+322979	ItemPassive_Unique_Dagger_103_x1		对满血的敌人有100%的暴击几率。
+248928	ItemPassive_Unique_Fist_010	神龙之气	攻击时有一定几率抛出一枚蕴含纯粹能量的法球。
+360490	ItemPassive_Unique_Fist_010_x1	神龙之气	攻击时有一定几率抛出一枚蕴含纯粹能量的法球。
+383014	ItemPassive_Unique_Gem_001_x1		消灭一队精英怪后，伤害提高20%，持续 {c_magic}[{VALUE1}|1|]{/c} 秒。
+451157	ItemPassive_Unique_Gem_001U_x1		对精英怪造成的伤害提高 [{VALUE1}*100]%，受到精英怪的伤害降低 [{VALUE1}*100]%。
+403456	ItemPassive_Unique_Gem_002_x1		对受到控制类限制效果影响的敌人造成的伤害提高 {c_magic} [{VALUE1}*10|2|]%{/c}。
+403457	ItemPassive_Unique_Gem_002U_x1		获得光环，使15码范围内的敌人的移动速度降低[{VALUE1}*100]%。
+403459	ItemPassive_Unique_Gem_003_x1		消灭敌人获得的经验值 {c_magic}+{VALUE1}{/c}。
+428691	ItemPassive_Unique_Gem_003U_x1		等级需求降至1级。
+403460	ItemPassive_Unique_Gem_004_x1	闪电华冠	击中时有 15% 的几率获得一个闪电华冠，每秒对附近的敌人造成 {c_magic}[{VALUE1}*100|1|]%{/c} 的武器伤害（作为闪电伤害），持续 3 秒。
+403560	ItemPassive_Unique_Gem_004U_x1	闪电华冠	在闪电华冠的效果影响下，移动速度提高 [{VALUE1}*100]% 。
+403461	ItemPassive_Unique_Gem_005_x1	剧毒宝石	使命中的所有敌人中毒，在 10 秒内造成 {c_magic}[{VALUE1}*100]%{/c} 的武器伤害。
+403556	ItemPassive_Unique_Gem_005U_x1		中毒的敌人受到的所有伤害提高 [{VALUE1}*100]%，造成的伤害降低 [{VALUE1}*100]%。
+403462	ItemPassive_Unique_Gem_006_x1	增痛宝石	暴击使敌人流血，在3秒内受到 {c_magic}[{VALUE1}*100|1|]%{/c} 的武器伤害（作为物理伤害）。
+403600	ItemPassive_Unique_Gem_006U_x1		获得鲜血狂乱效果，20码内每个流血的敌人使你攻击速度提高[{VALUE1}*100]%。
+403463	ItemPassive_Unique_Gem_007_x1	银河，织星者之泪	击中时有 15% 的几率重击附近的一名敌人，对其造成 {c_magic}[{VALUE1}*100]%{/c} 的武器伤害（作为神圣伤害），并治疗你自己生命值上限 3% 的生命。
+403620	ItemPassive_Unique_Gem_007U_x1		每 {VALUE1} 秒重击附近一名敌人。
+403464	ItemPassive_Unique_Gem_008_x1	迅捷勾玉	每次攻击获得迅捷效果，使你的攻击速度提高 1%，躲闪几率提高 {c_magic}[{VALUE1}|2|]%{/c}，持续 4 秒。该效果最多可叠加 15 次。
+403524	ItemPassive_Unique_Gem_008U_x1		每一层迅捷可带来 [{VALUE1}*100]% 的冷却时间缩短效果。
+403465	ItemPassive_Unique_Gem_009_x1		完成的每一击都会使受到的治疗效果提高 {c_magic}[{VALUE1}*100|2|]%{/c}，持续 5 秒。最多叠加 10 次。
+403624	ItemPassive_Unique_Gem_009U_x1		你对控制类限制效果免疫。
+403466	ItemPassive_Unique_Gem_010_x1		使你宠物造成的伤害提高 {c_magic}[{VALUE1}*10|2|]%{/c}。
+403472	ItemPassive_Unique_Gem_010U_x1		使你宠物受到的伤害降低 [{VALUE1}*100]%。
+403467	ItemPassive_Unique_Gem_011_x1	免死宝石	受到所有伤害的 35% 会延迟生效，在 {c_magic}[{VALUE1}|2|]{/c} 秒内作用到你身上。
+403687	ItemPassive_Unique_Gem_011U_x1		消灭敌人时有 [{VALUE1}*100]% 的几率清除所有延迟生效的伤害。
+403468	ItemPassive_Unique_Gem_012_x1		你和命中的敌人每间隔 10 码距离，你造成的伤害即可提高 {c_magic}[{VALUE1}|2|]%{/c}。上限为 50 码距离，伤害提高 {c_magic}[({VALUE1}*5)|2|]%{/c}。
+403727	ItemPassive_Unique_Gem_012U_x1		击中时有 [{VALUE1}*100]% 的几率使敌人昏迷 1 秒。
+403469	ItemPassive_Unique_Gem_013_x1		使主要技能造成的伤害提高 {c_magic}[{VALUE1}*10|2|]%{/c}。
+403473	ItemPassive_Unique_Gem_013U_x1		主要技能击中时会为你恢复生命值上限的 [{VALUE1}*100]%。
+403470	ItemPassive_Unique_Gem_014_x1		消灭敌人时有 {c_magic}[{VALUE1}*100|1|]%{/c} 的几率爆出大量金币。
+403784	ItemPassive_Unique_Gem_014U_x1		在拾取金币后的 2 秒内，移动速度提高 [{VALUE1}*100]% 。
+403471	ItemPassive_Unique_Gem_015_x1		当你消耗能量施放一个引导型技能后，伤害提高 {c_blue}[{VALUE1}|2|]%{/c}，持续 1.5 秒。该效果最多可叠加 10 次。
+403785	ItemPassive_Unique_Gem_015U_x1		每层效果使护甲值提高 [{VALUE1}*100|1|]%。
+428029	ItemPassive_Unique_Gem_016_x1		受到的非物理伤害降低 {c_magic}[{VALUE1}*100|1|]%{/c}。
+428030	ItemPassive_Unique_Gem_016U_x1		当生命值低于 50% 时，你对冰霜、火焰、闪电、毒性和奥术伤害的抗性提高 [{VALUE1}*100]% 。
+428031	ItemPassive_Unique_Gem_017_x1		回复 {c_magic}{VALUE1}{/c} 点每秒回复生命。
+428032	ItemPassive_Unique_Gem_017U_x1		当你在过去 4 秒没有受到伤害时，会获得一道伤害吸收护盾，吸收相当于你每秒回复生命 [{VALUE1}*100]% 的伤害。
+428348	ItemPassive_Unique_Gem_018_x1		你对敌人造成的每次攻击都会使敌人从你攻击中受到的伤害提高 {c_magic}[{VALUE1}|2|]%{/c} 。
+428349	ItemPassive_Unique_Gem_018U_x1		对首领和秘境守卫造成的伤害提高 [{VALUE1}*100]% 。
+428350	ItemPassive_Unique_Gem_019_x1		受到近战伤害降低 {c_magic}[{VALUE1}*100|1|]%{/c}。
+428351	ItemPassive_Unique_Gem_019U_x1		当生命值低于 [{VALUE1}*100]% 时，你可以在敌人当中不受阻碍地移动。
+428352	ItemPassive_Unique_Gem_020_x1		增加 {c_magic}[{VALUE1}]{/c} 点荆棘伤害。
+428353	ItemPassive_Unique_Gem_020U_x1		嘲讽被你主要技能命中的第一个敌人 2 秒。
+428354	ItemPassive_Unique_Gem_021_x1		你的冰霜技能现在会造成寒冷效果，且你的寒冷效果可使敌人的移动速度额外降低{c_magic}[{VALUE1}*100|1|]%{/c}。
+428356	ItemPassive_Unique_Gem_021U_x1		被你施加寒冷效果的敌人受到暴击伤害的几率提高 [{VALUE1}*100]%。
+454736	ItemPassive_Unique_Gem_022_x1		周期性地争夺控制权并释放一个火环，对穿行其中的敌人造成 {c_magic}[{VALUE1}]%{/c_magic} 的武器伤害。
+454737	ItemPassive_Unique_Gem_022U_x1	次元引导	每次升级后，你不再消耗能量，技能的冷却时间也缩短 75%，持续 [{VALUE1}] 秒。
+246678	ItemPassive_Unique_HandXBow_012		击中敌人时有 {c_magic}[{VALUE1} * 100]%{/c_magic} 的几率对其标记死亡印记。
+246814	itemPassive_Unique_Helm_003	安达莉尔之毒	被击中时有 {c_magic}[{VALUE1} * 100]%{/c_magic} 的几率施放一次剧毒新星。
+434034	itemPassive_Unique_Helm_003_p2	安达莉尔的仪容	攻击会释放出剧毒新星，对10码内的敌人造成 {c_magic}[{VALUE1}*100]%{/c_magic} 的武器伤害（作为毒性伤害）。
+338061	itemPassive_Unique_Helm_003_x1	安达莉尔的仪容	击中时有一定几率释放出剧毒新星，对 10 码内的敌人造成 {c_magic}[{VALUE1}*100]%{/c_magic} 的武器伤害（作为毒性伤害）。
+322977	ItemPassive_Unique_Helm_017_x1		当你在过去5秒没有受到伤害时，你的能量消耗降低30%。
+246918	itemPassive_Unique_Mace_1H_002	雷神闪电	击中敌人时有 {c_magic}[{VALUE1} * 100]%{/c_magic} 的几率施放连环闪电。
+364325	itemPassive_Unique_Mace_1H_002_x1	雷神闪电	击中敌人时有 {c_magic}[{VALUE1} * 100]%{/c_magic} 的几率施放连环闪电。
+247484	itemPassive_Unique_Mace_1H_009	裂地	攻击时有 {c_magic}[{VALUE1} * 100]%{/c_magic} 的几率使地面震颤。
+249958	ItemPassive_Unique_Mace_2H_003	死无全尸	让敌人死无全尸。
+248501	ItemPassive_Unique_Mace_2H_006		攻击时有 {c_magic}[{VALUE1} * 100]%{/c_magic} 的几率使敌人行走的地面破碎崩塌。
+247913	ItemPassive_Unique_Mace_2H_009	舍费尔的闪电盾	被击中时有 {c_magic}[{VALUE1} * 100]%{/c_magic} 的几率召唤出护体闪电。
+434033	ItemPassive_Unique_Mace_2H_009_p2	舍费尔的闪电盾	施放闪电法术会使自身充满闪电之力，每秒对附近的敌人造成 {c_magic}[{VALUE1}*100]%{/c_magic} 的武器伤害（作为闪电伤害），持续5秒。
+364319	ItemPassive_Unique_Mace_2H_009_x1	舍费尔的闪电盾	被击中时有一定几率使自身充满闪电之力，每秒对附近的敌人造成 {c_magic}[{VALUE1}*100]%{/c_magic} 的武器伤害（作为闪电伤害），持续5秒。
+246836	ItemPassive_Unique_Mighty_1H_006	寒冷光环	攻击时有 {c_magic}[{VALUE1} * 100]%{/c_magic} 的几率被寒冷光环围绕。
+441762	ItemPassive_Unique_Mighty_1H_006_p3	寒冷光环	攻击时你将被寒冷光环所围绕。
+364322	ItemPassive_Unique_Mighty_1H_006_x1	寒冷光环	攻击时有 {c_magic}[{VALUE1} * 100]%{/c_magic} 的几率被寒冷光环围绕。
+248481	ItemPassive_Unique_Mighty_1H_011	布尔凯索的旋风	你会不时地施展出狂乱的旋风斩。
+360488	ItemPassive_Unique_Mighty_1H_011_x1	布尔凯索的旋风	有一定几率用狂乱的旋风斩攻击敌人，每秒造成325%的武器伤害（作为物理伤害），持续6秒。
+374670	ItemPassive_Unique_Mojo_003_x1		每隔 {VALUE1} 秒会自动召唤出一只僵尸犬，与你并肩战斗。
+248489	ItemPassive_Unique_Mojo_010	马纳祖玛的毒药	浑身环绕着致命的毒云。
+360491	ItemPassive_Unique_Mojo_010_x1	马纳祖玛的毒药	你的妖术 - 愤怒小鸡的爆炸伤害提高 [{VALUE1}*100]%，并且被消灭的敌人将触发一次额外爆炸。
+440744	ItemPassive_Unique_Mojo_010_x1_tooltipDummy_1	马纳祖玛的毒药	你的妖术 - 愤怒小鸡现在持续 15 秒，并且在小鸡状态下的移动速度额外提高 [{VALUE1}*100]%。
+374308	ItemPassive_Unique_Orb_001_x1		受到伤害时最高有 {c_magic}[{VALUE1}*100]%{/c} 的几率重置传送的冷却时间。
+247009	itemPassive_Unique_Pants_007	恶臭	这条裤子不时地使你散发出阵阵恶臭。
+434009	itemPassive_Unique_Pants_007_p2	恶臭	当12码内有3个或更多敌人时，你会释放出一阵恶臭，每秒对15码内的敌人造成 {c_magic}[{VALUE1}*100]%{/c_magic} 的武器伤害（作为毒性伤害），持续5秒。
+364342	itemPassive_Unique_Pants_007_x1	恶臭	当12码内有3个或更多敌人时，你会释放出一阵恶臭，每秒对15码内的敌人造成 {c_magic}[{VALUE1}*100]%{/c_magic} 的武器伤害（作为毒性伤害），持续10秒。
+247641	ItemPassive_Unique_Polearm_001		被击中时有一定几率施放金轮阵。
+367008	ItemPassive_Unique_Polearm_001_x1		被击中时有一定几率自动施放金轮阵。
+341335	ItemPassive_Unique_Potion_01_x1		
+341340	ItemPassive_Unique_Potion_02_x1		
+341341	ItemPassive_Unique_Potion_03_x1		
+248880	ItemPassive_Unique_Ring_001	空灵之音	这枚戒指会不时地对附近的敌人施放蚀魂。
+364345	ItemPassive_Unique_Ring_001_x1	空灵之音	这枚戒指会不时地对附近的敌人施放蚀魂。
+247797	ItemPassive_Unique_Ring_004		这枚戒指偶尔会在你被击中时召唤出一只盗宝地精。
+248763	ItemPassive_Unique_Ring_015		这枚戒指偶尔会在你攻击时召唤一具骷髅。
+360492	ItemPassive_Unique_Ring_015_x1		这枚戒指偶尔会在你攻击时召唤一具骷髅。
+248537	ItemPassive_Unique_Ring_020	生命吸取	吸取周围敌人的生命力。
+364340	ItemPassive_Unique_Ring_020_x1	生命吸取	吸取周围敌人的生命力。
+257586	ItemPassive_Unique_Ring_024	地狱火焰	攻击时有一定几率发射一枚地狱火爆炸球
+322975	ItemPassive_Unique_Ring_025_x1		每当你拾取金币时，会使你的金币和生命球拾取范围扩大1码，持续10秒，最多可叠加30次。
+434037	ItemPassive_Unique_Ring_500_p2	刀锋磨带	
+318241	ItemPassive_Unique_Ring_500_x1	刀锋磨带	拾取生命球会造成爆破冲击，对20码内的敌人造成 {c_magic}[{VALUE1}*100]%{/c_magic} 的武器伤害（作为火焰伤害）。
+318300	ItemPassive_Unique_Ring_501_x1		召唤恶狼战宠时会召唤出3只恶狼。
+318346	ItemPassive_Unique_Ring_502_x1		变形成天使或恶魔的东西。
+318347	ItemPassive_Unique_Ring_503_x1		你从你正在与之战斗的一群敌人中吸收了一项属性。
+318348	ItemPassive_Unique_Ring_504_x1		在使用影轮翻之后，留下一个你自身的克隆体。
+318349	ItemPassive_Unique_Ring_505_x1		你造成的冰霜伤害最高有 {c_magic}[{VALUE1}*100]%{/c_magic} 的几率冰冻敌人。
+318351	ItemPassive_Unique_Ring_506_x1		使火焰元素效果的持续时间翻倍。
+318358	ItemPassive_Unique_Ring_507_x1		可在4秒内再次使用天罚之剑，然后再触发冷却时间。
+318359	ItemPassive_Unique_Ring_508_x1	狂君权杖	在消灭10个敌人后，你会释放出剧毒新星，对30码内的敌人造成 {c_magic}[{VALUE1}*100]%{/c_magic} 的武器伤害（作为毒性伤害）。
+318360	ItemPassive_Unique_Ring_509_x1		受到你伤害的敌人会被自动打上死亡印记。
+318371	ItemPassive_Unique_Ring_510_x1		你同时可拥有一只额外的多头蛇。
+318372	ItemPassive_Unique_Ring_511_x1		消灭敌人时有一定几率吸取其灵魂。当灵魂被拽向你时，它会治疗你10%的最大生命值和最大法力值。
+318374	ItemPassive_Unique_Ring_512_x1		为某个技能启用所有符文。
+326968	ItemPassive_Unique_Ring_513_AI_Pickup_x1		
+318375	ItemPassive_Unique_Ring_513_x1		召唤一只盗宝地精，为你拾取普通品质的物品。在拾取 {c_magic}{VALUE1}{/c_magic} 件物品后，他会掉落一件稀有物品，且有一定几率掉落传奇物品。
+318376	ItemPassive_Unique_Ring_514_x1		使时间延缓的冷却时间缩短 {c_magic}[{VALUE1} * 100]%{/c_magic}。
+318377	ItemPassive_Unique_Ring_515_x1		装备在追随者身上：可使用所有技能。
+318378	ItemPassive_Unique_Ring_516_x1		当你受到致命伤害时，你会恢复生命值上限和能量的100%。该物品同时会被摧毁。
+318379	ItemPassive_Unique_Ring_517_x1		元素箭现在可生成 {c_magic}{VALUE1}{/c_magic} 点憎恨值。
+318380	ItemPassive_Unique_Ring_518_x1		影轮翻消耗 8 点憎恨值，而非戒律值。
+318381	ItemPassive_Unique_Ring_519_x1		阻挡所有奥术伤害，并为你恢复相当于阻挡伤害 {c_magic}[{VALUE1}*100]%{/c_magic} 的生命值。
+318382	ItemPassive_Unique_Ring_520_x1		击中时有一定几率召唤出一群凶残的奶牛。
+318383	ItemPassive_Unique_Ring_521_x1		圣坛效果持续10分钟。
+318384	ItemPassive_Unique_Ring_522_x1		攻击有一定几率射出一个鬼影生物，造成伤害和击退效果。
+318385	ItemPassive_Unique_Ring_523_x1		在你消灭2个精英敌人之后，召唤一支鬼娃大军。
+318386	ItemPassive_Unique_Ring_524_x1		当装备近战武器时，你的伤害提高 [{VALUE1}*100]%。
+318410	ItemPassive_Unique_Ring_525_x1		你消灭的敌人有额外 {c_magic}[{VALUE1}*100]%{/c_magic} 的几率掉落一颗生命球。
+318411	ItemPassive_Unique_Ring_526_x1		宠物造成的伤害提高 {c_magic}[{VALUE1}*100]%{/c_magic}。
+318412	ItemPassive_Unique_Ring_527_x1	斯塔加德的屠戮者	你的近战攻击会朝一名附近的敌人掷出一柄穿刺战斧，造成 {c_magic}[{VALUE1}*100]%{/c_magic} 的武器伤害（作为物理伤害）。
+318417	ItemPassive_Unique_Ring_528_x1		使裂地斩的怒气消耗降低 {c_magic}[{VALUE1}*100]%{/c_magic}。
+318418	ItemPassive_Unique_Ring_529_x1		跳斩落地时产生地震效果。此外，跳斩获得泰山压顶符文效果，符文效果和持续时间提高 [{VALUE1}*100]%。
+318419	ItemPassive_Unique_Ring_530_x1		使无视苦痛的持续时间延长 {c_magic}{VALUE1}{/c_magic}。
+318420	ItemPassive_Unique_Ring_531_x1		当受到致命伤害时，你会自动施放烟雾弹，并恢复至25%的生命值。该效果每 {VALUE1} 秒只能生效一次。
+318421	ItemPassive_Unique_Ring_532_x1		当你被击中时自动丢出铁蒺藜。该效果每6秒只能生效一次。
+318423	ItemPassive_Unique_Ring_533_x1		扫射获得暗影游移符文的效果。
+318426	ItemPassive_Unique_Ring_534_x1	知识之眼	神龙摆尾释放出一发穿刺火球，对击中点附近 10 码内的敌人造成 {c_magic}[{VALUE1}*100]%{/c} 的武器伤害（作为火焰伤害）。
+318427	ItemPassive_Unique_Ring_535_x1		使冲心拳的打击范围翻倍。
+318428	ItemPassive_Unique_Ring_536_x1		使用眩目闪恢复 {c_magic}{VALUE1}{/c_magic} 点内力。
+318430	ItemPassive_Unique_Ring_537_x1		风雷冲获得顺风而行符文的效果。
+318431	ItemPassive_Unique_Ring_538_x1		使回天息的冷却时间缩短 {c_magic}[{VALUE1}*100]%{/c_magic}。
+318432	ItemPassive_Unique_Ring_539_x1		当疾风击击中 {c_magic}{VALUE1}{/c_magic} 码之外的敌人时，会返还使用次数。
+318433	ItemPassive_Unique_Ring_540_x1		爆裂掌的死亡爆破伤害提高 {c_magic}[{VALUE1}*100]%{/c_magic}。
+318434	ItemPassive_Unique_Ring_541_x1		你的内力生成技能生成的内力提高 {c_magic}[{VALUE1}*100]%{/c_magic}。
+318435	ItemPassive_Unique_Ring_542_x1	惩戒真言	同时获得全部 4 种真言的基本效果。
+318436	ItemPassive_Unique_Ring_543_x1		<NYI>
+318715	ItemPassive_Unique_Ring_544_x1		抵挡所有冰霜伤害，并为你自己恢复相当于抵挡伤害 {c_magic}[{VALUE1}*100]%{/c_magic} 的生命值。
+318716	ItemPassive_Unique_Ring_545_x1		抵挡所有火焰伤害，并为你自己恢复相当于抵挡伤害 {c_magic}[{VALUE1}*100]%{/c_magic} 的生命值。
+318717	ItemPassive_Unique_Ring_546_x1		抵挡所有神圣伤害，并为你自己恢复相当于抵挡伤害 {c_magic}[{VALUE1}*100]%{/c_magic} 的生命值。
+318718	ItemPassive_Unique_Ring_547_x1		抵挡所有闪电伤害，并为你自己恢复相当于抵挡伤害 {c_magic}[{VALUE1}*100]%{/c_magic} 的生命值。
+318719	ItemPassive_Unique_Ring_548_x1		抵挡所有毒性伤害，并为你自己恢复相当于抵挡伤害 {c_magic}[{VALUE1}*100]%{/c_magic} 的生命值。
+318720	ItemPassive_Unique_Ring_549_x1		僵尸犬被召唤时，可使附近的敌人昏迷1.5秒。
+318721	ItemPassive_Unique_Ring_550_x1		你受到的 {c_magic}[{VALUE1}*100]%{/c_magic} 的伤害会转移到你的僵尸犬身上。
+318722	ItemPassive_Unique_Ring_551_x1		灵魂行走持续到你发起攻击或在你附近30码内出现敌人为止。
+318724	ItemPassive_Unique_Ring_552_x1		每当你的鬼娃造成伤害时，即可使你的鬼娃大军和巫毒狂舞的冷却时间缩短1秒。
+318730	ItemPassive_Unique_Ring_553_x1		生命球有X%的几率使你获得能力强化。
+318731	ItemPassive_Unique_Ring_554_x1		使你宠物的攻击速度提高 {c_magic}[{VALUE1}*100]%{/c_magic}。
+318732	ItemPassive_Unique_Ring_555_x1		尸蛛击中后会放出蜘蛛网，使敌人减速  {c_magic}[{VALUE1}*100]%{/c_magic}。
+318733	ItemPassive_Unique_Ring_556_x1		传送获得虫洞符文的效果。
+318734	ItemPassive_Unique_Ring_557_x1		魔法飞弹发射出额外 {c_magic}{VALUE1}{/c_magic} 发飞弹。
+318740	ItemPassive_Unique_Ring_558_x1		使你电刑弹跳击中的敌人数量翻倍。
+318741	ItemPassive_Unique_Ring_559_x1		免疫冰冻和定身效果。
+434008	ItemPassive_Unique_Ring_560_p2		击中时有一定几率生成混乱力场，使敌人被致盲并减速，持续 {c_magic}{VALUE1}{/c_magic} 秒。
+318742	ItemPassive_Unique_Ring_560_x1		击中时有一定几率生成混乱力场，使敌人被致盲并减速，持续 {c_magic}{VALUE1}{/c_magic} 秒。
+318743	ItemPassive_Unique_Ring_561_x1	闪电新星	当你的奥能低于30%时，你会释放出闪电新星，每秒造成 {c_magic}[{VALUE1}*100]%{/c_magic} 的武器伤害（作为闪电伤害）。
+318744	ItemPassive_Unique_Ring_562_x1		当你首次击中敌人时，使其昏迷 2 秒。
+318745	ItemPassive_Unique_Ring_563_x1		使敌人陷入昏迷后，你造成的伤害提高。
+318746	ItemPassive_Unique_Ring_564_x1		在成功格挡一次攻击后，你造成的伤害提高15%，持续3秒。
+318747	ItemPassive_Unique_Ring_565_x1		你从被格挡的攻击中受到的伤害降低 {c_magic}[{VALUE1}*100]%{/c_magic}。
+318748	ItemPassive_Unique_Ring_566_x1		暴击有一定几率提高攻击速度和移动速度。
+318749	ItemPassive_Unique_Ring_567_x1		当你或你的宠物被击中时，有一定几率使敌人陷入混乱，持续 {c_magic}{VALUE1}{/c_magic} 秒。
+318750	ItemPassive_Unique_Ring_568_x1		敌人的飞弹有时会毫发无伤地穿过你。
+318751	ItemPassive_Unique_Ring_569_x1	柯克吉的不屈精神	对敌人造成伤害时有一定几率使你的技能不消耗内力，持续 {c_magic}{VALUE1}{/c_magic} 秒。
+318752	ItemPassive_Unique_Ring_570_x1		对被减速或昏迷目标造成的伤害提高15% 。
+318753	ItemPassive_Unique_Ring_571_x1		对精英敌人造成的伤害提高 {c_magic}[{VALUE1}*100]%{/c_magic}。
+318754	ItemPassive_Unique_Ring_572_x1		消灭敌人时有一定几率使造成的伤害提高4%，持续5秒，最多可叠加5次。
+318755	ItemPassive_Unique_Ring_573_x1		使控制类限制效果的持续时间缩短75% 。
+318756	ItemPassive_Unique_Ring_574_x1		当你成功格挡一次攻击时，格挡下两次攻击的几率为100% 。
+318757	ItemPassive_Unique_Ring_575_x1		当你消灭一名亡灵敌人时，为你恢复你损失生命值的 {c_magic}[{VALUE1}*100]%{/c_magic}。
+318758	ItemPassive_Unique_Ring_576_x1		每当你射出一发剧毒飞镖时，离你最近的 5 个鬼娃也会射出一发毒镖。
+318759	ItemPassive_Unique_Ring_577_x1		击中时有一定几率将敌人拉到你的目标身边，并使其减速 {c_magic}[{VALUE1}*100]%{/c_magic}。
+318760	ItemPassive_Unique_Ring_578_x1		先祖召唤持续到他们死亡为止。
+318761	ItemPassive_Unique_Ring_579_x1		你可以在敌人当中不受阻碍地移动。
+318762	ItemPassive_Unique_Ring_580_x1		你在一次攻击中每消耗 {VALUE1} 点怒气即可使地震、山崩地裂、跳斩、大地践踏的冷却时间缩短 1 秒。
+318763	ItemPassive_Unique_Ring_581_x1	雷霆之怒，逐风者的祝福之刃	击中时有一定几率用闪电冲击敌人，造成 {c_magic}[{VALUE1}*100]%{/c_magic} 的武器伤害（作为闪电伤害），然后弹跳到附近的敌人身上。每个被命中的敌人攻击和移动速度降低 30% ，持续 3 秒。最多可弹跳到 5 个目标身上。
+318764	ItemPassive_Unique_Ring_582_x1		使闪电元素效果弹跳的敌人数量翻倍。
+318765	ItemPassive_Unique_Ring_583_x1		使毒性元素效果造成的伤害翻倍。
+318766	ItemPassive_Unique_Ring_584_x1		使奥术元素效果魅惑敌人的几率翻倍。
+318767	ItemPassive_Unique_Ring_585_x1		使神圣元素效果的治疗量翻倍。
+318768	ItemPassive_Unique_Ring_586_x1	骨疽	被你的主要技能，酸蚀之云、火蝠、僵尸死士、僵尸犬、僵尸巨兽、亡者之握、食人鱼、或亡者之墙命中的敌人受到骨疽的影响，移动速度降低，每秒受到 [{VALUE1}*100]% 的武器伤害，并且从你的攻击中受到的伤害提高 20% ，持续 10 秒。
+318769	ItemPassive_Unique_Ring_587_x1	团结	受到的所有伤害由该物品的佩戴者分担。
+318770	ItemPassive_Unique_Ring_588_x1		25码内每个陷入昏迷的敌人，都会使你受到的伤害降低 {c_magic}[{VALUE1}*100]%{/c_magic}。
+318771	ItemPassive_Unique_Ring_589_x1		每当你摧毁一个可破坏物时，你就会获得短时间的速度提升。
+318772	ItemPassive_Unique_Ring_590_x1		被击退的敌人受到的伤害提高 {c_magic}[{VALUE1}*100]%{/c_magic}，持续6秒。
+318773	ItemPassive_Unique_Ring_591_x1		威吓呐喊有一定几率魅惑敌人，并使其为你战斗。
+318774	ItemPassive_Unique_Ring_592_x1		惧灵会恐惧并定身你周围的敌人，持续 {c_magic}{VALUE1}{/c_magic} 秒。
+318775	ItemPassive_Unique_Ring_593_x1		电刑可跳到已经被击中的敌人身上。
+318776	ItemPassive_Unique_Ring_594_x1		使金钟破的内力消耗降低 {c_magic}[{VALUE1} * 100]%{c_magic}。
+318777	ItemPassive_Unique_Ring_595_x1		当你的镜像被敌人消灭时，有一定几率复制出更多镜像。
+318778	ItemPassive_Unique_Ring_596_x1		你的鬼娃大军会持续到死亡为止，且冷却时间缩短 80% 。
+434006	ItemPassive_Unique_Ring_597_p2		当生命值低于 {c_magic}[{VALUE1}*100]%{/c_magic} 时，所有攻击必定暴击，持续4秒。
+318779	ItemPassive_Unique_Ring_597_x1		当生命值低于 {c_magic}[{VALUE1}*100]%{/c_magic} 时，所有攻击必定暴击。
+318780	ItemPassive_Unique_Ring_598_x1		你的荆棘伤害现在会击中 15 码范围内的所有敌人。
+318781	ItemPassive_Unique_Ring_599_x1		NYI
+318782	ItemPassive_Unique_Ring_600_x1		当你使一名敌人陷入昏迷时，召唤暗影分身为你作战。该效果每 {VALUE1} 秒只能生效一次。
+318783	ItemPassive_Unique_Ring_601_x1		NYI
+318784	ItemPassive_Unique_Ring_602_x1		你的尖刺陷阱将把敌人吸引至其跟前。敌人每 {c_magic}{VALUE1}{/c_magic} 秒可能会被嘲讽一次。
+318785	ItemPassive_Unique_Ring_603_x1		NYI
+318786	ItemPassive_Unique_Ring_604_x1		冰霜多头蛇现在会周期性地施放出冰霜新星。
+318787	ItemPassive_Unique_Ring_605_x1		奥术洪流立即在地面布满地雷。
+318788	ItemPassive_Unique_Ring_606_x1		当你低于35%生命时自动施放钻石体肤。该效果每 {c_magic}{VALUE1}{/c_magic} 秒只能生效一次。
+318789	ItemPassive_Unique_Ring_607_x1		施放聚能爆破后将触发3次额外的爆炸。
+318790	ItemPassive_Unique_Ring_608_x1		使所有火焰技能的能量消耗降低 {c_magic}[{VALUE1}*100]%{/c_magic}。
+318791	ItemPassive_Unique_Ring_609_x1		次级敌人现在将被吸到你的陨石术的轰击区域。
+318792	ItemPassive_Unique_Ring_610_x1		能量气旋现在沿着直线前进。
+318793	ItemPassive_Unique_Ring_611_x1	冰霜新星	被冰霜伤害消灭的敌人有 {c_magic}[{VALUE1}*100]%{/c_magic} 的几率释放一次冰霜新星。
+441681	ItemPassive_Unique_Ring_612_p3	怒雷	闪电伤害有一定几率将敌人变成引雷针，使他们在 6 秒内每秒对周围的敌人造成 {c_magic}[{VALUE1}*100]%{/c_magic} 的武器伤害（作为闪电伤害）。
+318794	ItemPassive_Unique_Ring_612_x1	怒雷	闪电伤害有一定几率将敌人变成引雷针，使他们在6秒内每秒对周围的敌人造成 {c_magic}[{VALUE1}*100]%{/c_magic} 武器伤害（作为闪电伤害）。
+318795	ItemPassive_Unique_Ring_613_x1		被黑洞伤害的敌人其速度降低 {c_magic}[{VALUE1}*100]%{/c_magic}，持续3秒。
+318796	ItemPassive_Unique_Ring_614_x1		瘟疫虫群与蚀魂造成伤害的持续时间减半。
+318797	ItemPassive_Unique_Ring_615_x1		治疗之井恢复所有能量并且使所有冷却时间缩短 {c_magic}{VALUE1}{/c_magic} 秒。
+318798	ItemPassive_Unique_Ring_616_x1		在获得存活奖励后，会快速回满生命值。
+318799	ItemPassive_Unique_Ring_617_x1		当获得一次大歼灭奖励后，金币会如雨般的从天倾降。
+318800	ItemPassive_Unique_Ring_618_x1		瘟疫虫群同时使敌人减速 {c_magic}[{VALUE1}*100]%{/c_magic}。
+318801	ItemPassive_Unique_Ring_619_x1		受到伤害不会再打断你施放城镇传送门。当施放城镇传送门时，你会获得一个防护气泡，使受到的伤害降低 {c_magic}[{VALUE1}*100]%{/c_magic}。
+318802	ItemPassive_Unique_Ring_620_x1		流星索现在会立即爆炸。
+318803	ItemPassive_Unique_Ring_621_x1		刀扇获得刃扇符文的效果。
+318804	ItemPassive_Unique_Ring_622_x1		你可以拥有额外2个箭塔。
+318805	ItemPassive_Unique_Ring_623_x1		追踪箭的穿透几率提高 {c_magic}[{VALUE1}*100]%{/c_magic}。
+318806	ItemPassive_Unique_Ring_624_x1		召唤僵尸犬现在会召唤出一只巨犬，造成的伤害和生命值比所有其它僵尸犬加起来还要高。
+318807	ItemPassive_Unique_Ring_625_x1		上古之矛现在会把你拉到命中的第一个敌人身边。该效果取代拖拽敌人的符文效果。
+318808	ItemPassive_Unique_Ring_626_x1		亡者之握获得天降尸雨符文的效果。
+318809	ItemPassive_Unique_Ring_627_x1		周期性地获得一道护盾，吸收并反弹远程攻击。
+318810	ItemPassive_Unique_Ring_628_x1		跳斩可在 2 秒内最多施放三次，然后才触发冷却时间。
+318811	ItemPassive_Unique_Ring_629_x1		金钟破现在可对你的敌人施放。
+318812	ItemPassive_Unique_Ring_630_x1		蟾蜍之疫现在会追踪敌人，并爆炸两次。
+318813	ItemPassive_Unique_Ring_631_x1		影轮翻获得霹雳翻滚符文的效果。
+318814	ItemPassive_Unique_Ring_632_x1		当你生命值低于20%时，使你回满生命值和能量。
+318815	ItemPassive_Unique_Ring_633_x1		生命药水的 {c_magic}[{VALUE1}*100]%{/c_magic} 效果同样作用于同伴身上。
+318816	ItemPassive_Unique_Ring_634_x1		成功格挡一次攻击有一定几率冰冻攻击者 {c_magic}[{VALUE1}|1|]{/c_magic} 秒。
+318817	ItemPassive_Unique_Ring_635_x1		移动时你的能量生成速度和造成的伤害提高25%，静止不动时降低 {c_magic}[{VALUE1}*100]%{/c_magic} 。
+318818	ItemPassive_Unique_Ring_636_x1		生命球恢复你主要能量的 {c_magic}[{VALUE1}*100]%{/c_magic}。
+318819	ItemPassive_Unique_Ring_637_x1		该世界地图始终显现。
+318820	ItemPassive_Unique_Ring_638_x1		点击圣坛和水晶塔会出现一名敌人勇士。
+318821	ItemPassive_Unique_Ring_639_x1		使用战吼可使你和所有受影响同伴的移动速度提高 {c_magic}[{VALUE1}*100]%{/c_magic}，持续10秒。
+318822	ItemPassive_Unique_Ring_640_x1		完成一次事件可获得特殊奖励。
+318823	ItemPassive_Unique_Ring_641_x1		被击中时有一定几率召唤出一座防护水晶塔。
+318824	ItemPassive_Unique_Ring_642_x1		金轮阵使每秒恢复的内力提高 {c_magic}{VALUE1}{/c_magic} 点。
+434004	ItemPassive_Unique_Ring_643_p2		格挡有一定几率召唤出一只冲锋的战狼，对它沿途遇到的所有敌人造成 {c_magic}[{VALUE1}*100]%{/c_magic} 的武器伤害。
+318825	ItemPassive_Unique_Ring_643_x1		格挡有一定几率召唤出一只冲锋的战狼，对它沿途遇到的所有敌人造成 {c_magic}[{VALUE1}*100]%{/c_magic} 的武器伤害。
+318826	ItemPassive_Unique_Ring_644_x1	碎魂	每当你消灭一名敌人时，敌人的尸体会爆炸，对 20 码内的所有敌人造成相当于你消灭回复生命 {c_magic}[{VALUE1}*100]%{/c_magic} 的伤害。你从每次消灭中不再获得生命值。
+318827	ItemPassive_Unique_Ring_645_x1	死神赌注	获得一道死亡光环，对 16 码内的敌人造成相当于你每秒回复生命 {c_magic}[{VALUE1}*100]%{/c_magic} 的伤害。你不再回复生命值。
+318828	ItemPassive_Unique_Ring_646_x1		击中有 {c_magic}[{VALUE1}*100]%{/c_magic} 的几率召唤出尖刺陷阱、铁蒺藜或箭塔。
+318829	ItemPassive_Unique_Ring_647_x1		格挡攻击为你和同伴恢复相当于格挡伤害量 {c_magic}[{VALUE1}*100]%{/c_magic} 的生命值。
+434022	ItemPassive_Unique_Ring_648_p2		在恐惧持续期间被消灭的敌人会血腥爆炸，造成800%武器伤害并使附近的敌人因恐惧而逃跑。
+318830	ItemPassive_Unique_Ring_648_x1		在恐惧持续期间被消灭的敌人会血腥爆炸，使附近其他敌人因恐惧而逃跑。
+318831	ItemPassive_Unique_Ring_649_x1		使七相拳的冷却时间缩短 {c_magic}[{VALUE1}*100]%{/c_magic}。
+318832	ItemPassive_Unique_Ring_650_x1		每个激活的箭塔使你的主要技能、元素箭、飞轮刃、暗影飞刀、多重射击、集束箭、战宠以及复仇所造成的伤害提高 [{VALUE1}*100]% 。
+434039	ItemPassive_Unique_Ring_651_p2	蚀魂	每当你打开一个箱子时，你就会对附近所有敌人施放蚀魂。
+318833	ItemPassive_Unique_Ring_651_x1	蚀魂	每当你打开一个箱子时，你就会对附近的5名敌人施放蚀魂。
+318834	ItemPassive_Unique_Ring_652_x1		每一名受到持续性伤害技能影响的敌人都会使你获得每秒恢复生命值上限 1% 的效果。
+318835	ItemPassive_Unique_Ring_653_x1		装备在追随者身上：你的追随者不会死。
+318849	ItemPassive_Unique_Ring_654_x1		击退会将敌人击飞。
+318850	ItemPassive_Unique_Ring_655_x1		移除祝福之盾的能量消耗。
+318851	ItemPassive_Unique_Ring_656_x1		使祝福之锤的体积增大。
+318852	ItemPassive_Unique_Ring_657_x1		链击现在会跳到额外3个敌人身上。
+318853	ItemPassive_Unique_Ring_658_x1		使天堂之怒的冷却时间缩短 {c_magic}[{VALUE1}*100]%{/c_magic}。
+318854	ItemPassive_Unique_Ring_659_x1		死亡印记使所有导弹锁定该敌人。
+318855	ItemPassive_Unique_Ring_660_x1		冰霜射线现在会穿透敌人。
+318856	ItemPassive_Unique_Ring_661_x1		你的每秒回复生命效果会变为一道光环，影响附近的所有同伴。
+318857	ItemPassive_Unique_Ring_662_x1		被亡灵敌人击中时有 {c_magic}[{VALUE1}*100]%{/c_magic} 的几率魅惑该敌人2秒。
+318858	ItemPassive_Unique_Ring_663_x1		你的物品变为不可摧毁。
+434007	ItemPassive_Unique_Ring_664_p2		当精英怪群第一次对你造成伤害时，你获得一道伤害吸收护盾，可吸收你最大生命值 {c_magic}[{VALUE1}*100]%{/c_magic} 的伤害，持续10秒。
+318860	ItemPassive_Unique_Ring_664_x1		当12码内有5名以上的敌人时，你获得一道伤害吸收护盾，可吸收你最大生命值的 {c_magic}[{VALUE1}*100]%{/c_magic}，持续6秒。该效果每30秒只能生效一次。
+318861	ItemPassive_Unique_Ring_665_x1		基于你损失的生命值来提高你的每秒回复生命，最多可提高 {c_magic}[{VALUE1}*100]%{/c_magic}。
+318862	ItemPassive_Unique_Ring_666_x1		当敌人被神圣伤害消灭后，你有一定几率对同伴施放金轮阵。
+318863	ItemPassive_Unique_Ring_667_x1		当你消灭一个堕落者时，有 {c_magic}[{VALUE1}*100]%{/c_magic} 的几率魅惑附近所有其它堕落者。
+318864	ItemPassive_Unique_Ring_668_x1		击中有 20% 的几率立即对被冰冻的敌人造成 {c_magic}[{VALUE1}*100]%{/c_magic} 的武器伤害（作为冰霜伤害）。
+318865	ItemPassive_Unique_Ring_669_x1		受到火焰伤害可恢复你的主要能量。
+434036	ItemPassive_Unique_Ring_670_p2		闪电伤害有 {c_magic}[{VALUE1}*100]%{/c_magic} 的几率使敌人昏迷1.5秒。
+318866	ItemPassive_Unique_Ring_670_x1		闪电伤害有 {c_magic}[{VALUE1}*100]%{/c_magic} 的几率使敌人昏迷1.5秒。
+318867	ItemPassive_Unique_Ring_671_x1		使昏迷效果的持续时间延长 {c_magic}[{VALUE1}*100]%{/c_magic}。
+318868	ItemPassive_Unique_Ring_672_x1		消灭恶魔有一定几率获得一个随机圣坛效果。
+318869	ItemPassive_Unique_Ring_673_x1		每次攻击附加你荆棘伤害的 {c_magic}[{VALUE1}*100]%{/c_magic}。
+318870	ItemPassive_Unique_Ring_674_x1		在恐惧一名敌人后，移动速度提高 {c_magic}[{VALUE1}*100]%{/c_magic}，持续4秒。
+318871	ItemPassive_Unique_Ring_675_x1		当你致盲一名敌人时，有 {c_magic}[{VALUE1}*100]%{/c_magic} 的几率生成一个奈非天之耀的能量球。
+318872	ItemPassive_Unique_Ring_676_x1		击退使敌人的移动速度降低。
+318873	ItemPassive_Unique_Ring_677_x1		暴击有 {c_magic}[{VALUE1}*100]%{/c_magic} 的几率生成一个生命球。
+318874	ItemPassive_Unique_Ring_678_x1		你的远程攻击投射物移动得更快了。
+318875	ItemPassive_Unique_Ring_679_x1		拾取金币时：在5秒内获得额外的护甲值，相当于拾取的金币总量。
+318876	ItemPassive_Unique_Ring_680_x1		暗影之力获得每个符文的效果，并且永久持续。
+434012	ItemPassive_Unique_Ring_681_p2		
+318877	ItemPassive_Unique_Ring_681_x1		基于你损失的生命值，最多提高 {c_magic}[{VALUE1}*100]%{/c_magic} 的移动速度。
+318878	ItemPassive_Unique_Ring_682_x1		偶尔会嘲讽附近的恶魔，迫使它们无脑地攻击你。
+318879	ItemPassive_Unique_Ring_683_x1		每隔 {c_magic}{VALUE1}{/c_magic} 秒击退附近的敌人一次。
+318880	ItemPassive_Unique_Ring_684_x1		荆棘现在造成火焰伤害。
+318881	ItemPassive_Unique_Ring_685_x1		打开箱子可使伤害提高 {c_magic}[{VALUE1}*100]%{/c_magic}，持续10秒。
+318882	ItemPassive_Unique_Ring_686_x1	追踪导弹	成功躲闪或被远程攻击命中时，会朝攻击者自动射出一发追踪导弹，造成 {c_magic}[{VALUE1}*100]%{/c_magic} 的武器伤害（作为物理伤害）。
+318883	ItemPassive_Unique_Ring_687_x1		祝福之盾会弹射到额外 {c_magic}{VALUE1}{/c_magic}名敌人身上。
+318884	ItemPassive_Unique_Ring_688_x1		盾闪现在会击中你身边的所有敌人。
+318885	ItemPassive_Unique_Ring_689_x1		使盾牌猛击消耗的愤怒值降低 {c_magic}[{VALUE1} * 100]%{/c_magic}。
+318886	ItemPassive_Unique_Ring_690_x1		受到挑衅影响的敌人，从荆棘中受到的伤害翻倍。
+318887	ItemPassive_Unique_Ring_691_x1		钢铁之肤同时使你的格挡量提高 {c_magic}[{VALUE1}*100]%{/c_magic}。
+318888	ItemPassive_Unique_Ring_692_x1		每次成功格挡都有 {c_magic}[{VALUE1}*100]%{/c_magic} 的几率使所有冷却时间缩短1秒。
+318889	ItemPassive_Unique_Ring_693_x1		盾牌猛击不再使你朝敌人冲锋。
+318890	ItemPassive_Unique_Ring_694_x1		基于你当前的愤怒值，格挡时你有 {c_magic}[{VALUE1}*100]%{/c_magic} 的几率使攻击者昏迷1.5秒。
+318891	ItemPassive_Unique_Ring_695_x1		使用双手武器时，造成的伤害提高10% 。
+318892	ItemPassive_Unique_Ring_696_x1		链击现在会对附近的第二个敌人施放。
+318893	ItemPassive_Unique_Ring_697_x1		天堂之拳有 {c_magic}[{VALUE1}*100]%{/c_magic} 的几率同时在你的位置施放。
+318894	ItemPassive_Unique_Ring_698_x1		奉献同时会施放在你所有同伴脚下。
+318895	ItemPassive_Unique_Ring_699_x1		祝福之锤获得统御之锤符文的效果。
+359537	ItemPassive_Unique_Ring_700_x1		使战马冲锋的持续时间翻倍。
+359538	ItemPassive_Unique_Ring_701_x1		施放正义使你的移动速度提高 {c_magic}[{VALUE1}*100]%{/c_magic}，持续2秒。
+359539	ItemPassive_Unique_Ring_702_x1		移除祝福之盾的能量消耗。
+359540	ItemPassive_Unique_Ring_703_x1		两个被天谴的敌人同时会触发天谴爆炸。
+359545	ItemPassive_Unique_Ring_704_x1		在阿卡拉特勇士持续期间被消灭的敌人会被转化为斗阵化身，持续10秒。
+359546	ItemPassive_Unique_Ring_705_x1		横扫每击中一名敌人会恢复 {c_magic}{VALUE1}{/c_magic} 点愤怒值。
+359550	ItemPassive_Unique_Ring_706_x1		每隔60秒，获得一种随机律法，持续60秒。
+359552	ItemPassive_Unique_Ring_707_x1		获得额外2道天堂之怒的光束。
+359553	ItemPassive_Unique_Ring_708_x1		轰击的数量翻倍。
+359554	ItemPassive_Unique_Ring_709_x1		复仇之雨还会召唤一只撞击野兽，造成 {c_magic}[{VALUE1}*100]%{/c} 武器伤害。
+359555	ItemPassive_Unique_Ring_710_x1		对敌人造成奥术、冰霜、火焰或闪电伤害时，会使一枚相同伤害类型的陨石从天而降。每种伤害类型有8秒的冷却时间。
+359556	ItemPassive_Unique_Ring_711_x1		你免疫亵渎者、熔火和染疫怪物的地面效果。
+359557	ItemPassive_Unique_Ring_712_x1		拾取金币可获得经验值。
+359558	ItemPassive_Unique_Ring_713_x1		攻击会使你的追随者不时地来协助你。
+359559	ItemPassive_Unique_Ring_714_x1		有一定几率触发恶魔法术。
+359560	ItemPassive_Unique_Ring_715_x1		掉落的死亡之息数量增加 1 个。
+359561	ItemPassive_Unique_Ring_716_x1		施放战宠技能将会召唤所有战宠到你身边。
+359562	ItemPassive_Unique_Ring_717_x1		当你施放元素箭、飞轮刃、暗影飞刀、多重射击或集束箭时，箭塔也会同步施放并且造成的伤害提高 [{VALUE1}*100]%。
+359563	ItemPassive_Unique_Ring_718_x1		狂暴冲撞获得每个符文的效果，并且造成的伤害提高 [{VALUE1}*100]%。
+359564	ItemPassive_Unique_Ring_719_x1		狂暴冲撞获得无情突袭符文的效果。
+359565	ItemPassive_Unique_Ring_720_x1		狂暴冲撞获得持久战力符文的效果。
+359566	ItemPassive_Unique_Ring_721_x1		狂暴冲撞获得公牛冲锋符文的效果。
+359567	ItemPassive_Unique_Ring_722_x1		狂暴冲撞获得势不可挡符文的效果。
+359568	ItemPassive_Unique_Ring_723_x1		当装备降魔杖时，所有伤害提高20% 。
+425390	ItemPassive_Unique_Ring_724_SpawnDecoy_x1	孙武空的分身	
+359569	ItemPassive_Unique_Ring_724_x1	孙武空的分身	施放飓风破、爆裂掌、神龙摆尾、风雷冲或金钟破时，会生成一个替身嘲讽附近的敌人，然后爆炸造成 [{VALUE1} * 100]% 的武器伤害。
+359570	ItemPassive_Unique_Ring_725_x1	闪电风暴	在使用疾风击之后，你的疾风击会震击附近的所有敌人，造成 [{VALUE1}*100]% 的武器伤害（作为闪电伤害）。
+359573	ItemPassive_Unique_Ring_726_x1		灵魂收割吞噬你在敌人身上留下的持续性伤害效果，立即造成相当于剩余伤害持续 300 秒的伤害。
+359574	ItemPassive_Unique_Ring_727_x1		御法者获得每个符文的效果。
+359576	ItemPassive_Unique_Ring_728_x1		御法者获得时间延缓符文的效果。
+359577	ItemPassive_Unique_Ring_729_x1		御法者获得传送符文的效果。
+359578	ItemPassive_Unique_Ring_730_x1		御法者获得纯净能量符文的效果。
+359579	ItemPassive_Unique_Ring_731_x1		御法者获得奥能爆发符文的效果。
+359580	ItemPassive_Unique_Ring_732_x1		当你死亡时，一颗陨石从天而降并复活你。该效果有 60 秒的冷却时间。
+359581	ItemPassive_Unique_Ring_733_x1	凤凰烈焰	使用你的技能造成火焰伤害时，会使敌人每秒承受 1000% 的武器伤害（作为火焰伤害），持续 3 秒。该效果可以使用不同的技能来重复第二次和第三次。如果一名敌人同时受到三种不同的技能而燃烧则会被点燃，每秒承受 3000% 的伤害直至其死亡。
+359582	ItemPassive_Unique_Ring_734_x1		每当你消耗主要能量时，你的攻击速度、伤害以及护甲值提高 [{VALUE1}*100]%，持续 5 秒。该效果最多可叠加 5 次。
+359583	ItemPassive_Unique_Ring_735_x1		当你的能量生成技或主要技能击中敌人时，造成的所有伤害提高 [{VALUE1}*100]%，持续 5 秒。
+359584	ItemPassive_Unique_Ring_736_x1		当阿卡拉特勇士激活时，使所有技能的消耗降低50%。
+359585	ItemPassive_Unique_Ring_737_x1		使阿卡拉特勇士的冷却时间缩短50%。
+359586	ItemPassive_Unique_Ring_738_x1		移除召唤僵尸犬的冷却时间。
+359587	ItemPassive_Unique_Ring_739_x1		元素技能有一定几率触发强力攻击，造成 {c_magic}[{VALUE1}*100]%{/c_magic} 的武器伤害：<br>  {icon:bullet}冰霜技能触发冰冻颅骨<br>  {icon:bullet}毒性技能触发剧毒新星<br>  {icon:bullet}闪电技能触发闪电霹雳
+359589	ItemPassive_Unique_Ring_740_x1		
+359591	ItemPassive_Unique_Ring_741_x1		你对击退和昏迷效果免疫。
+359593	ItemPassive_Unique_Ring_742_x1		痛割在同个敌人身上最多可以叠加至2次。
+359594	ItemPassive_Unique_Ring_743_x1		使镶入头盔中的任何宝石的作用提高 {c_magic}[{VALUE1}*100]%{/c_magic} 。该效果对传奇宝石无效。
+359597	ItemPassive_Unique_Ring_744_x1		拾取金币为你恢复生命值，治疗量相当于你拾取的金币数量。
+359598	ItemPassive_Unique_Ring_745_x1	闪电	在佩戴这件物品的所有角色之间周期性地放射出闪电，造成 {c_magic}[{VALUE1}*100]%{/c_magic} 的武器伤害。
+359601	ItemPassive_Unique_Ring_746_x1		能量护甲、寒冰护甲和风暴护甲影响所有小队成员。
+359602	ItemPassive_Unique_Ring_747_x1		奔跑速度提高25% 。该效果会在受到伤害5秒后消失。
+359604	ItemPassive_Unique_Ring_748_x1		装备在追随者身上：使所有追随者技能的冷却时间缩短50% 。
+359605	ItemPassive_Unique_Ring_749_x1		元素箭 - 闪电球现在以 {c_magic}[{VALUE1}*100]%{/c_magic} 的速度前进。
+359606	ItemPassive_Unique_Ring_750_x1		飞轮刃现在可生成 {c_magic}{VALUE1}{/c_magic} 点憎恨值。
+397780	ItemPassive_Unique_Ring_751_x1		你每引导一秒，急速射击的伤害即可提高 {c_magic}[{VALUE1}*100]%{/c_magic}。最多可叠加 4 次。
+397781	ItemPassive_Unique_Ring_752_x1		奥术洪流立即布下一个雷区。
+434038	ItemPassive_Unique_Ring_753_p2		每次攻击都会朝附近一名敌人掷出一把飞刀，造成 {c_magic}[{VALUE1}*100]%{/c_magic} 的武器伤害（作为物理伤害）。
+397782	ItemPassive_Unique_Ring_753_x1		攻击有25%的几率朝附近一名敌人掷出一把飞刀，造成 {c_magic}[{VALUE1}*100]%{/c_magic} 的武器伤害（作为物理伤害）。
+397783	ItemPassive_Unique_Ring_754_x1		狂暴冲撞在冲锋时每击中一个敌人，造成的伤害即可提高 {c_magic}[{VALUE1}*100]%{/c_magic}。
+397784	ItemPassive_Unique_Ring_755_x1		流星索在爆炸时有 {c_magic}[{VALUE1}*100]%{/c_magic} 的几率将 24 码内的所有敌人拉过来。
+397785	ItemPassive_Unique_Ring_756_x1		拾取一枚宝石使你在20秒内获得该宝石的所有奖励效果。
+397786	ItemPassive_Unique_Ring_757_x1		能量气旋使闪电在当中弹射，每秒造成100% 的武器伤害。
+397787	ItemPassive_Unique_Ring_758_x1		旋风斩使所有远程攻击反弹到攻击者身上。
+397788	ItemPassive_Unique_Ring_759_x1		传送不再有冷却时间但要消耗25点奥能。
+397789	ItemPassive_Unique_Ring_760_x1		获得所有护甲的效果。
+397792	ItemPassive_Unique_Ring_761_x1		狂乱现在最多可叠加至 {c_magic}{VALUE1}{/c_magic} 次。
+397802	ItemPassive_Unique_Ring_762_x1		先祖之锤有 {c_magic}[{VALUE1}*100]%{/c_magic} 的几率召唤出一位先祖，持续存在20秒。
+397805	ItemPassive_Unique_Ring_763_x1		僵尸犬变成幽灵且不会死亡。
+397806	ItemPassive_Unique_Ring_764_x1		魔星获得烈焰火花符文的效果。
+397807	ItemPassive_Unique_Ring_765_x1		魔星获得冰锥魔星符文的效果。
+397808	ItemPassive_Unique_Ring_766_x1		魔星获得远古卫士符文的效果。
+397809	ItemPassive_Unique_Ring_767_x1		魔星获得奥能激涌符文的效果。
+397811	ItemPassive_Unique_Ring_768_x1		魔星获得爆炸魔星符文的效果。
+397812	ItemPassive_Unique_Ring_769_x1		当你的钻石体肤因伤害失效时，有10% 的几率生成一枚随机的贵族宝石。
+397813	ItemPassive_Unique_Ring_770_x1		获得血肉铸就被动技能。
+397814	ItemPassive_Unique_Ring_771_x1		获得残酷被动技能。
+397815	ItemPassive_Unique_Ring_772_x1		获得钢铁神经被动技能。
+397816	ItemPassive_Unique_Ring_773_x1		获得武器大师被动技能。
+397817	ItemPassive_Unique_Ring_774_x1		获得振奋军心被动技能。
+397818	ItemPassive_Unique_Ring_775_x1		获得狂战盛怒被动技能。
+397819	ItemPassive_Unique_Ring_776_x1		获得嗜血被动技能。
+397820	ItemPassive_Unique_Ring_777_x1		获得杀意骤起被动技能。
+397822	ItemPassive_Unique_Ring_778_x1		获得力量信仰被动技能。
+397831	ItemPassive_Unique_Ring_779_x1		获得坚如钢钉被动技能。
+397832	ItemPassive_Unique_Ring_780_x1		获得无路可逃被动技能。
+397833	ItemPassive_Unique_Ring_781_x1		获得坚韧被动技能。
+397834	ItemPassive_Unique_Ring_782_x1		获得好斗勇者被动技能。
+397835	ItemPassive_Unique_Ring_783_x1		获得势不可挡被动技能。
+397836	ItemPassive_Unique_Ring_784_x1		获得世仇未报被动技能。
+397838	ItemPassive_Unique_Ring_785_x1		获得布尔凯索的庇佑被动技能。
+397839	ItemPassive_Unique_Ring_786_x1		获得大地之力被动技能。
+397841	ItemPassive_Unique_Ring_787_x1		获得狂暴被动技能。
+397842	ItemPassive_Unique_Ring_788_x1		获得剑盾合璧被动技能。
+397843	ItemPassive_Unique_Ring_789_x1		获得天堂之力被动技能。
+397844	ItemPassive_Unique_Ring_790_x1		获得坚守阵地被动技能。
+397845	ItemPassive_Unique_Ring_791_x1		获得铁胆钢心被动技能。
+397846	ItemPassive_Unique_Ring_792_x1		获得警戒被动技能。
+397847	ItemPassive_Unique_Ring_793_x1		获得无懈可击被动技能。
+397848	ItemPassive_Unique_Ring_794_x1		获得律法无边被动技能。
+397849	ItemPassive_Unique_Ring_795_x1		获得愈体盛怒被动技能。
+397850	ItemPassive_Unique_Ring_796_x1		获得铁处女被动技能。
+397851	ItemPassive_Unique_Ring_797_x1		获得宝石之力被动技能。
+397852	ItemPassive_Unique_Ring_798_x1		获得神圣使命被动技能。
+397853	ItemPassive_Unique_Ring_799_x1		获得一统千军被动技能。
+397854	ItemPassive_Unique_Ring_800_x1		获得重击之锤被动技能。
+401366	ItemPassive_Unique_Ring_801_x1		获得守御之盾被动技能。
+401367	ItemPassive_Unique_Ring_802_x1		获得正义之怒被动技能。
+401368	ItemPassive_Unique_Ring_803_x1		获得格挡复原被动技能。
+401369	ItemPassive_Unique_Ring_804_x1		获得神圣堡垒被动技能。
+401370	ItemPassive_Unique_Ring_805_x1		获得热忱被动技能。
+401371	ItemPassive_Unique_Ring_806_x1		获得狂热信念被动技能。
+401378	ItemPassive_Unique_Ring_807_x1		获得追猎快感被动技能。
+401379	ItemPassive_Unique_Ring_808_x1		获得战术优势被动技能。
+401380	ItemPassive_Unique_Ring_809_x1		获得血腥复仇被动技能。
+401381	ItemPassive_Unique_Ring_810_x1		获得稳固瞄准被动技能。
+401382	ItemPassive_Unique_Ring_811_x1		获得恃强凌弱被动技能。
+401383	ItemPassive_Unique_Ring_812_x1		获得暗夜追踪者被动技能。
+401384	ItemPassive_Unique_Ring_813_x1		获得愈体被动技能。
+401385	ItemPassive_Unique_Ring_814_x1		获得热力追击被动技能。
+401386	ItemPassive_Unique_Ring_815_x1		获得箭术高超被动技能。
+401387	ItemPassive_Unique_Ring_816_x1		获得麻痹陷阱被动技能。
+401388	ItemPassive_Unique_Ring_817_x1		获得完美主义者被动技能。
+401389	ItemPassive_Unique_Ring_818_x1		获得兵器专家被动技能。
+401390	ItemPassive_Unique_Ring_819_x1		获得掷弹兵被动技能。
+401391	ItemPassive_Unique_Ring_820_x1		获得百步穿杨被动技能。
+401392	ItemPassive_Unique_Ring_821_x1		获得弹道学被动技能。
+401393	ItemPassive_Unique_Ring_822_x1		获得伏击被动技能。
+401394	ItemPassive_Unique_Ring_823_x1		获得濒死本能被动技能。
+401395	ItemPassive_Unique_Ring_824_x1		获得逐一击破被动技能。
+401414	ItemPassive_Unique_Ring_825_x1		获得精诚之心被动技能。
+401415	ItemPassive_Unique_Ring_826_x1		获得健步如飞被动技能。
+401416	ItemPassive_Unique_Ring_827_x1		获得奇筋异骨被动技能。
+401417	ItemPassive_Unique_Ring_828_x1		获得脱凡入化被动技能。
+401418	ItemPassive_Unique_Ring_829_x1		获得真言谐鸣被动技能。
+401419	ItemPassive_Unique_Ring_830_x1		获得先发制人被动技能。
+401420	ItemPassive_Unique_Ring_831_x1		获得以攻为守被动技能。
+401421	ItemPassive_Unique_Ring_832_x1		获得先知先觉被动技能。
+401422	ItemPassive_Unique_Ring_833_x1		获得无情猛袭被动技能。
+401423	ItemPassive_Unique_Ring_834_x1		获得伊塔之辉被动技能。
+401424	ItemPassive_Unique_Ring_835_x1		获得动如奔雷被动技能。
+401425	ItemPassive_Unique_Ring_836_x1		获得天人合一被动技能。
+401426	ItemPassive_Unique_Ring_837_x1		获得融会贯通被动技能。
+401427	ItemPassive_Unique_Ring_838_x1		获得濒死体验被动技能。
+401428	ItemPassive_Unique_Ring_839_x1		获得神秘韵律被动技能。
+401429	ItemPassive_Unique_Ring_840_x1		获得劲力狂增被动技能。
+401430	ItemPassive_Unique_Ring_841_x1		获得齐心协力被动技能。
+401458	ItemPassive_Unique_Ring_842_x1		获得丛林坚毅被动技能。
+401459	ItemPassive_Unique_Ring_843_x1		获得生命之环被动技能。
+401460	ItemPassive_Unique_Ring_844_x1		获得灵魂协调被动技能。
+401461	ItemPassive_Unique_Ring_845_x1		获得骇人盛宴被动技能。
+401462	ItemPassive_Unique_Ring_846_x1		获得鲜血仪式被动技能。
+401463	ItemPassive_Unique_Ring_847_x1		获得致命毒药被动技能。
+401464	ItemPassive_Unique_Ring_848_x1		获得僵尸统领被动技能。
+401465	ItemPassive_Unique_Ring_849_x1		获得穿透迷障被动技能。
+401466	ItemPassive_Unique_Ring_850_x1		获得灵魂容器被动技能。
+401467	ItemPassive_Unique_Ring_851_x1		获得鬼娃跟班被动技能。
+401468	ItemPassive_Unique_Ring_852_x1		获得元神奔行被动技能。
+401469	ItemPassive_Unique_Ring_853_x1		获得灵境追寻被动技能。
+401470	ItemPassive_Unique_Ring_854_x1		获得狂热忠诚被动技能。
+401471	ItemPassive_Unique_Ring_855_x1		获得剥削死者被动技能。
+401472	ItemPassive_Unique_Ring_856_x1		获得部族仪式被动技能。
+401473	ItemPassive_Unique_Ring_857_x1		获得死亡蔓延被动技能。
+401474	ItemPassive_Unique_Ring_858_x1		获得沼泽调谐被动技能。
+401475	ItemPassive_Unique_Ring_859_x1		获得午夜盛宴被动技能。
+401476	ItemPassive_Unique_Ring_860_x1		获得彼消我长被动技能。
+401495	ItemPassive_Unique_Ring_861_x1		获得玻璃大炮被动技能。
+401496	ItemPassive_Unique_Ring_862_x1		获得天赋奇才被动技能。
+401497	ItemPassive_Unique_Ring_863_x1		获得星辰之躯被动技能。
+401498	ItemPassive_Unique_Ring_864_x1		获得幻术师被动技能。
+401499	ItemPassive_Unique_Ring_865_x1		获得冷血被动技能。
+401500	ItemPassive_Unique_Ring_866_x1		获得法能护体被动技能。
+401501	ItemPassive_Unique_Ring_867_x1		获得奥能渴求被动技能。
+401502	ItemPassive_Unique_Ring_868_x1		获得残影被动技能。
+401503	ItemPassive_Unique_Ring_869_x1		获得启发被动技能。
+401504	ItemPassive_Unique_Ring_870_x1		获得奥能迸发被动技能。
+401505	ItemPassive_Unique_Ring_871_x1		获得不稳异能被动技能。
+401506	ItemPassive_Unique_Ring_872_x1		获得瘫痪被动技能。
+401507	ItemPassive_Unique_Ring_873_x1		获得坚定意志被动技能。
+401508	ItemPassive_Unique_Ring_874_x1		获得烧焚被动技能。
+401509	ItemPassive_Unique_Ring_875_x1		获得无畏无惧被动技能。
+401510	ItemPassive_Unique_Ring_876_x1		获得时光涌动被动技能。
+401511	ItemPassive_Unique_Ring_877_x1		获得元素易伤被动技能。
+409335	ItemPassive_Unique_Ring_878_x1		获得斗志坚决被动技能。
+439528	ItemPassive_Unique_Ring_879_x1		获得吸血被动技能。
+442744	ItemPassive_Unique_Ring_880_x1		获得欺瞒仪式被动技能。
+409431	ItemPassive_Unique_Ring_899_x1		使盾牌猛击和横扫的攻击速度提高 [{VALUE1}*100]% 。
+409428	ItemPassive_Unique_Ring_900_x1		每次使用盾牌猛击或横扫击中敌人时，都会获得 [{VALUE1}*100]% 的攻击速度加成以及 15% 的伤害减免，持续 8 秒。该效果最多可叠加 5 次。
+402407	ItemPassive_Unique_Ring_901_x1		生命值低于25%时使用，可获得15%的主要能量。
+402408	ItemPassive_Unique_Ring_902_x1		在使用疾风击之后的4秒内，躲闪几率提高 {c_magic}[{VALUE1} * 100]%{/c_magic}。该效果最多可叠加3次。
+402411	ItemPassive_Unique_Ring_903_x1		使劲风煞的层数上限提高 {c_magic}{VALUE1}{/c_magic}。
+402406	ItemPassive_Unique_Ring_904_x1		裂地斩现在朝四面八方施放。
+402413	ItemPassive_Unique_Ring_905_x1		使斗阵化身的持续时间延长200%。
+402414	ItemPassive_Unique_Ring_906_x1		天谴没有冷却时间，但会消耗40点愤怒值。
+402415	ItemPassive_Unique_Ring_907_x1		惩罚获得每个符文的效果。
+402416	ItemPassive_Unique_Ring_908_x1		生成能量的主要技能造成 {c_magic}[{VALUE1}*100]%{/c_magic} 的额外伤害。
+402444	ItemPassive_Unique_Ring_909_x1		斗阵现在施放两次。
+402446	ItemPassive_Unique_Ring_910_x1		当激活阿卡拉特勇士时，每秒对一名敌人释放一道伤害箭，造成 {c_magic}[{VALUE1}*100]%{/c_magic} 的武器伤害。
+402447	ItemPassive_Unique_Ring_911_x1		你和鬼娃的剧毒飞镖现在可穿透敌人。
+402448	ItemPassive_Unique_Ring_912_x1		使陨石术的奥能消耗降低 {c_magic}[{VALUE1}*100]%{/c_magic}。
+402449	ItemPassive_Unique_Ring_913_x1		当你的憎恨生成技或憎恨值消耗技击中敌人时，复仇之雨的冷却时间缩短 {VALUE1} 秒。
+402450	ItemPassive_Unique_Ring_914_x1		被击中时有 {c_magic}[{VALUE1} * 100]%{/c_magic} 的几率释放一次冰霜新星。
+402451	ItemPassive_Unique_Ring_915_x1		七相拳会额外施展 {VALUE1} 次攻击。
+402455	ItemPassive_Unique_Ring_916_x1		消灭敌人后有一定几率复活一具骷髅为你作战。当累积5具骷髅时，它们每一只爆炸造成1000%武器伤害，并且剑会变形成灰烬使者，持续一小段时间。使用灰烬使者攻击会使目标燃烧，对其造成{c_magic}[{VALUE1}]%{/c_magic}的武器伤害（作为神圣伤害）。
+402456	ItemPassive_Unique_Ring_917_x1		获得{c_magic}[{VALUE1} * 100]%{/c_magic}的几率格挡攻击。被格挡的攻击其伤害降低30%。格挡一次攻击后，你的下一次攻击造成30%的额外伤害。
+402457	ItemPassive_Unique_Ring_918_x1		攻击生命值低于{c_magic}[{VALUE1} * 100]%{/c_magic}的敌人时，将使其被冰冻3秒。
+402458	ItemPassive_Unique_Ring_919_x1		消灭一队精英怪群后，你的技能冷却时间缩短{c_magic}{VALUE1}{/c}秒，持续15秒。
+402459	ItemPassive_Unique_Ring_920_x1		当你的能量消耗技击中敌人时，其它一项技能的剩余冷却时间缩短 {VALUE1} 秒。
+402460	ItemPassive_Unique_Ring_921_x1		每 {c_magic}{VALUE1}{/c_magic} 秒召唤一只堕落癫狂者为你而战。
+402461	ItemPassive_Unique_Ring_922_x1		消灭怪物有一定几率生成一片能量集中区域。站在该区域内，伤害提高{c_magic}[{VALUE1}*100]%{/c_magic}。
+402462	ItemPassive_Unique_Ring_923_x1		连续5次非暴击攻击后，你的暴击几率提高至100%，持续{VALUE1}秒。
+402463	ItemPassive_Unique_Ring_924_x1		
+402464	ItemPassive_Unique_Ring_925_x1		
+402465	ItemPassive_Unique_Ring_926_x1		
+402466	ItemPassive_Unique_Ring_927_x1		
+402467	ItemPassive_Unique_Ring_928_x1		
+402469	ItemPassive_Unique_Ring_929_x1		
+402470	ItemPassive_Unique_Ring_930_x1		
+402471	ItemPassive_Unique_Ring_931_x1		
+402472	ItemPassive_Unique_Ring_932_x1		
+402473	ItemPassive_Unique_Ring_933_x1		
+402474	ItemPassive_Unique_Ring_934_x1		
+402475	ItemPassive_Unique_Ring_935_x1		
+402476	ItemPassive_Unique_Ring_936_x1		
+402477	ItemPassive_Unique_Ring_937_x1		
+402478	ItemPassive_Unique_Ring_938_x1		
+402479	ItemPassive_Unique_Ring_939_x1		
+402480	ItemPassive_Unique_Ring_940_x1		
+440913	ItemPassive_Unique_Ring_941_x1		
+367462	ItemPassive_Unique_Ring_Hellfire_x1	地狱火戒指	击中时有一定几率使地面布满岩浆，在 6 秒内每秒造成 200% 的武器伤害。
+247053	itemPassive_Unique_Shield_008		被击中时有一定几率产生护盾。
+247585	itemPassive_Unique_Shield_011		被击中时有 {c_magic}[{VALUE1}*100]%{/c_magic} 的几率受到白骨盾的保护。
+247619	ItemPassive_Unique_Shoulder_002	死亡飞刀	被击中时有 {c_magic}[{VALUE1}*100]%{/c_magic} 的几率爆炸出无数飞刀。
+434005	ItemPassive_Unique_Shoulder_002_p2	死亡飞刀	有 {c_magic}[{VALUE1}*100]%{/c_magic} 的几率发生刀扇爆炸，击中时造成 750-950% 的武器伤害。
+364339	ItemPassive_Unique_Shoulder_002_x1	死亡飞刀	有 {c_magic}[{VALUE1}*100]%{/c_magic} 的几率发生刀扇爆炸，击中时造成 200% 的武器伤害。
+247544	ItemPassive_Unique_Shoulder_009		被击中时有一定几率反弹远程攻击。
+334883	ItemPassive_Unique_Shoulder_103_x1		当遭受致命伤害时，有一定几率使你恢复生命值上限25% 的生命值并恐惧附近的敌人。
+246780	itemPassive_Unique_Staff_006		敌人偶尔会见此法杖就逃。
+247572	itemPassive_Unique_Staff_007		击中敌人时有一定几率魅惑敌人。
+247662	ItemPassive_Unique_Sword_1H_004		攻击时有一定几率召唤天使协助作战。
+364315	ItemPassive_Unique_Sword_1H_004_x1	断空	攻击时有一定几率召唤天使协助作战。
+249967	ItemPassive_Unique_Sword_1H_007	死无全尸	让敌人死无全尸。
+249592	ItemPassive_Unique_Sword_1H_012		这把武器将会猛烈震退亡灵怪物。
+441723	ItemPassive_Unique_Sword_1H_012_p3		25 码内的亡灵和恶魔敌人每秒受到 {c_magic}[{VALUE1}*100]%{/c_magic} 的武器伤害（作为神圣伤害），且有时会被击飞。
+374362	ItemPassive_Unique_Sword_1H_012_x1		25码范围内的亡灵敌人每秒承受 {c_magic}[{VALUE1}*100]%{/c_magic} 的武器伤害（作为神圣伤害）并且偶尔会被击退。
+247537	ItemPassive_Unique_Sword_2H_004	恶魔之怒	攻击时有 {c_magic}[{VALUE1} * 100]%{/c_magic} 的几率爆炸产生恶魔之怒。
+364321	ItemPassive_Unique_Sword_2H_004_x1	恶魔之怒	攻击时有 {c_magic}[{VALUE1} * 100]%{/c_magic} 的几率爆炸产生恶魔之怒，造成1800-2000%的武器伤害（作为火焰伤害）。
+249138	ItemPassive_Unique_Sword_2H_010	燃烧之链	击中时有一定几率召唤一名恶魔奴仆。
+364317	ItemPassive_Unique_Sword_2H_010_x1	燃烧之链	击中时有一定几率召唤一名恶魔奴仆。
+251572	ItemPassive_Unique_VoodooMask_002		攻击时有一定几率召唤恐怖分身，它们会施放一些你装备的技能。
+248686	itemPassive_Unique_Wand_013		这把魔杖觉得你的死亡很有趣。
+247090	itemPassive_Unique_WizardHat_004	火球术	攻击时有 {c_magic}[{VALUE1} * 100]%{/c_magic} 的几率施放出一枚火球。
+434035	itemPassive_Unique_WizardHat_004_p2	火球术	攻击时有 {c_magic}[{VALUE1} * 100]%{/c_magic} 的几率施放出一枚火球。
+364338	itemPassive_Unique_WizardHat_004_x1	火球术	攻击时有 {c_magic}[{VALUE1} * 100]%{/c_magic} 的几率施放出一枚火球。
+247429	ItemPassive_Unique_XBow_001	爆裂箭	攻击时有 {c_magic}[{VALUE1} * 100]%{/c_magic} 的几率射出若干支爆炸箭。
+364332	ItemPassive_Unique_XBow_001_x1	爆裂箭	攻击时有 {c_magic}[{VALUE1} * 100]%{/c_magic} 的几率射出若干支爆炸箭。
+247577	itemPassive_Unique_XBow_002		击中敌人时有一定几率使敌人定身。
+248480	ItemPassive_Unique_XBow_011		远程攻击有 {c_magic}[{VALUE1} * 100]%{/c_magic} 的几率穿透敌人。
+374344	ItemPassive_Unique_XBow_011_x1		你的远程攻击额外穿透 {c_magic}{VALUE1}{/c_magic} 次。
+247430	ItemPassive_Unique_XBow_012	酸液弹	攻击时有 {c_magic}[{VALUE1} * 100]%{/c_magic} 的几率抛出一颗酸液弹。
+364335	ItemPassive_Unique_XBow_012_x1	酸液弹	攻击时有 {c_magic}[{VALUE1} * 100]%{/c_magic} 的几率抛出一颗酸液弹。
+374500	ItemPassive_x1_Amulet_norm_unique_25_Barbarian		当你使用狂暴者之怒时，你的技能会催眠周围的敌人，使其在 {c_magic}{VALUE1}{/c_magic} 秒内不受控制地乱跳。
+374502	ItemPassive_x1_Amulet_norm_unique_25_Crusader		当你使用阿卡拉特勇士时，你的技能会催眠周围的敌人，使其在 {c_magic}{VALUE1}{/c_magic} 秒内不受控制地乱跳。
+374503	ItemPassive_x1_Amulet_norm_unique_25_DemonHunter		当你使用复仇时，你的技能会催眠周围的敌人，使其在 {c_magic}{VALUE1}{/c_magic} 秒内不受控制地乱跳。
+374504	ItemPassive_x1_Amulet_norm_unique_25_Monk		当你使用灵光悟时，你的技能会催眠周围的敌人，使其在 {c_magic}{VALUE1}{/c_magic} 秒内不受控制地乱跳。
+374506	ItemPassive_x1_Amulet_norm_unique_25_WitchDoctor		当你使用巫毒狂舞时，你的技能会催眠周围的敌人，使其在 {c_magic}{VALUE1}{/c_magic} 秒内不受控制地乱跳。
+374505	ItemPassive_x1_Amulet_norm_unique_25_Wizard		当你处于御法者状态下时，你的技能会催眠周围的敌人，使其在 {c_magic}{VALUE1}{/c_magic} 秒内不受控制地乱跳 。
+241651	Izual_Charge		
+162329	Izual_FrostNova	冰霜新星	寒冰爆破，将附近敌人冰冻 {c_green}[{script formula 2}|1|]秒{/c_green} ，并造成 {c_green}{script formula 0} - [{script formula 0} + {script formula 1}] 点冰霜伤害{/c_green}。冰霜伤害可使敌人陷入寒冷，降低敌人的移动和攻击速度。伤害会中断冰冻效果，但不会中断寒冷效果。<br><br>冷却时间：{c_green}[{cooldown time}|1|] 秒{/c_green}
+241653	Izual_FrozenCast		
+445899	Kill_Actor		
+70432	Knockback		击退
+356848	Knockback_NoLandingAnim		
+85936	Knockback_OverObstacles		
+329195	Knockback_ThroughOwnedByTeam		
+30296	Knockdown		
+30300	Lacuni_Leap		
+30301	Lacuni_Lob		
+30297	LacuniBurrowIn		
+30298	LacuniBurrowOut		
+1744	LacuniCombo		
+30299	LacuniMale_DoubleSwing		
+30307	Laugh		
+84699	Laugh_SkeletonKing		
+190230	Leah_HulkOut		
+93831	Leah_Vortex		
+208501	Leah_Vortex_Again		
+437919	Lewis_ItemPassive_Test		击中时有 {c_magic}[{VALUE1} * 2]%{/c_magic} 的几率召唤一个鬼娃跟班。
+366477	LR_Boss_CollapseCeiling		
+366481	LR_Boss_Fast		
+366830	LR_Boss_Izual_Charge		
+366204	LR_Boss_PathBlocked_Teleport	绝望传送	
+366527	LR_Boss_Sprint	冲刺	{c_gold}消耗：{/c_gold} {c_green}{Resource Cost}{/c_green} 点怒气<br><br>使移动速度提高 {c_green}[{Script Formula 12}*100]%{/c_green} ，持续 {c_green}{Script Formula 3}{/c_green} 秒。
+131741	Maghda_Mark	麦格妲护盾	
+131745	Maghda_MothDust	麦格妲护盾	
+184598	Maghda_PortalCreateCinematic	麦格妲护盾	
+30568	Maghda_Projectile	麦格妲炮弹	
+131746	Maghda_Punish	麦格妲惩罚	
+178279	Maghda_PunishCinematic	麦格妲护盾	
+131744	Maghda_Summon_Beserker	麦格妲召唤	
+131749	Maghda_Teleport	麦格妲传送	
+30313	MagicPainting_Summon_Skeleton		
+123381	MalletDemon_Power_Hit		
+229128	Manual_Walk	行走	
+145022	MastaBlasta_Combined_Dismount_Rider	近战攻击	这是你近距离战斗时所使用的技能。
+143940	MastaBlasta_Combined_Lobbed_Shot		
+140857	MastaBlasta_Rider_Alpha_Strike	近战攻击	这是你近距离战斗时所使用的技能。
+143991	MastaBlasta_Rider_Combine		
+140856	MastaBlasta_Rider_Leap		
+139356	MastaBlasta_Rider_Lobbed_Shot		
+445562	MastaBlasta_Rider_Lobbed_Shot_LR		
+144289	MastaBlasta_Steed_Combine	近战攻击	这是你近距离战斗时所使用的技能。
+141333	MastaBlasta_Steed_DrainAttack	近战攻击	这是你近距离战斗时所使用的技能。
+140859	MastaBlasta_Steed_Stomp	近战攻击	这是你近距离战斗时所使用的技能。
+212136	MistressOfPain_Ascend	上升	
+212237	MistressOfPain_Descend	下降	
+136790	MistressOfPain_PainBolts	苦痛飞弹	
+369693	MistressOfPain_PainBolts_LR		
+137143	MistressOfPain_Spiderling_Explode	纠缠之网	
+136958	MistressOfPain_SummonSpiders	召唤蜘蛛	
+212239	MistressOfPain_SummonSpiders_Airborne	召唤蜘蛛	
+137483	MistressOfPain_TeleportToThrone	传送至远处	
+136722	MistressOfPain_WebPatch	纠缠之网	
+136954	Monk_BlindingFlash	眩目闪	{c_gold}冷却时间：{/c_gold} {c_green}{Cooldown Time}{/c_green} 秒<br><br>致盲附近所有敌人，持续 {c_green}[{Script Formula 17}]{/c_green} 秒。
+69130	Monk_BreathOfHeaven	回天息	{c_gold}冷却时间：{/c_gold} {c_green}{Cooldown Time}{/c_green} 秒<br><br>治疗你自己和附近的同伴。
+96311	Monk_CripplingWave	断筋诀	{c_gold}生成：{/c_gold} {c_green}[PowerTag.Monk_CripplingWave."Spirit Gained"]{/c_green} 点内力<br><br>用掠扫之拳致残敌人，使其攻击和移动速度降低。
+223473	Monk_CycloneStrike	飓风破	{c_gold}消耗：{/c_gold} {c_green}{Script Formula 22}{/c_green} 点内力<br><br>神秘的力量将附近敌人拉到你身边，并冲击他们。
+96019	Monk_DeadlyReach	冲心拳	{c_gold}生成：{/c_gold} {c_green}[PowerTag.Monk_DeadlyReach."Spirit Gained"]{/c_green} 点内力<br><br>每一击都会对位于一条直线上的多个敌人造成伤害。第三击有一定几率将敌人击飞。
+97328	Monk_ExplodingPalm	爆裂掌	{c_gold}消耗：{/c_gold} {c_green}{Resource Cost}{/c_green} 点内力<br><br>打击一名敌人，并使其流血。若敌人在流血时被消灭则会爆炸。
+95940	Monk_FistsofThunder	雷光拳	{c_gold}生成：{/c_gold} {c_green}[PowerTag.Monk_FistsofThunder."Spirit Gained"]{/c_green} 点内力<br><br>传送到你的目标位置，打出一连串速度极快的重拳。
+111676	Monk_LashingTailKick	神龙摆尾	{c_gold}消耗：{/c_gold} {c_green}{Resource Cost}{/c_green} 点内力<br><br>发起一记致命回旋踢，适用于对抗一小群敌人。
+366119	Monk_LashingTailKick_HandOfYtar_Passability		
+110575	Monk_LethalDecoy_Taunt	致命幻像嘲讽	
+169155	Monk_MysticAlly_Pet_RuneA_Kick	烈焰踢	这是你近距离战斗时所使用的技能。
+363493	Monk_MysticAlly_Pet_RuneB_WaveAttack_Fast	破浪击	
+169715	Monk_MysticAlly_Pet_RuneC_GroundPunch	碎地拳	这是你近距离战斗时所使用的技能。
+169728	Monk_MysticAlly_Pet_RuneD_AOEAttack	旋风掌	这是你近距离战斗时所使用的技能。
+169081	Monk_MysticAlly_Pet_Weapon_Melee_Instant	近战攻击	这是你近距离战斗时所使用的技能。
+209104	Monk_Passive_BeaconOfYtar	伊塔之辉	惟有苦心劳骨，方可察悉身之极致，惟有洞明身之极致，方能克阻逾巅。
+156467	Monk_Passive_ChantOfResonance	真言谐鸣	天道圣途，周转不息，蝼蚁万众，扶倚偕行。
+218415	Monk_Passive_CombinationStrike	融会贯通	无幻大师乃完善作战六技第一人，然究其所成，巅峰造诣乃开创融会贯通的不二战法。
+209027	Monk_Passive_ExaltedSoul	奇筋异骨	“道器合一者，九天无往不达。”——守道人祖科林
+209029	Monk_Passive_FleetFooted	健步如飞	不得位之力实乃蛮力。
+156492	Monk_Passive_GuidingLight	动如奔雷	“心身意合者，能克万难。动如奔雷，力压群山。出手快、准、狠，一气呵成。”——尊者阿尼西姆
+156484	Monk_Passive_NearDeathExperience	濒死体验	“不见既竟之业，勿忘未竟之功。”——艾葛罗德武僧真言
+211581	Monk_Passive_Resolve	精诚之心	“自然非余可索，亦非余可授。须知是非，然竭守余心证为是。”——无幻大师
+209628	Monk_Passive_SeizeTheInitiative	先发制人	艾葛罗德武僧动如流水，长于平地起波，摧阵破敌。
+209622	Monk_Passive_SixthSense	先知先觉	灵蛇形态之最终试炼会在“十二蛇坑”进行。但第十三条蛇的存在，并未告知受试者。
+209812	Monk_Passive_TheGuardiansPath	以攻为守	“心性不定者，兵器无用，唯玩物耳。”—守道人祖科林
+209250	Monk_Passive_Transcendence	脱凡入化	无灵之躯，虽生亦死。
+69489	Monk_ResistAura	抗性光环	生成一道光环，使武僧和位于 {c_green}{script formula 0}{/c_green} 码内同伴的所有抗性提高 {c_green}[{script formula 2}*100]%{/c_green} ，持续 {c_green}[{script formula 1}/60|1|]{/c_green} 分钟。<br><br>{c_yellow}这是一种光环。武僧同时只能激活一种光环。{/c_yellow}<br><br>消耗：{c_green}{resource cost}{/c_green} 点内力<br>冷却时间：{c_green}{cooldown time}{/c_green} 秒
+144312	Monk_ResistAura_RuneC_Arcane	抗性光环	
+144197	Monk_ResistAura_RuneC_Cold	抗性光环	
+143382	Monk_ResistAura_RuneC_Fire	抗性光环	
+144322	Monk_ResistAura_RuneC_Holy	抗性光环	
+144188	Monk_ResistAura_RuneC_Lightning	抗性光环	
+144202	Monk_ResistAura_RuneC_Poison	抗性光环	
+96215	Monk_Serenity	禅定	{c_gold}冷却时间：{/c_gold} {c_green}{Script Formula 18}{/c_green} 秒<br><br>暂时免疫所有攻击和控制效果，持续 {c_green}[{Script Formula 9}]{/c_green} 秒。<br><br>{c_yellow}该技能在效果结束前不会触发冷却时间。{/c_yellow}
+96694	Monk_SevenSidedStrike	七相拳	{c_gold}消耗：{/c_gold} {c_green}{Script Formula 21}{/c_green} 点内力<br>{c_gold}冷却时间：{/c_gold} {c_green}{Script Formula 18}{/c_green} 秒<br><br>以使人目眩的速度移动，并打击附近的敌人，且自身对攻击免疫。<br><br>{c_yellow}该技能在效果结束前不会触发冷却时间。{/c_yellow}
+96090	Monk_SweepingWind	劲风煞	{c_gold}消耗：{/c_gold} {c_green}{Resource Cost}{/c_green} 点内力<br><br>使你自己被旋风环绕，持续 {c_green}{Script Formula 7}{/c_green} 秒，对附近的敌人造成伤害。暴击会加强旋风效果。
+121442	Monk_TempestRush	风雷冲	{c_gold}消耗：{/c_gold} {c_green}{Script Formula 15}{/c_green} 点内力<br><br>在敌人间冲锋奔行，对前进路线上的所有敌人造成伤害。
+96033	Monk_WaveOfLight	金钟破	{c_gold}消耗：{/c_gold} {c_green}{Script Formula 19}{/c_green} 点内力<br><br>鸣响神钟，粉碎敌人。
+97110	Monk_WayOfTheHundredFists	百裂拳	{c_gold}生成：{/c_gold} {c_green}[PowerTag.Monk_WayoftheHundredFists."Spirit Gained"]{/c_green} 点内力<br><br>用一连串极具毁灭性的快拳打击一群敌人。
+30333	Monster_Poison_Melee_Attack		
+30334	Monster_Ranged_Projectile		
+30338	Monster_Spell_Projectile		
+214594	MonsterAffix_ArcaneEnchanted	奥术强化	
+221130	MonsterAffix_ArcaneEnchanted_Champion	奥术强化	
+221219	MonsterAffix_ArcaneEnchanted_Minion	奥术强化	
+219671	MonsterAffix_ArcaneEnchanted_New_PetBasic		
+214791	MonsterAffix_ArcaneEnchantedCast		
+450358	MonsterAffix_ArcaneEnchantedCast_NoTarget		
+384426	MonsterAffix_Avenger_ArcaneEnchanted		
+392128	MonsterAffix_Avenger_ArcaneEnchanted_New_PetBasic		
+384436	MonsterAffix_Avenger_ArcaneEnchantedCast		
+226292	MonsterAffix_Avenger_Buff	复仇者	
+226289	MonsterAffix_Avenger_Champion	复仇者	
+384594	MonsterAffix_Avenger_Mortar		
+384596	MonsterAffix_Avenger_MortarCast		
+91098	MonsterAffix_Ballista		
+210333	MonsterAffix_ChampionBuff		
+70874	MonsterAffix_Desecrator	亵渎	
+156106	MonsterAffix_DesecratorBuff		
+221131	MonsterAffix_DesecratorBuff_Champion		
+156105	MonsterAffix_DesecratorCast		
+91232	MonsterAffix_DieTogether	共生	
+81420	MonsterAffix_Electrified		
+365083	MonsterAffix_Electrified_LR_Boss_Custom		
+109899	MonsterAffix_Electrified_Minion		
+169461	MonsterAffix_Electrified_Minion_RakEvent		
+70650	MonsterAffix_ExtraHealth		
+70849	MonsterAffix_Fast		
+90144	MonsterAffix_Frozen		
+231149	MonsterAffix_FrozenCast		
+231157	MonsterAffix_FrozenRare		
+276798	MonsterAffix_Healing		
+71239	MonsterAffix_Healthlink		
+71108	MonsterAffix_Illusionist		
+264185	MonsterAffix_IllusionistCast		
+222743	MonsterAffix_Jailer		
+222745	MonsterAffix_Jailer_Champion		
+222744	MonsterAffix_JailerCast		
+455436	MonsterAffix_Juggernaut		
+70655	MonsterAffix_Knockback		
+226497	MonsterAffix_Linked		
+91028	MonsterAffix_MissileDampening	monster affix - missile dampening	
+376860	MonsterAffix_MissileDampeningCast	Monster Affix - Missile Dampening	
+90314	MonsterAffix_Molten		
+109898	MonsterAffix_Molten_Minion		
+215756	MonsterAffix_Mortar		
+215757	MonsterAffix_MortarCast		
+247258	MonsterAffix_Nightmarish		
+120655	MonsterAffix_Pheonix	重生	
+90566	MonsterAffix_Plagued		
+231115	MonsterAffix_PlaguedCast	MonsterAffix_PlaguedCast	
+71023	MonsterAffix_Puppetmaster		
+71024	MonsterAffix_Puppetmaster_Minion		
+230877	MonsterAffix_ReflectsDamage		
+285770	MonsterAffix_ReflectsDamageCast		
+226437	MonsterAffix_Shielding		
+226438	MonsterAffix_ShieldingCast		
+155958	MonsterAffix_TeleporterBuff		
+155959	MonsterAffix_TeleporterCast		
+336177	MonsterAffix_ThunderstormBuff		
+336178	MonsterAffix_ThunderstormBuff_Champion		
+336179	MonsterAffix_ThunderstormCast	MonsterAffix_ThunderstormCast	
+70309	MonsterAffix_Vampiric		
+120306	MonsterAffix_VortexBuff		
+221132	MonsterAffix_VortexBuff_Champion		
+120305	MonsterAffix_VortexCast	monsteraffix_vortexcast	
+226293	MonsterAffix_Waller	筑墙	
+226294	MonsterAffix_WallerCast	筑墙	
+231117	MonsterAffix_WallerRare	筑墙	
+231118	MonsterAffix_WallerRareCast	筑墙	
+158970	MorluSpellcaster_BreathOfFire		
+263415	MorluSpellcaster_BreathOfFrost		
+158969	MorluSpellcaster_Meteor		
+256045	MorluSpellcaster_Meteor_GraspOfTheDead_Prototype		
+158968	MorluSpellcaster_Shift		
+428806	MorluSpellcaster_Shift_NoCooldown_Cold		
+258199	Multiplayer_Buff		
+30342	NPC_LookAt		
+395342	Oasis_Rockslide_A_Damage	trDun_Cath_WallCollapse_Damage	
+30343	OnDeathArcane		
+30344	OnDeathCold		
+30345	OnDeathFire		
+30346	OnDeathLightning		
+30347	OnDeathPoison		
+30348	Operate_Helper_Attach		
+380460	p1_Greed_Charge		
+391073	p1_Greed_Charge_Long		
+398253	p1_Greed_Charge_No_LOS		
+394194	p1_Greed_GoblinKnockback		
+385810	p1_Greed_GoldenMeteorShower		
+385737	p1_Greed_GoldSpawner		
+391176	p1_Greed_PassiveGoblinSpawner_test		
+381205	p1_Greed_PassiveLifetimeBuff		
+380646	p1_Greed_Shockwave		
+382342	p1_Greed_SpawnMinion		
+391193	p1_Greed_Ultimate_MeteorShower		
+382195	p1_GreedMinion_PassiveLifetimeBuff		
+402540	p1_ItemPassive_Unique_Ring_941		你的七相拳具有爆裂掌效果。
+408974	p1_ItemPassive_Unique_Ring_942		处于御法者形态下获得的消灭伤害奖励，可在御法者形态结束后持续 {c_magic}{VALUE1}{/c_magic} 秒。
+409811	p1_ItemPassive_Unique_Ring_943		幻身会召唤2个幻身与你并肩战斗。
+410217	p1_ItemPassive_Unique_Ring_944		灵魂收割现在最多可叠加至10层。
+440923	p1_ItemPassive_Unique_Ring_945		
+404168	p1_Monk_Passive_Harmony	天人合一	寒冰猎手无惧经年黑暗，沙漠行商苦忍灼人阳焰。若要活于世上，自当历尽苦难。
+402633	p1_Monk_Passive_Provocation	斗志坚决	“无能者在身陷重围时会绝望无助，而艾葛罗德的武僧却只恨敌人太少。”——无幻大师
+404245	p1_Monk_Passive_RelentlessAssault	无情猛袭	“尽管维尔纳斯身负重伤，但却屹立不倒。作为五位武僧中仅剩下的一位，他不愿让兄弟们白白牺牲，他凭着坚定的决心力挽狂澜，最终率领恩斯汀格的大军从战场上全面撤退。”——伯德米尔著《荆棘之战编年史》
+409173	p1_TieredRift_SpawnNPC		
+434819	p1_TreasureGoblin_OnDeathAnniversaryPortal		
+382738	p1_TreasureGoblin_OnDeathGreedPortal		
+405592	p1_TreasureGoblin_OnDeathWhimsyshirePortal		
+434026	p2_FallenLunatic_Aggro_ring		
+423205	P2_ItemPassive_Unique_Ring_001		在旋风斩持续期间，你获得 [{VALUE1}*100]% 的伤害减免，并且你施展的痛割造成三倍伤害。
+423206	P2_ItemPassive_Unique_Ring_002		使痛割的每秒伤害提高[{VALUE1}*100]%，持续时间延长至15秒。
+423226	P2_ItemPassive_Unique_Ring_003		旋风斩获得风卷残云符文效果，且所有旋风斩的伤害提高[{VALUE1}*100]%。
+423227	P2_ItemPassive_Unique_Ring_004		使旋风斩的伤害提高 {c_magic}[{VALUE1}*100]%{/c} 的武器伤害。
+423228	P2_ItemPassive_Unique_Ring_005		你每拥有 1 点戒律值，都会使你的能量生成技能、多重射击和复仇造成的伤害提高[{VALUE1}*100]% 。
+423229	P2_ItemPassive_Unique_Ring_006		在使用影轮翻时丢出铁蒺藜。
+423230	P2_ItemPassive_Unique_Ring_007		你的能量生成技生成 [{VALUE1}*2] 点额外的憎恨值和 {VALUE1} 点戒律值。
+423231	P2_ItemPassive_Unique_Ring_008		每当掉落一枚宝石时，还会掉落一枚已镶嵌入你头盔的同类型宝石。该效果对传奇宝石无效。
+423233	P2_ItemPassive_Unique_Ring_009		狂乱获得每个符文的效果。
+423234	P2_ItemPassive_Unique_Ring_010		受你时间延缓影响的敌人每秒受到 [{VALUE1}*100]% 的武器伤害。
+423235	P2_ItemPassive_Unique_Ring_011		每隔 {c_magic}{VALUE1}{/c} 秒，对一名附近的敌人发起轰击。
+423236	P2_ItemPassive_Unique_Ring_012		受你时间延缓影响的敌人在脱离影响后的 5 秒内，从你的奥术之球、能量气旋、聚能爆破、魔法飞弹、冲击震波、幽魂之刃以及原力之波中受到的伤害提高 [{VALUE1}*100]%。
+423237	P2_ItemPassive_Unique_Ring_013		施放奥术之球、能量气旋、聚能爆破、魔法飞弹、冲击震波、幽魂之刃或原力之波会使时间延缓的冷却时间缩短 {VALUE1} 秒。
+423238	P2_ItemPassive_Unique_Ring_014		瘟疫虫群会持续影响你身边的敌人。
+423239	P2_ItemPassive_Unique_Ring_015		时间延缓获得每个符文的效果。
+423240	P2_ItemPassive_Unique_Ring_016		能量气旋周期性地将 {c_magic}{VALUE1}{/c_magic} 码内的小型敌人卷过来。
+423241	P2_ItemPassive_Unique_Ring_017		多重射击可击中生命值低于 {c_magic}[{VALUE1}*100]%{/c} 的敌人两次。
+423242	P2_ItemPassive_Unique_Ring_018		爆裂掌的死亡爆炸效果会产生爆裂掌。
+423243	P2_ItemPassive_Unique_Ring_019		当你的替身爆炸时，你获得一项增益效果，使你飓风破、爆裂掌、神龙摆尾、风雷冲和金钟破技能所造成的伤害提高[{VALUE1}*100]%，持续3秒。
+423244	P2_ItemPassive_Unique_Ring_020		如果没有敌人在你身边 10 码范围之内，你可获得 [{VALUE1}*100]% 的伤害减免并且造成的伤害提高 [{VALUE1}*100]%，持续 8 秒。
+427798	P2_ItemPassive_Unique_Ring_021		疾风击消耗 {VALUE1} 点内力，但使用技能后会返还一层效果。
+427799	P2_ItemPassive_Unique_Ring_022		你的内力生成技攻击速度提高25%，伤害增加[{VALUE1}*100]%。
+428220	P2_ItemPassive_Unique_Ring_023		被你的缠绕射击限制移动的敌人，受到的所有伤害提高 {c_magic}[{VALUE1}*100]%{/c}。
+429648	P2_ItemPassive_Unique_Ring_024		你的寒冰护甲使你从近战攻击中受到的伤害降低{c_magic}[{VALUE1}*100]%{/c_magic}，并且每当你承受相当于10%生命值的伤害时，自动施放冰霜新星。
+429665	P2_ItemPassive_Unique_Ring_025		狂暴冲撞如果只击中 1 名敌人返还一层蓄力。
+429673	P2_ItemPassive_Unique_Ring_026		每次使用狂暴冲撞都会使你下一个怒气消耗攻击的伤害提高 [{VALUE1}*100]%。该效果叠加。每次施展怒气消耗攻击吞噬最多 5 层叠加效果。
+429851	P2_ItemPassive_Unique_Ring_027		你的攻击技每消耗10点怒气，狂暴者之怒和先祖召唤的冷却时间便缩短[{VALUE1}]秒。
+429855	P2_ItemPassive_Unique_Ring_028		攻击会使你的伤害提高 [{VALUE1}*100]%，持续 8 秒。奥术、冰霜、火焰以及闪电攻击每攻击一次叠加一层。叠到 4 层时，每一种不同的元素攻击都可以使增伤效果的持续时间延长 2 秒，最多可达 8 秒。
+429856	P2_ItemPassive_Unique_Ring_029		每当你施放飓风破、爆裂掌、神龙摆尾、七相拳和金钟破时，幻身也会施放这些技能。
+429857	P2_ItemPassive_Unique_Ring_030		你的法力消耗技击中敌人时，你的战宠对他们造成的伤害提高 [{VALUE1}*100]%，持续 8 秒。
+429885	P2_ItemPassive_Unique_Ring_031		复仇之雨造成的伤害提高[{VALUE1}*100]%。
+430135	P2_ItemPassive_Unique_Ring_032		狂暴者之怒获得所有符文效果。
+430228	P2_ItemPassive_Unique_Ring_033		你的内力生成技使疾风击的武器伤害提高至 [{VALUE1}*100]%，持续 6 秒，并且疾风击使你的内力生成技造成的伤害提高 1250%，持续 6 秒。
+430289	P2_ItemPassive_Unique_Ring_034		你的内力生成技使你受到的伤害降低{c_magic}[{VALUE1}*100]%{/c_magic}，持续3秒。
+430671	P2_ItemPassive_Unique_Ring_035		当你用法力消耗技击中敌人时，召唤一个鬼娃跟班。
+430672	P2_ItemPassive_Unique_Ring_036		奥术、冰霜、火焰以及闪电攻击都会使你的所有抗性提高 [{VALUE1} * 100]%，持续 8 秒。
+430673	P2_ItemPassive_Unique_Ring_037		陨石术的伤害提高100%。当你的陨石术击中3个或更少的敌人时，伤害提高{c_magic}[{VALUE1}*100]%{/c_magic}。
+430674	P2_ItemPassive_Unique_Ring_038		单一元素的伤害提高{c_magic}[{VALUE1}*100]%{/c}，持续4秒。该效果会在你职业可用元素间循环，顺序如下：奥术、冰霜、火焰、神圣、闪电、物理、毒性。
+430675	P2_ItemPassive_Unique_Ring_039		盾牌猛击和横扫的伤害提高[{VALUE1}*100]%。
+430676	P2_ItemPassive_Unique_Ring_040		每使用一次盾牌猛击和横扫，便会使你的律法与防御技能的冷却时间缩短 1 秒。
+430677	P2_ItemPassive_Unique_Ring_041		僵尸巨兽召唤出3只较小的僵尸巨兽，每只都比原先的更为强大。
+430678	P2_ItemPassive_Unique_Ring_042		当你的盾牌猛击击中 3 个或更少的敌人时，其伤害提高 {c_magic}[{VALUE1}*100]%{/c_magic} 并且返还 25% 所消耗的愤怒值。
+430679	P2_ItemPassive_Unique_Ring_043		大地践踏会造成一次山崩地裂。
+430680	P2_ItemPassive_Unique_Ring_044		每存活一只鬼娃，你和你的宠物受到的伤害便降低 [{VALUE1}*100]%。
+430681	P2_ItemPassive_Unique_Ring_045		每当正义击中敌人时，就会形成一把祝福之锤。
+430682	P2_ItemPassive_Unique_Ring_046		朝四面八方发出烈焰斩。
+430683	P2_ItemPassive_Unique_Ring_047		格挡会释放出天堂之火。
+430684	P2_ItemPassive_Unique_Ring_048		当狂暴者之怒和先祖召唤都激活时，你造成的伤害提高[{VALUE1}*100]%。
+430685	P2_ItemPassive_Unique_Ring_049		使你幻身的被动效果和你真言的基础被动效果提高[{VALUE1}*100]%。
+430686	P2_ItemPassive_Unique_Ring_050		你的火焰法术使最多3名敌人爆炸，对10码内的敌人造成[{VALUE1}*100]%的武器伤害（作为火焰伤害）。
+434377	P2_ItemPassive_Unique_Ring_051		在旋风斩持续期间，你的攻击速度和移动速度提高[{VALUE1}*100]%。
+434849	P2_ItemPassive_Unique_Ring_052		你的修为法术会使奥术之球的伤害提高 {c_magic}[{VALUE1} * 100]%{/c_magic}，持续 6 秒，最多叠加 3 次。
+434964	P2_ItemPassive_Unique_Ring_053		施放复仇之雨后，造成的伤害提高 [{VALUE1}*100]%，受到的伤害降低 60%，持续 10 秒。
+434966	P2_ItemPassive_Unique_Ring_054		蚀魂释放出 {VALUE1} 个额外的鬼魂。
+434967	P2_ItemPassive_Unique_Ring_055		当蚀魂击中已经受其影响的敌人时，立即对敌人造成相当于 {VALUE1} 秒蚀魂的伤害。
+434969	P2_ItemPassive_Unique_Ring_056		灵魂收割获得所有符文效果，并且你每次施放蚀魂或瘟疫虫群都会使其冷却时间减少 {VALUE1} 秒。
+434980	P2_ItemPassive_Unique_Ring_057		当你的能量消耗技击中敌人时，造成的伤害提高 [{VALUE1}*100]%，持续 5 秒。
+435016	P2_ItemPassive_Unique_Ring_058		你的横扫每击中一名敌人便会使你的下一个横扫的伤害提高{c_magic}[{VALUE1}*100]%{/c_magic}，最多叠加5次。
+435040	P2_ItemPassive_Unique_Ring_059		先祖之锤若击中3个或更少的敌人，返还{c_magic}{VALUE1}{/c_magic}点怒气。
+433021	P2_Legendary_Potion_07		当生命值低于50%时使用，恢复{c_magic}[{VALUE1}*100]%{/c_magic}能量。
+429651	P2_SpecialGoblinRiftSpawn		
+436426	P3_ItemPassive_Unique_Ring_001		使用天罚之剑落地后 8 秒内受到的伤害降低 [{VALUE1}*100]% 。
+436427	P3_ItemPassive_Unique_Ring_002		祝福之锤的伤害提高 [{VALUE1}*100]% ，天罚之剑的伤害提高 500%。
+436428	P3_ItemPassive_Unique_Ring_003		每次使用祝福之锤击中一名敌人，都会使天罚之剑和挑衅的冷却时间缩短 {VALUE1} 秒。
+436430	P3_ItemPassive_Unique_Ring_004		祝福之锤的攻击速度和伤害提高 [{VALUE1}*100]% 。
+436468	P3_ItemPassive_Unique_Ring_005		多重射击的攻击速度提高 [{VALUE1}*100]% 。
+436472	P3_ItemPassive_Unique_Ring_006		扫射的弹药可以穿透敌人。
+436481	P3_ItemPassive_Unique_Ring_007		祝福之锤对其击中的前 3 名敌人造成的伤害提高 {c_magic}[{VALUE1}*100]%{/c_magic} 。
+436521	P3_ItemPassive_Unique_Ring_008		当你的祝福之锤击中 3 个或更少的敌人时，返还 {c_magic}[{VALUE1}*100]%{/c_magic} 所消耗的愤怒值。
+437710	P3_ItemPassive_Unique_Ring_009		对一名敌人施加骨疽后，你所受到的伤害降低 [{VALUE1}*100]% ，持续 10 秒。
+437711	P3_ItemPassive_Unique_Ring_010		施放亡者之墙后，你的主要技能酸蚀之云、火蝠、僵尸死士、僵尸犬、僵尸巨兽、亡者之握、食人鱼、亡者之墙造成的伤害提高 [{VALUE1}*100]% ，持续 15 秒。
+437840	P3_ItemPassive_Unique_Ring_011		御法者叠加效果还会使你的攻击速度、护甲值和抗性提高 [{VALUE1}*100]%。
+437843	P3_ItemPassive_Unique_Ring_012		当你使用御法者的技能攻击时，也会获得御法者叠加效果的层数。
+437844	P3_ItemPassive_Unique_Ring_013		在御法者形态下，你每秒施放一次毁灭之波，对 30 码范围内的敌人造成 [{VALUE1}*100]% 的武器伤害。
+437854	P3_ItemPassive_Unique_Ring_014		进入御法者形态时你将自动获得 {c_magic}{VALUE1}{/c_magic} 层御法者叠加效果。
+439303	P3_ItemPassive_Unique_Ring_015	亚拉基尔的灵魂	召唤一只永久的蛛后，在身后留下蛛网，在 5 秒内对敌人造成 [{VALUE1}*100*5]% 的武器伤害，并降低其移动速度。蛛后会向你施放尸蛛的位置移动。
+439308	P3_ItemPassive_Unique_Ring_016		妖术获得巨蟾之灾符文效果。召唤一只巨蟾后，你获得 [{VALUE1}*100]% 的伤害减免，且每秒治疗你生命上限 10% 的生命，持续 15 秒。
+439309	P3_ItemPassive_Unique_Ring_017		你的生物技能造成的伤害提高 [{VALUE1}*100]% 。生物技能包括尸蛛、蟾蜍之疫、火蝠、瘟疫虫群、妖术、以及食人鱼。
+439310	P3_ItemPassive_Unique_Ring_018		你的七相拳每一击都会造成两倍的技能总伤害。
+439311	P3_ItemPassive_Unique_Ring_019		你的内力生成技的第三击将施加爆裂掌。
+439312	P3_ItemPassive_Unique_Ring_020		你的爆裂掌伤害提高 [{VALUE1}*100]%，并且你的七相拳将引爆你的爆裂掌。
+440235	P3_ItemPassive_Unique_Ring_021		当不在御法者形态下时，你每次击中敌人都会使毁灭之波的伤害增加 [{VALUE1} * 100]% 的武器伤害，最多叠加 20 次。
+440336	P3_ItemPassive_Unique_Ring_022		御法者的叠加效果会在御法者形态结束后持续存在 {c_magic}{VALUE1}{/c_magic} 秒。
+440434	P3_ItemPassive_Unique_Ring_023		施放天罚之剑时将在落地位置施放审判，且获得衰弱符文效果。
+440457	P3_ItemPassive_Unique_Ring_024		敌人第一次对你造成伤害时，该次伤害降低 {c_magic}[{VALUE1}*100]%{/c}  ，并魅惑这名敌人 3 秒。
+440568	P3_ItemPassive_Unique_Ring_025		每拥有一点内力，你的内力生成技造成的伤害便提高 [{VALUE1}*100|1|]% 。
+440569	P3_ItemPassive_Unique_Ring_026		当达到内力上限时，造成的所有伤害提高 [{VALUE1}*100]% ，但你不会再被动生成内力，并且每秒消耗 65 点内力直至你内力耗尽。
+440598	P3_ItemPassive_Unique_Ring_027		七相拳的每一击使伤害降低 {c_magic}[{VALUE1}*100|1|]%{/c_magic} ，持续7秒。
+440743	P3_ItemPassive_Unique_Ring_028		你的主要技能的攻击速度提高 30% ，造成的伤害提高 {c_magic}[{VALUE1}*100]%{/c} 。
+440790	P3_ItemPassive_Unique_Ring_029		引导火蝠时，你获得 30% 的伤害减免以及 {c_magic}{VALUE1}{/c} 点击中回复生命。
+441113	P3_ItemPassive_Unique_Ring_030		套装加成效果所需的装备数量降低1件（最少为2件）
+441278	P3_ItemPassive_Unique_Ring_031		亡者之墙造成的伤害提高 {c_magic}[{VALUE1}*100]%{/c}，可在 2 秒内最多施放三次，然后再触发冷却时间。
+441279	P3_ItemPassive_Unique_Ring_032		先祖之锤的攻击速度提高 50% ，造成的伤害提高 {c_magic}[{VALUE1}*100]%{/c} 。
+441280	P3_ItemPassive_Unique_Ring_033		先祖召唤获得先祖之怒符文的效果。
+441294	P3_ItemPassive_Unique_Ring_034		顺劈斩基于损失的怒气百分比最多可造成 {c_magic}[{VALUE1}*100]%{/c} 的额外伤害。
+441305	P3_ItemPassive_Unique_Ring_035		裂地斩对其击中的前 5 名敌人造成的伤害提高 {c_magic}[{VALUE1}*100]%{/c} 。
+441318	P3_ItemPassive_Unique_Ring_036		Demon Hunter defensive item. <NYI>
+441349	P3_ItemPassive_Unique_Ring_037		武器飞掷最多生成 {c_magic}{VALUE1}{/c} 点额外怒气（基于被命中的敌人的距离），当被命中的敌人距离你 20 码或更远时取最大值。
+441517	P3_ItemPassive_Unique_Ring_038		你的憎恨生成技可使你受到的伤害降低 {c_magic}[{VALUE1}*100]%{/c_magic} ，持续 5 秒。
+442353	P3_ItemPassive_Unique_Ring_039		使镶入头盔中的任何宝石的作用提高 {c_magic}[{VALUE1}*100]%{/c} 。该效果对传奇宝石无效。
+442477	P3_ItemPassive_Unique_Ring_040		使僵尸死士的法力消耗降低  {c_magic}[{VALUE1}*100]%{/c} 。
+442478	P3_ItemPassive_Unique_Ring_041		酸蚀之云获得酸蚀软泥符文的效果。
+442660	P4_Crab_Mother_Enrage		
+439325	P4_DemonFlyer_FireBreath	红色烈焰吐息	这是你近距离战斗时所使用的技能。
+435046	p4_demonTrooper_SpecialMelee		
+437524	P4_Forest_Mysterious_Man_Spirit_Form		
+437546	P4_Forest_Mysterious_Man_Spirit_Setup		
+445642	P4_Forest_MysteriousHermit_ArcaneFireball		
+445864	P4_Forest_MysteriousHermit_ArcaneFireball+		
+445865	P4_Forest_MysteriousHermit_ArcaneFlameWall+		
+445808	p4_Forest_MysteriousHermit_BoomerangBlade		
+437112	p4_Forest_MysteriousHermit_Projectile		
+445850	p4_Forest_MysteriousHermit_TeleportIllusion		
+433729	p4_Goatman_Fireball		
+437534	p4_Ice_Goatman_Ranged_Charged_Shot		
+434171	p4_Ice_Porcupine_Backpedal_Shot		
+434174	p4_Ice_Porcupine_JumpBack		
+430206	p4_Ice_Porcupine_Nova		
+434209	p4_Ice_Porcupine_Shot		
+444521	P4_ItemPassive_Unique_Ring_001		使地震、山崩地裂、跳斩、大地践踏、上古之矛以及裂地斩的伤害提高 [{VALUE1}*100]%。
+444522	P4_ItemPassive_Unique_Ring_002		暗影飞刀对击中的第一个敌人造成额外 [{VALUE1}*100]% 的武器伤害。
+444929	P4_ItemPassive_Unique_Ring_003		使上古之矛 - 投掷巨石的伤害提高 100%。当你的投掷巨石击中 5 个或更少的敌人时，伤害提高 {c_magic}[{VALUE1}*100]%{/c_magic}。
+444969	P4_ItemPassive_Unique_Ring_004		战吼和威吓呐喊会造成山崩地裂与地震。
+445008	P4_ItemPassive_Unique_Ring_005		
+445266	P4_ItemPassive_Unique_Ring_006		使用暗影飞刀后，影轮翻在 2 秒内不消耗能量。
+445274	P4_ItemPassive_Unique_Ring_007		每隔一秒，你的下一个刀扇技能的伤害提高 {c_magic}[{VALUE1}*100]%{/c}，最多叠加 30 次。
+445279	P4_ItemPassive_Unique_Ring_008		击中一名已经被刺穿的敌人时，暗影飞刀返还 {c_magic}{VALUE1}{/c} 点憎恨值。
+445427	P4_ItemPassive_Unique_Ring_009		你的修为法术攻击速度提高 50%，并且恢复 {c_magic}{VALUE1}{/c_magic} 点奥能。
+445639	P4_ItemPassive_Unique_Ring_010		使用轰击对一名敌人造成伤害后，你受到的伤害降低 [{VALUE1} * 100]%，持续 20 秒。
+445692	P4_ItemPassive_Unique_Ring_011		你拥有的每一层灵魂收割效果都能使你受到的所有伤害降低 [{VALUE1}*100]%。
+445694	P4_ItemPassive_Unique_Ring_012		你对同时受到你蚀魂和瘟疫虫群影响的敌人造成的伤害提高 {c_magic}[{VALUE1}*100]%{/c}。
+445765	P4_ItemPassive_Unique_Ring_013		瘟疫虫群获得剧毒虫群符文效果，造成的伤害提高 {c_magic}[{VALUE1}*100]%{/c}。
+445798	P4_ItemPassive_Unique_Ring_014		如果这是你唯一的物品套装加成效果时，你装备的每一件远古物品都会使你造成的伤害提高 [{VALUE} * 100]%，受到的伤害降低 4%。
+445814	P4_ItemPassive_Unique_Ring_015		每一名被点燃的敌人都会使你的伤害提高 [{VALUE1}*100]%，受到的伤害降低 3%。该效果最多可以叠加 20 次。每当附近有精英怪被点燃时，你将会获得最大加成效果。
+445829	P4_ItemPassive_Unique_Ring_016		你的荆棘伤害现在会对你周围 15 码范围内的所有敌人造成伤害。你每次使用惩罚、烈焰斩或格挡一次攻击，你的荆棘伤害便提高 [{VALUE}*100]%，持续 2 秒。
+445920	P4_ItemPassive_Unique_Ring_017		奥术之球的爆炸将额外触发一次。
+445942	P4_ItemPassive_Unique_Ring_018		当阿卡拉特勇士激活时，你造成的伤害提高 600%，受到的伤害降低 15%。
+445943	P4_ItemPassive_Unique_Ring_019		阿卡拉特勇士获得先知化身以及圣力代言符文效果。
+446008	P4_ItemPassive_Unique_Ring_020		祝福之盾击中第一个敌人的伤害提高 {c_magic}[{VALUE1}*100]%{/c_magic}。
+446063	P4_ItemPassive_Unique_Ring_021		你的祝福之盾击中每一名敌人都会使你祝福之盾的伤害提高 {c_magic}[{VALUE1} * 100]%{/c_magic}，持续 3 秒。
+446142	P4_ItemPassive_Unique_Ring_022		每当有敌人受到你的天堂之怒的伤害时，都会使你的天堂之怒对其造成的伤害提高 {c_magic}[{VALUE1}*100]%{/c_magic}。
+446146	P4_ItemPassive_Unique_Ring_023		使复仇的冷却时间减少 {c_magic}[{VALUE1}*100]%{/c_magic}。
+436797	p4_ItemPassive_Unique_Ring_024_KKG	地狱火焰	
+446162	P4_ItemPassive_Unique_Ring_025		天堂之怒对被致盲、被定身或被昏迷的敌人造成的伤害提高 {c_magic}[{VALUE1}*100]%{/c_magic}。
+446187	P4_ItemPassive_Unique_Ring_026		施放暗影之力、烟雾弹、影轮翻后，受到的伤害降低 {c_magic}[{VALUE1}*100]%{/c}，持续 8 秒。
+446195	P4_ItemPassive_Unique_Ring_027		你放出的每一个能量气旋（最多 5 个）都能使你的能量气旋的伤害提高 {c_magic}[{VALUE1}*100]%{/c_magic}。
+446318	P4_ItemPassive_Unique_Ring_028		使集束箭的憎恨值消耗降低 {c_magic}[{VALUE1} * 100]%{c_magic}。
+446359	P4_ItemPassive_Unique_Ring_029		金币和生命球的拾取范围扩大 {VALUE1} 码。
+446502	P4_ItemPassive_Unique_Ring_030		当敌人受到你的致盲、定身或昏迷效果时，你的祝福之锤对其造成的伤害提高 {c_magic}[{VALUE1}*100]%{/c_magic}，持续 10 秒。
+446511	P4_ItemPassive_Unique_Ring_031	唤魔师荆棘	惩罚和烈焰斩的攻击速度提高 50%，并且对你击中的第一个敌人造成相当于你荆棘伤害 [{VALUE1}*100]% 的伤害。
+446541	P4_ItemPassive_Unique_Ring_032		受到的近战伤害降低 {c_magic}[{VALUE1}*100]%。
+446562	P4_ItemPassive_Unique_Ring_033		神龙摆尾、风雷冲、金钟破消耗一层劲风煞，造成的伤害提高 [{VALUE1}*100]%。
+446565	P4_ItemPassive_Unique_Ring_034		获得相当于你格挡几率 {c_magic}[{VALUE1}*100]%{/c} 的伤害减免。
+446592	P4_ItemPassive_Unique_Ring_035		狂暴冲撞造成的伤害提高，数值相当于你移动速度加成的 {c_magic}[{VALUE1}*100]%{/c}。
+446615	P4_ItemPassive_Unique_Ring_036		获得相当于你体能值 {c_magic}[{VALUE1} * 100]%{/c_magic} 的荆棘伤害。
+446638	P4_ItemPassive_Unique_Ring_037		武器飞掷和上古之矛的伤害提高 {c_magic}[{VALUE1}*100]%{/c}。
+446639	P4_ItemPassive_Unique_Ring_038		你每拥有一只激活的战宠，你受到的伤害便降低 {c_magic}[{VALUE1}*100|1|]%{/c}。
+446640	P4_ItemPassive_Unique_Ring_039		当引导旋风斩、急速射击、扫射、风雷冲、火蝠、奥术洪流、瓦解射线或冰霜射线时，你造成的伤害提高 {c_magic}[{VALUE1}*100]%{/c}，受到的伤害降低 25%。
+446641	P4_ItemPassive_Unique_Ring_040		你每拥有一点憎恨值，飞轮刃造成的伤害便提高 {c_magic}[{VALUE1}*100|1|]%{/c}。
+446655	P4_ItemPassive_Unique_Ring_041		复仇获得黑暗之心符文效果。
+446734	P4_ItemPassive_Unique_Ring_042		火蝠攻击速度加快 100%，消耗的法力值降低 {c_magic}[{VALUE1}*100]%{/c}。
+446761	P4_ItemPassive_Unique_Ring_043		劲风煞每秒会在你击中的上一名敌人身边生成一个诱饵，嘲讽附近的敌人然后爆炸，你每拥有一层劲风煞，爆炸就会造成 [{VALUE1}*100]% 的武器伤害。
+446963	P4_ItemPassive_Unique_Ring_043_SpawnDecoy	孙武空的分身	
+446762	P4_ItemPassive_Unique_Ring_044		当劲风煞激活时，你受到的伤害减少 [{VALUE1}*100]%。
+446969	P4_ItemPassive_Unique_Ring_045		灵魂弹幕获得魅魂飞弹和万灵之愿符文效果。
+447029	P4_ItemPassive_Unique_Ring_046		烈焰炸弹生成 {c_magic}{VALUE1}{/c} 点法力。
+447030	P4_ItemPassive_Unique_Ring_047		使群体混乱的冷却时间缩短 {c_magic}{VALUE1}{/c} 秒。
+447043	P4_ItemPassive_Unique_Ring_048		神龙摆尾攻击速度加快 50%，造成的伤害提高 {c_magic}[{VALUE1}*100]%{/c}。
+447060	P4_ItemPassive_Unique_Ring_049		施放狂暴冲撞、大地践踏、跳斩后，受到的伤害减少 {c_magic}[{VALUE1}*100]%{/c}，持续 8 秒。
+447130	P4_ItemPassive_Unique_Ring_050		劲风煞未对任何敌人造成伤害时，每秒获得 {VALUE1} 层叠加效果。
+447290	P4_ItemPassive_Unique_Ring_051		战马冲锋的持续时间延长 2 秒。此外，每消灭一名敌人可使其冷却时间缩短 [{VALUE1}] 秒。
+447291	P4_ItemPassive_Unique_Ring_052		战马冲锋使用期间及其结束后的 5 秒内，造成的伤害提高 [{VALUE1}*100]%。
+447295	P4_ItemPassive_Unique_Ring_053		金钟破还会使敌人在 3 秒内减速 80%，并且造成的伤害提高 {c_magic}[{VALUE1}*100]%{/c_magic}。
+447368	P4_ItemPassive_Unique_Ring_054		金钟破的伤害提高 150%。当你的金钟破初始轰击击中 3 名或更少的敌人时，其伤害提高 {c_magic}[{VALUE1}*100]%{/c_magic}。
+447372	P4_ItemPassive_Unique_Ring_055		你的主要技能攻击速度加快 50%，造成的伤害提高 {c_magic}[{VALUE1}*100]%{/c}。
+447375	P4_ItemPassive_Unique_Ring_056		猛击最多可消耗 40 点怒气，造成最高可达 {c_magic}[{VALUE1}*100]%{/c} 的伤害。
+447541	P4_ItemPassive_Unique_Ring_057		移动时，受到的伤害最多可降低至 [{VALUE1}*100]%。
+447553	P4_ItemPassive_Unique_Ring_058		站立不动时，造成的伤害最多可提高至 100%。
+447581	P4_ItemPassive_Unique_Ring_059		圣教军荆棘戒指
+447696	P4_ItemPassive_Unique_Ring_060		暗影之力还会触发烟雾弹。
+447816	P4_ItemPassive_Unique_Ring_061		攻击可使你获得一道相当于你生命值上限 {c_magic}[{VALUE1}*100|1|]%{/c} 的吸收护盾。最多可叠加 10 次。
+447839	P4_ItemPassive_Unique_Ring_062		你的主要技能治疗你相当于你损失生命值 {c_magic}[{VALUE1}*100|1|]%{/c} 的生命。
+447843	P4_ItemPassive_Unique_Ring_063		亡者之握不再有冷却时间。
+447905	P4_ItemPassive_Unique_Ring_064		影轮翻造成的伤害提高 [{VALUE1}*100]%。
+448998	P4_ItemPassive_Unique_Ring_065		元素易伤的每层伤害加成效果提高至 [{VALUE1}*100]%。
+449001	P4_ItemPassive_Unique_Ring_066		你的奥术洪流、瓦解射线以及冰霜射线，每隔一秒还会施放一种你的其它伤害性奥能消耗技。
+449021	P4_ItemPassive_Unique_Ring_067		当你的风雷冲击中 3 名或更少的敌人时，获得 100% 的暴击几率。
+449031	P4_ItemPassive_Unique_Ring_068		当敌人在受到你的致盲、冰冻或昏迷效果后的 5 秒内，你的风雷冲对其造成的伤害提高 {c_magic}[{VALUE1}*100]%{/c_magic}。
+449037	P4_ItemPassive_Unique_Ring_069		你每次使用聚能爆破击中敌人，你的伤害提高 {c_magic}[{VALUE}*100]%{/c_magic}，伤害减免效果提高 15%，持续 6 秒。该效果最多可叠加 4 次。
+449043	P4_ItemPassive_Unique_Ring_070		使你护盾的效能提高 {c_magic}[{VALUE1}*100]%{/c_magic}。
+449046	P4_ItemPassive_Unique_Ring_071		TEMP Channeling Ring Power
+449048	P4_ItemPassive_Unique_Ring_072		奥术洪流、瓦解射线以及冰霜射线的奥能消耗减少 {c_magic}[{VALUE1}*100]%{/c_magic}。
+449049	P4_ItemPassive_Unique_Ring_073		使斗阵的冷却时间和伤害分别减少和提高 {c_magic}[{VALUE1}*100]%{/c}。
+449063	P4_ItemPassive_Unique_Ring_074		引导奥术洪流、瓦解射线或冰霜射线时，所有伤害提高 {c_magic}[{VALUE1}*100]%{/c_magic}。
+449064	P4_ItemPassive_Unique_Ring_075		主要能量高于 {c_magic}[{VALUE1}*100]%{/c_magic} 时，受到的所有伤害减少 50%。
+449114	P4_ItemPassive_Unique_Ring_076		急速射击不再有引导消耗。
+449222	P4_ItemPassive_Unique_Ring_077		被你飓风破命中的敌人受到你幻身的伤害提高 {c_magic}[{VALUE1}*100]%{/c_magic}，持续 5 秒。
+449236	P4_ItemPassive_Unique_Ring_078		飓风破使你受到的伤害降低 {c_magic}[{VALUE1}*100]%{/c_magic}，持续 5 秒。
+449237	P4_ItemPassive_Unique_Ring_079		TEMP Mystic Ally Shoulders
+449252	P4_ItemPassive_Unique_Ring_080		同时获得五种幻身诀符文效果，并且你每拥有一名幻身，你的伤害便提高 [{VALUE1}*100]%。
+449264	P4_ItemPassive_Unique_Ring_081		TEMP Phalanx Power.
+449671	P4_ItemPassive_Unique_Ring_082		
+449703	P4_ItemPassive_Unique_Ring_083		
+450294	P4_ItemPassive_Unique_Ring_084		当你有一个时间延缓法术正在生效时，你受到的伤害降低 [{VALUE1}*100]%。在你时间延缓法术效果范围内的盟友获得一半效果。
+450472	P4_ItemPassive_Unique_Ring_085		幽魂之刃的攻击速度加快 50%，造成的伤害提高 {c_magic}[{VALUE1}*100]%{/c}。
+433232	p4_LR_Boss_FedExCharge	近战攻击	挥动你的近战武器，造成 {c_green}{DamageMin} - {DamageMax}{/c} 点伤害。
+433225	p4_LR_Boss_SpawnBoneTurrets		
+429019	p4_LR_TerrorDemon_Wall		
+435737	p4_Maggot_Suicide_ProgressiveFreeze		
+442662	P4_Mermaid_Hydra	多头蛇	{c_gold}消耗：{/c_gold} {c_green}{Resource Cost}{/c_green} 点奥能<br><br>召唤一只魔法多头蛇，用火舌攻击敌人。
+423014	p4_Mole_Rat_Charge		
+423072	p4_rat_host_teleport		
+436574	p4_RatKing_DoubleSwing		
+440700	p4_RatKing_LifetimeBuff_Plagued		
+427175	p4_RatKing_RatBallMonster_Setup		
+427176	p4_RatKing_SummonRatBallMonster		
+427244	p4_RatKing_SummonRatVolcano		
+427211	p4_RatKing_Thunderdome		
+432984	p4_RatKing_WaspRain		
+437397	P4_Ruins_CannibalBarbarian_BurrowOut		
+436379	P4_Ruins_CannibalBarbarian_CombatRoll		
+437858	P4_Ruins_CannibalBarbarian_FuriousCharge	狂暴冲撞	
+436370	P4_Ruins_CannibalBarbarian_Groundstomp	大地践踏	
+439318	P4_Ruins_CannibalBarbarian_HammerOfTheAncients	先祖之锤	
+435911	P4_Ruins_CannibalBarbarian_IntroFear		
+436375	P4_Ruins_CannibalBarbarian_LeapQuake		
+435875	P4_Ruins_CannibalBarbarian_Shout		
+437262	P4_Ruins_CannibalBarbarian_Summon		
+437865	P4_Ruins_CannibalBarbarian_WeaponThrow	武器飞掷	
+435885	P4_Ruins_CannibalBarbarian_Whirlwind		
+433486	p4_ruins_frost_Event_TheZiggurat		
+406180	P4_Ruins_Frost_Trap_Swinging_Blade	新月铡	新月铡
+450213	P4_SacrificeMonster_BreakableNova		
+447376	P4_SacrificeMonster_Enrage		
+410520	P4_SandWasp_Projectile	剧毒刺针	
+430556	p4_Sasquatch_GorillaPound		
+415079	p4_Sasquatch_RockPunchKnockback		
+430582	p4_Sasquatch_SpikeLine		
+430448	p4_Sasquatch_TriplePunch	近战攻击	挥动你的近战武器，造成 {c_green}{DamageMin} - {DamageMax}{/c} 点伤害。
+435467	p4_ScavengerSpawner_A_Death		
+426866	p4_ScorpionBug_Hover_Projectile		
+431678	p4_SeaMonster_SpawnCrabs	海蟹坑	
+444770	p4_SetDung_Barb_Kings_Enmy		
+444771	p4_SetDung_Barb_Kings_Ply		
+444922	p4_SetDung_Barb_Might_Enmy		
+444923	p4_SetDung_Barb_Might_Ply		
+444875	p4_SetDung_Barb_Raekor_Enmy		
+444876	p4_SetDung_Barb_Raekor_Ply		
+444832	p4_SetDung_Barb_Wastes_Enmy		
+444834	p4_SetDung_Barb_Wastes_Ply		
+444632	p4_SetDung_Cru_Akkhan_Enmy		
+444633	p4_SetDung_Cru_Akkhan_Ply		
+444712	p4_SetDung_Cru_Roland_Enmy		
+444713	p4_SetDung_Cru_Roland_Ply		
+445277	p4_SetDung_Cru_Seeker_Enmy		
+445278	p4_SetDung_Cru_Seeker_Ply		
+445257	p4_SetDung_Cru_Thorns_Enmy		
+445258	p4_SetDung_Cru_Thorns_Ply		
+444769	p4_SetDung_Death_Barb_Kings		
+444915	p4_SetDung_Death_Barb_Might		
+444874	p4_SetDung_Death_Barb_Raekor		
+444826	p4_SetDung_Death_Barb_Wastes		
+444631	p4_SetDung_Death_Cru_Akkhan		
+444710	p4_SetDung_Death_Cru_Roland		
+445276	p4_SetDung_Death_Cru_Seeker		
+445251	p4_SetDung_Death_Cru_Thorns		
+445035	p4_SetDung_Death_DH_Ess		
+444996	p4_SetDung_Death_DH_Mar		
+445007	p4_SetDung_Death_DH_Nat		
+445062	p4_SetDung_Death_DH_Shadow		
+445173	p4_SetDung_Death_Monk_Innas		
+445225	p4_SetDung_Death_Monk_Storms		
+445191	p4_SetDung_Death_Monk_Sunwuko		
+445208	p4_SetDung_Death_Monk_Uliana		
+445098	p4_SetDung_Death_WD_Haunt		
+445155	p4_SetDung_Death_WD_Jade		
+445132	p4_SetDung_Death_WD_Spider		
+445081	p4_SetDung_Death_WD_Tooth		
+444577	p4_SetDung_Death_Wiz_Firebird		
+443832	p4_SetDung_Death_Wiz_Opus		
+444516	p4_SetDung_Death_Wiz_Rasha		
+444972	p4_SetDung_Death_Wiz_Vyr		
+445036	p4_SetDung_DH_Ess_Enmy		
+445037	p4_SetDung_DH_Ess_Ply		
+444997	p4_SetDung_DH_Mar_Enmy		
+444998	p4_SetDung_DH_Mar_Ply		
+445009	p4_SetDung_DH_Nat_Enmy		
+445010	p4_SetDung_DH_Nat_Ply		
+445063	p4_SetDung_DH_Shadow_Enmy		
+445064	p4_SetDung_DH_Shadow_Ply		
+443795	p4_SetDung_Generics_Enmy		
+443833	p4_SetDung_Generics_Ply		
+450351	p4_SetDung_Generics_Ply_Balance		
+450469	p4_SetDung_Generics_Portal		
+445174	p4_SetDung_Monk_Innas_Enmy		
+445175	p4_SetDung_Monk_Innas_Ply		
+445233	p4_SetDung_Monk_Storms_Enmy		
+445234	p4_SetDung_Monk_Storms_Ply		
+445192	p4_SetDung_Monk_Sunwuko_Enmy		
+445193	p4_SetDung_Monk_Sunwuko_Ply		
+445209	p4_SetDung_Monk_Uliana_Enmy		
+445210	p4_SetDung_Monk_Uliana_Ply		
+447584	p4_SetDung_MonsterAffix_MortarCast		
+447950	p4_SetDung_Pedestal_Barb_Kings		
+447975	p4_SetDung_Pedestal_Barb_Might		
+447976	p4_SetDung_Pedestal_Barb_Raekor		
+447977	p4_SetDung_Pedestal_Barb_Wastes		
+447978	p4_SetDung_Pedestal_Cru_Akkhan		
+447979	p4_SetDung_Pedestal_Cru_Roland		
+447980	p4_SetDung_Pedestal_Cru_Seeker		
+447981	p4_SetDung_Pedestal_Cru_Thorns		
+447982	p4_SetDung_Pedestal_DH_Ess		
+447984	p4_SetDung_Pedestal_DH_Mar		
+447983	p4_SetDung_Pedestal_DH_Nat		
+447985	p4_SetDung_Pedestal_DH_Shadow		
+447986	p4_SetDung_Pedestal_Monk_Innas		
+447987	p4_SetDung_Pedestal_Monk_Storms		
+447988	p4_SetDung_Pedestal_Monk_Sunwuko		
+447989	p4_SetDung_Pedestal_Monk_Uliana		
+447990	p4_SetDung_Pedestal_WD_Haunt		
+447991	p4_SetDung_Pedestal_WD_Jade		
+447992	p4_SetDung_Pedestal_WD_Spider		
+447993	p4_SetDung_Pedestal_WD_Tooth		
+447995	p4_SetDung_Pedestal_Wiz_Firebird		
+447996	p4_SetDung_Pedestal_Wiz_Opus		
+447997	p4_SetDung_Pedestal_Wiz_Rasha		
+447998	p4_SetDung_Pedestal_Wiz_Vyr		
+447038	p4_SetDung_Portal_Checks		
+445099	p4_SetDung_WD_Haunt_Enmy		
+445100	p4_SetDung_WD_Haunt_Ply		
+445156	p4_SetDung_WD_Jade_Enmy		
+445157	p4_SetDung_WD_Jade_Ply		
+445133	p4_SetDung_WD_Spider_Enmy		
+445134	p4_SetDung_WD_Spider_Ply		
+445082	p4_SetDung_WD_Tooth_Enmy		
+445083	p4_SetDung_WD_Tooth_Ply		
+451207	p4_SetDung_Westmarch_Brute_Charge		
+445771	p4_SetDung_Wiz_Firebird_Enmy		
+445772	p4_SetDung_Wiz_Firebird_Ply		
+444008	p4_SetDung_Wiz_Opus_Enmy		
+443898	p4_SetDung_Wiz_Opus_Ply		
+444519	p4_SetDung_Wiz_Rasha_Enmy		
+444520	p4_SetDung_Wiz_Rasha_Ply		
+444975	p4_SetDung_Wiz_Vyr_Enmy		
+444976	p4_SetDung_Wiz_Vyr_Ply		
+445778	P4_Shrine_Debuff_Damage	飞驰圣坛	
+445788	P4_Shrine_Debuff_Spawner	飞驰圣坛	
+433150	p4_SkeletonZombieSpawner_A_Death		
+274506	P4_SpiderBomb_AOD_Damage		
+275328	P4_SpiderBomb_BurrowIn		
+410598	p4_Wasp_Nest_Death		
+435834	p4_WickermanSpawner_A_Death		
+430133	p4_WoodWraith_VineTrap	蔓藤陷阱	
+435833	P4_WoodWraithSummonSpores_Ceremony_Event		
+411373	p4_Yeti_IceBreath		
+413296	p4_Yeti_IceSpikes		
+437834	p4_Yeti_Melee_Basic	近战攻击	用近战武器挥击一名敌人。<br><br>{c_yellow}当能量较低时，技能默认为基础攻击。{/c}
+440693	p4_Yeti_OverheadSmash		
+429905	p4_Yeti_SnowBoulderRoll		
+451158	P41_ItemPassive_Unique_Ring_001		当你的风暴护甲电击到 30 码范围之外的一名敌人时，你在 3 秒内受到的伤害降低 {c_blue}[{VALUE1}*100]%{/c}。
+451160	P41_ItemPassive_Unique_Ring_002		旋风斩的伤害提高 {c_magic}[{VALUE1}*100]%{/c}
+451161	P41_ItemPassive_Unique_Ring_003		牺牲对受到瘟疫虫群和亡者之握影响的敌人，造成 {c_blue}[{VALUE1}*100]%{/c} 的额外伤害。
+451162	P41_ItemPassive_Unique_Ring_004		七相拳的伤害提高 100%，冷却时间缩短 {c_magic}[{VALUE1}*100]%{/c_magic}。
+451163	P41_ItemPassive_Unique_Ring_005		火蝠对受到瘟疫虫群或食人鱼影响的敌人造成的伤害提高 {c_magic}[{VALUE1}*100]%{/c}。
+451164	P41_ItemPassive_Unique_Ring_006		你的盾闪造成的伤害，最多相当于你前 {VALUE1} 次施放的盾牌猛击所造成的总伤害。
+451165	P41_ItemPassive_Unique_Ring_007		你每引导半秒的时间，急速射击造成的伤害便提高 {c_magic}[{VALUE1}*100]%{/c_magic}。最多叠加 4 次。
+451166	P41_ItemPassive_Unique_Ring_008		火焰技能造成的伤害提高 {c_magic}[{VALUE1}*100]%{/c}。
+451167	P41_ItemPassive_Unique_Ring_009		冰霜技能造成的伤害提高 {c_magic}[{VALUE1}*100]%{/c}，有 50% 的几率冻结敌人。
+451168	P41_ItemPassive_Unique_Ring_010		疾风击使疾风击的伤害提高 {c_magic}[{VALUE1}*100]%{/c_magic}，持续 1 秒，最多叠加 5 次。
+451169	P41_ItemPassive_Unique_Ring_011		元素箭根据符文获得不同的效果：<br>  {icon:bullet}闪电球现在以 30% 的速度移动。<br>  {icon:bullet}冰霜箭的伤害以及寒冷的持续时间提高 {c_magic}[{VALUE1}*100]%{/c_magic}。<br>  {icon:bullet}火祭箭的持续性地面伤害提高 {c_magic}[{VALUE1}*100]%{/c_magic}。<br>  {icon:bullet}闪电箭的伤害和昏迷时间提高 {c_magic}[{VALUE1}*100]%{/c_magic}。<br>  {icon:bullet}触须箭的伤害和治疗量提高 {c_magic}[{VALUE1}*100]%{/c_magic}。
+451170	P41_ItemPassive_Unique_Ring_012		疾风击使你受到的伤害降低 {c_magic}[{VALUE1}*100]%{/c_magic}，持续 6 秒。
+451171	P41_ItemPassive_Unique_Ring_013		
+451172	P41_ItemPassive_Unique_Ring_014		
+451173	P41_ItemPassive_Unique_Ring_015		
+451174	P41_ItemPassive_Unique_Ring_016		
+451175	P41_ItemPassive_Unique_Ring_017		
+451176	P41_ItemPassive_Unique_Ring_018		
+451177	P41_ItemPassive_Unique_Ring_019		
+451178	P41_ItemPassive_Unique_Ring_020		
+451186	P41_ItemPassive_Unique_Ring_021		陨石术的伤害提高 200%。当你的陨石击中 3 个或更少的敌人时，伤害提高 {c_magic}[{VALUE1}*100]%{/c_magic}。
+451236	P42_ItemPassive_Unique_Ring_001		
+451237	P42_ItemPassive_Unique_Ring_002		裂地斩使地震的伤害提高 {c_magic}[{VALUE1} * 100]%{/c_magic}，持续 3 秒。
+451238	P42_ItemPassive_Unique_Ring_003		天堂之拳消耗的愤怒值降低 40%，造成的伤害提高 {c_magic}[{VALUE1}*100]%{/c}。
+451239	P42_ItemPassive_Unique_Ring_004		尖刺陷阱获得穿骨脊刺符文效果，并且部署的速度提高一倍。
+451240	P42_ItemPassive_Unique_Ring_005		神龙摆尾对击中的前 {c_magic}{VALUE1}{/c} 名敌人造成的伤害提高 300%。
+451241	P42_ItemPassive_Unique_Ring_006		灵魂弹幕获得幽魂鬼影符文效果。每个激活的鬼魂都会使灵魂弹幕的伤害提高 {c_magic}[{VALUE1}*100]%{/c}。
+451242	P42_ItemPassive_Unique_Ring_007		距离目标每 10 码就会使闪电伤害提高 {c_magic}[{VALUE1}*100]%{/c}，最多可提高相当于 40 码的伤害。
+451243	P42_ItemPassive_Unique_Ring_008		尖刺陷阱产生的爆炸会在 1 秒后再次对所有敌人造成伤害。
+451244	P42_ItemPassive_Unique_Ring_009		
+451245	P42_ItemPassive_Unique_Ring_010		
+451246	P42_ItemPassive_Unique_Ring_011		
+451247	P42_ItemPassive_Unique_Ring_012		
+451248	P42_ItemPassive_Unique_Ring_013		
+451249	P42_ItemPassive_Unique_Ring_014		
+451250	P42_ItemPassive_Unique_Ring_015		
+451251	P42_ItemPassive_Unique_Ring_016		
+451252	P42_ItemPassive_Unique_Ring_017		
+451253	P42_ItemPassive_Unique_Ring_018		
+451254	P42_ItemPassive_Unique_Ring_019		
+451255	P42_ItemPassive_Unique_Ring_020		
+451313	P42_ItemPassive_Unique_Ring_697_x1		天堂之拳有 {c_magic}[{VALUE1}*100]%{/c_magic} 的几率施放两次。
+451333	p42_ItemPassive_Unique_Ring_945		每引爆一个尖刺陷阱，你的下一个非引导型憎恨值消耗技所造成的伤害便提高额外的 {c_magic}[{VALUE1}*100]%{/c}。
+455182	p43_AD_Barrel_Explode		木桶
+455050	p43_AD_Event_AnvilOfFury		
+455198	p43_AD_TrapArrow		
+455501	p43_d1_Butcher_Melee_Basic	近战攻击	用近战武器挥击一名敌人。<br><br>{c_yellow}当能量较低时，技能默认为基本攻击。{/c}
+453765	p43_d1_Diablo_ClawRip	爪撕	
+453803	p43_d1_fastMummy_Melee	近战	
+453802	p43_d1_fastMummy_Stealth	潜行	
+453994	p43_d1_FleshPitFlyer_Blink	闪烁	
+454139	p43_d1_Gorehound_AcidSpit		
+454586	p43_d1_Mage_Flash	闪光	
+454584	p43_d1_Mage_Teleport	传送	
+454163	p43_d1_TerrorDemon_LightningBreath	闪电吐息	
+453734	p43_d1_ZoltunKulle_FieryBoulder	烈焰巨石	
+453738	p43_d1_ZoltunKulle_Teleport	传送	
+454045	p43_d1_ZombieSkinny_Melee	黑死病	
+454918	P43_ItemPassive_Unique_Ring_001		压制每击中一名敌人，你的下一次压制的伤害便提高 {c_magic}[{VALUE1} * 100]%{/c_magic}。最多 20 名敌人。
+454927	P43_ItemPassive_Unique_Ring_002		被天罚之剑击中的每一名敌人都会使祝福之锤的伤害提高 {c_magic}[{VALUE1} * 100]%{/c_magic}，持续 10 秒。最多10层。
+454929	P43_ItemPassive_Unique_Ring_003		在灵光悟状态下打出使你传送的内力消耗技，还会免费模仿攻击远处的一名目标。
+454930	P43_ItemPassive_Unique_Ring_004	闪电余波 (传奇)	被瘫痪击晕的敌人还会承受 {c_magic}[{VALUE1} * 100]%{/c_magic} 的武器伤害（作为闪电伤害）。
+454932	P43_ItemPassive_Unique_Ring_005		你的灵魂弹幕不再造成直接伤害，而是在目标身上累积。当你停止施法时，它将爆炸并对 15 码范围内的所有敌人造成 {c_magic}[{VALUE1}*100]%{/c_magic} 的累积伤害。
+454934	P43_ItemPassive_Unique_Ring_006		手雷有一定几率弹跳 {c_magic}[{VALUE1}]{/c_magic} 次，每次弹跳造成额外的 50% 伤害。该加成效果最后一次弹跳提高至 800%。
+454935	P43_ItemPassive_Unique_Ring_007		尖刺陷阱爆炸还会发射一枚榴弹。
+454936	P43_ItemPassive_Unique_Ring_008		
+454937	P43_ItemPassive_Unique_Ring_009		
+454938	P43_ItemPassive_Unique_Ring_010		
+454939	P43_ItemPassive_Unique_Ring_011		
+454940	P43_ItemPassive_Unique_Ring_012		
+451256	P5_ItemPassive_Unique_Ring_001		
+451257	P5_ItemPassive_Unique_Ring_002		暗影飞刀投掷两把额外的飞刀。
+451258	P5_ItemPassive_Unique_Ring_003		
+451259	P5_ItemPassive_Unique_Ring_004		
+451260	P5_ItemPassive_Unique_Ring_005		
+451261	P5_ItemPassive_Unique_Ring_006		
+451262	P5_ItemPassive_Unique_Ring_007		
+451263	P5_ItemPassive_Unique_Ring_008		
+451264	P5_ItemPassive_Unique_Ring_009		
+451265	P5_ItemPassive_Unique_Ring_010		
+451266	P5_ItemPassive_Unique_Ring_011		
+451267	P5_ItemPassive_Unique_Ring_012		
+451268	P5_ItemPassive_Unique_Ring_013		
+451269	P5_ItemPassive_Unique_Ring_014		
+451270	P5_ItemPassive_Unique_Ring_015		
+451271	P5_ItemPassive_Unique_Ring_016		
+451272	P5_ItemPassive_Unique_Ring_017		
+451273	P5_ItemPassive_Unique_Ring_018		
+451274	P5_ItemPassive_Unique_Ring_019		
+451275	P5_ItemPassive_Unique_Ring_020		
+262935	Pages_Buff_Damage	次元之力	
+263029	Pages_Buff_Electrified		
+340227	Pages_Buff_Electrified_Cast	次元导体	
+398655	Pages_Buff_Electrified_Cast_TieredRift	次元导体	
+403404	Pages_Buff_Electrified_TieredRift		
+266258	Pages_Buff_Infinite_Casting	次元引导	
+266254	Pages_Buff_Invulnerable	次元之盾	
+428595	Pages_Buff_Invulnerable_Cast_v2		
+266271	Pages_Buff_Run_Speed	次元践踏	
+428605	Pages_Buff_Run_Speed_Knockback_Cast		
+428607	Pages_Buff_Run_Speed_Waller_Cast		
+257036	PandemoniumPortal		
+366954	PandemoniumPortal_Diablo		
+366951	PandemoniumPortal_ghom		
+366953	PandemoniumPortal_SiegeBreaker		
+366950	PandemoniumPortal_SkeletonKing		
+131976	PickupNearby		
+147876	PlagueOfToadsKnockback		
+375617	PlayerUpscaledBuff		
+30385	Proxy_Delayed_Power		
+30391	Punch	重击	历久弥新的作战技巧。<br><br>{c_yellow}当能量较低时，技能默认为基本近战攻击。{/c}
+265723	PVP_controlpoint		[TEMP] PVP_controlpoint
+202701	PvP_DamageBuff	[temp] pvp damage buff	
+203535	PvP_DeathstreakBuff	复仇	[Temp] DEATHSTREAK
+222243	PvP_HealingMacguffin	PvP_HealingMacguffin	[TEMP] Heals dudes
+267462	PVP_hill		[TEMP] PVP_hill
+404985	PvP_HunterBuff	[temp] pvp damage buff	
+234527	PvP_LevelEqualizerBuff	竞技场战斗	
+276837	PVP_Peanut_NeutralObjective		[TEMP] PVP_Peanut_NeutralObjective
+1749	PvP_RangedProjectile		
+275730	PVP_Shrine_Murderball		
+268588	PVP_spawner_setup		
+272501	PVP_spawner_TowerDefenders		
+274304	PVP_Stationary_attack		
+276805	PVP_ThreeControl_SpawnDefenders		
+97359	PVPBuff		
+170408	PVPRoundEndBuff	pvp round end mechanic	
+96719	PVPSkirmishBuff	练习回合	不会死亡，拥有无限能量，且可快速恢复生命值。
+432968	px_Boneyards_Camp_SnakemanSpawner		
+430626	px_bountytest_chaosportals_summonChampion		
+433224	px_Bridge_Camp_DemonSpawner		
+434337	px_Camp_PortalSpawner		
+433300	px_Crater_Camp_DemonSpawner		
+432385	px_FesteringWoods_Camp_GhoulSpawner		
+433137	px_GardensOfHope_Camp_DemonSpawner		
+433338	px_Graveyard_Camp_ReaperSpawner		
+432262	px_Highlands_Camp_CultistSpawner		
+434382	px_LeoricsDungeon_Camp_DemonSpawner		
+432336	px_Oasis_Camp_SnakemanSpawner		
+432327	px_QuestFollowerDamageSetup		
+433391	px_Ramparts_Camp_DemonSpawner		
+436329	px_Ruins_Frost_KingKanai_Whirlwind		
+434813	px_Ruins_Frost_ThreeGuardians_GoatmanLeap		
+432781	px_SpiderCaves_Camp_Cocoon_HumanVictim		
+432782	px_SpiderCaves_Camp_SpiderSpawner		
+433421	px_Spire_Camp_DemonSpawner		
+433057	px_StingingWinds_Camp_CultistSpawner		
+433254	px_Westmarch_Camp_ReaperSpawner		
+430766	px_Wilderness_Camp_TemplarSpawner		
+103338	Quest_CanyonBridge_Enchantress_RevealFootsteps		
+103337	Quest_CanyonBridge_Player_RevealFootsteps	任务：魔女占卜	让魔女利用占卜能力在区域内搜寻邪教徒的足迹。
+107729	QuillDemon_Projectile		
+364571	QuillDemon_Projectile_FastAttack		
+169411	RakCenterStone_electrifiedMinion	rakcenterstone_electrifiedminion_name	
+367779	Random_Movespeed_Scripted		
+30394	RangedEscort_Projectile		
+440699	RatKing_LifetimeBuff		
+317139	RedWingsBuff	典藏版增益效果	
+30420	RemoveBurrow_Effect		
+30422	ResurrectFallen		
+30424	Resurrection_Buff		
+30426	Rockworm_Attack		
+330606	Rockworm_BurrowAndTeleport		
+30427	Rockworm_BurstOut		
+219076	Rockworm_Grab	岩虫啃嚼	
+230406	Rockworm_Grab_BurstOut		
+30428	Rockworm_HideIdle		
+30429	Rockworm_PreBurst		
+30430	Rockworm_Retreat		
+30431	Rockworm_Web		
+30433	RootTryGrab		
+213730	SandMonster_BurrowOut		
+59308	SandMonster_BurrowOut_Long		
+30438	SandMonster_SandWall		
+223914	Sandmonster_Weapon_Melee_Instant	近战攻击	挥动你的近战武器，造成 {c_green}{DamageMin} - {DamageMax}{/c} 点伤害。
+30440	SandsharkBurrowIn		
+30441	SandsharkBurrowOut		
+30448	SandTornado_OnSpawn		
+30449	SandWasp_Projectile	剧毒刺针	
+1752	Scavenger_Leap		
+30450	ScavengerBurrowIn		
+30451	ScavengerBurrowOut		
+30454	Scoundrel_Anatomy	解剖	提高你和痞子的暴击几率。
+30455	Scoundrel_Bandage	包扎	为玩家或痞子恢复 [{hitpoints granted by heal}] 点生命值。<br><br>冷却时间：{c_green}[{cooldown time}/60|1|]{/c_green} 分钟
+95675	Scoundrel_CripplingShot	致残射击	{c_gold}冷却时间：{/c_gold} {c_green}{Script Formula 4}{/c_green} 秒<br><br>远程攻击，使敌人减速。
+97436	Scoundrel_DirtyFighting	阴险打击	{c_gold}冷却时间：{/c_gold} {c_green}{Script Formula 0}{/c_green} 秒<br><br>暂时致盲位于痞子前方的敌人。
+200169	Scoundrel_Hysteria	歇斯底里	暴击可暂时提高你和痞子造成的伤害。
+30460	Scoundrel_PoisonArrow	毒箭	{c_gold}冷却时间：{/c_gold} {c_green}{Script Formula 5}{/c_green} 秒<br><br>射出一发致命毒箭。
+95690	Scoundrel_PowerShot	劲射	{c_gold}冷却时间：{/c_gold} {c_green}{Script Formula 4}{/c_green} 秒<br><br>在指定区域内造成伤害并有一定几率使敌人昏迷。
+99902	Scoundrel_Ranged_Projectile		
+99904	Scoundrel_RunAway		
+30464	Scoundrel_Vanish	消失	{c_gold}冷却时间：{/c_gold} {c_green}{Script Formula 0}{/c_green} 秒<br><br>当痞子身处险境时，可暂时消失不见。
+30469	ScrollBuff		卷轴
+217340	SelectingSkill	召回之石	这是你近距离战斗时所使用的技能。
+123014	SetItemBonusBuff		
+30471	SetMode_EscortFollow		
+30473	ShieldSkeleton_Shield		
+213187	Shrine_Call_Monster		
+30476	Shrine_Desecrated_Blessed		被亵渎的圣坛
+30477	Shrine_Desecrated_Enlightened	启迪圣坛	被亵渎的圣坛
+30478	Shrine_Desecrated_Fortune		被亵渎的圣坛
+30479	Shrine_Desecrated_Frenzied		被亵渎的圣坛
+260348	Shrine_Desecrated_Hoarder	飞驰圣坛	
+260349	Shrine_Desecrated_Reloaded	增效圣坛	
+269350	Shrine_Desecrated_treasureGoblin		
+278268	Shrine_Power_Blessed		
+278269	Shrine_Power_Enlightened		
+278270	Shrine_Power_Fortune		
+278271	Shrine_Power_Frenzied		
+377314	SidekickStatsBoostBuff		
+377413	SidekickWeaponDamageBoostBuff		
+240529	Siegebreaker_Enrage	激怒	
+376912	SiegeBreaker_ReflectsDamageCast		
+30482	SiegebreakerDemon_Bite		
+30484	SiegebreakerDemon_Charge		
+182586	SiegebreakerDemon_ChargeNew		
+30487	SiegebreakerDemon_Grab		
+30488	SiegebreakerDemon_GrabToBite		
+1754	SiegebreakerDemon_LookAround		
+30490	SiegebreakerDemon_Mini_Charge		
+30491	SiegebreakerDemon_Pound		
+228688	SiegebreakerDemon_Roar		
+30492	SiegebreakerDemon_Stomp		
+30495	SkeletonArcher_Projectile		远程攻击
+30504	SkeletonKing_Cleave		
+30496	SkeletonKing_Summon_Skeleton	骷髅王召唤	
+79334	SkeletonKing_Teleport		
+81504	SkeletonKing_Teleport_Away		
+73824	SkeletonKing_Whirlwind		
+30497	skeletonMage_Cold_projectile		
+30498	skeletonMage_Fire_AOE		
+30499	skeletonMage_Fire_projectile		
+30500	skeletonMage_Lightning_pierce		
+30501	skeletonMage_poison_death		
+30502	skeletonMage_Poison_pierce		
+30503	SkeletonSummoner_Projectile		
+221275	SkillOverrideStartedOrEnded		
+30512	Snakeman_MeleeStealth		
+30513	Snakeman_MeleeUnstealth		
+30509	SnakemanCaster_ElectricBurst		
+69743	SoaringAscend		
+54196	SoaringDescend		
+226572	SoulRipper_Despair_TongueLash	近战攻击	这是你近距离战斗时所使用的技能。
+145822	SoulRipper_TongueLash	short range physical tongue attack	这是你近距离战斗时所使用的技能。
+137642	Spider_SprintThroughObjectsTo		
+30518	Spider_Web_Immobolize		
+76961	Spider_Web_Slow		
+76951	Spider_Web_Slow_Spit		
+151219	SpiderQueen_VomitSpiders_Charge	蛛后喷吐（charge）	
+151516	SpiderQueen_VomitSpiders_Vomit	喷吐蜘蛛	
+151218	SpiderQueen_WebSpit	蛛网吐结	
+376298	SplashDamageProc	范围伤害	
+30525	SporeCloud		
+30527	StealthBuff		
+30529	StitchExplode		
+30530	StitchMeleeAlternate		
+30531	StitchPush		
+120874	Succubus_BloodStar		
+366103	Succubus_BloodStar_LR		
+136508	Succubus_Fly	魅魔飞行	
+120875	Succubus_Leap		
+30538	Suicide_Proc		
+369834	Suicide_Scripted		
+166154	Summon_Fallen_A_Unique01		
+30541	Summon_Fallen_OnSpawn		
+30543	Summon_Skeleton		
+168212	Summon_Skeleton_Jondar		
+30545	Summon_Skeleton_OnSpawn		
+30546	Summon_Skeleton_Orb		
+1757	Summon_Skeleton_Pillar		
+30547	Summon_Triune_Demon		
+30550	Summon_Zombie_Crawler		
+94734	Summon_Zombie_Vomit		
+30540	Summoned		
+117580	Summoning_Machine_Summon		
+128729	Swarm_death		
+67110	TarPitSlowOff		
+67106	TarPitSlowOn		
+212952	Taunted_Monster_Ranged_Projectile		
+212953	Taunted_Weapon_Melee_Instant	近战攻击	这是你近距离战斗时所使用的技能。
+290885	Teleport_CheckPath_Passability		
+318242	TeleportToPlayer	召回之石	这是你近距离战斗时所使用的技能。
+371139	TeleportToPlayer_Cast	召回之石	这是你近距离战斗时所使用的技能。
+349060	TeleportToWaypoint	召回之石	这是你近距离战斗时所使用的技能。
+371141	TeleportToWaypoint_Cast	召回之石	这是你近距离战斗时所使用的技能。
+30359	Templar_Guardian	守护	{c_gold}冷却时间：{/c_gold} {c_green}{Script Formula 6}{/c_green} 秒<br><br>当你的生命值较低时，圣殿骑士会对你施以援手，击退附近的敌人并对你进行治疗。
+257640	Templar_Heal_110	治愈	{c_gold}冷却时间：{/c_gold} {c_green}{Cooldown Time}{/c_green} 秒<br><br>治疗你和圣殿骑士。
+30356	Templar_Inspire	鼓舞	提高你的能量恢复速度。
+93938	Templar_Intervene	干涉	{c_gold}冷却时间：{/c_gold} {c_green}{Script Formula 2}{/c_green} 秒<br><br>当你被击中时，嘲讽附近的敌人。
+94008	Templar_Intervene_Proc	干涉	当玩家生命值较低时，嘲讽玩家附近的敌人。
+93901	Templar_Intimidate	震慑	击中或被圣殿骑士击中的敌人，其移动速度降低。
+30357	Templar_Loyalty	忠诚	为你和圣殿骑士恢复生命值。
+230239	Templar_Melee_Instant	近战攻击	挥动你的近战武器，造成 {c_green}{DamageMin} - {DamageMax}{/c} 点伤害。
+93888	Templar_Onslaught	突击	{c_gold}冷却时间：{/c_gold} {c_green}{Script Formula 3}{/c_green} 秒<br><br>对一名敌人发起一记强力重击。
+30360	Templar_ShieldCharge	冲锋	{c_gold}冷却时间：{/c_gold} {c_green}{Script Formula 6}{/c_green} 秒<br><br>朝一名敌人冲锋，对其造成伤害并使附近的敌人陷入昏迷。
+209509	TentacleHorse_A_Unique_01_Charge		
+123907	TerrorDemon_MeleeStrike		
+123935	TerrorDemon_ShadowPhase		
+123964	TerrorDemon_ShadowPhase_End		
+409416	Test_SpikeTrap_Ruins	矛刺地面	矛刺地面
+30554	Thorns	荆棘	
+30557	ThousandPounder_Knockback		
+439350	ThousandPounder_Melee	近战攻击	用近战武器挥击一名敌人。<br><br>{c_yellow}当能量较低时，技能默认为基础攻击。{/c}
+86990	tongue_prototype	tongue jump to target	
+30078	Trait_Barbarian_Fury	被动	
+52753	Trait_Monk_Spirit		
+109560	Trait_Witchdoctor_ZombieDogSpawner_Passive	召唤僵尸犬	生成战犬
+30563	TransformToActivatedTriune		
+186216	trDun_Cath_WallCollapse_Damage	trdun_cath_wallcollapse_damage	
+227949	trDun_Cath_WallCollapse_Damage_offset	trDun_Cath_WallCollapse_Damage	
+434749	TreasureGoblin_Anniversary_Escape		
+434776	TreasureGoblin_Anniversary_ThrowPortal		
+105371	TreasureGoblin_Escape		
+260595	TreasureGoblin_PlayAlertSound		
+408659	TreasureGoblin_Portal_In		
+54836	TreasureGoblin_ThrowPortal		
+432643	TreasureGoblin_ThrowPortal_Backup		
+105665	TreasureGoblin_ThrowPortal_Fast		
+54866	TreasureGoblin_UsePortal		
+54055	TreasureGoblinPause		
+30567	TriuneBerserker_Power_Hit		
+30570	TriuneSummoner_Projectile		
+30571	TriuneSummoner_Shield		
+30572	TriuneSummoner_SplitSummonCast		
+30573	TriuneVesselCharge		
+30574	TriuneVesselOverpower		
+186138	trOut_LogStack_Short_Damage		
+100287	trOut_LogStack_Trap	trout_logstack_trap	滚木陷阱
+91261	trout_tristramfields_punji_trap_aoe		
+95387	trout_tristramfields_punji_trap_mirror_aoe		
+260844	Uber_Despair_Melee_Cleave		
+257950	Uber_Despair_SummonMinion		
+375537	Uber_Despair_SummonMinion_Diablo		
+260845	Uber_Despair_Teleport		
+376039	Uber_Despair_TeleportEnrage_Diablo		
+260847	Uber_Despair_Volley		
+376056	Uber_Despair_Volley_Diablo		
+365978	Uber_Diablo_StompAndStun	扩大烈焰之环	
+260848	Uber_Gluttony_Breath_Attack		
+260849	Uber_Gluttony_Gas_Cloud		
+376396	Uber_Gluttony_Gas_Cloud_Diablo		
+257951	Uber_Gluttony_Loogiespawn		
+278341	Uber_Maghda_MothDust		
+260976	Uber_Maghda_Punish		
+260977	Uber_Maghda_Punish_Shielded		
+257952	Uber_Maghda_Summon_Beserker		
+375493	Uber_Maghda_Summon_Beserker_Diablo		
+259946	Uber_SiegebreakerDemon_Pound		
+258635	Uber_SiegebreakerDemon_Stomp		
+258636	Uber_SkeletonKing_Cleave		
+256110	Uber_SkeletonKing_Summon_Skeleton		
+375473	Uber_SkeletonKing_Summon_Skeleton_Diablo		
+258637	Uber_SkeletonKing_Whirlwind		
+260851	Uber_ZoltunKulle_CollapseCeiling		
+260852	Uber_ZoltunKulle_EnergyTwister		
+260853	Uber_ZoltunKulle_FieryBoulder		
+259947	Uber_ZoltunKulle_SlowTime		
+376043	Uber_ZoltunKulle_SlowTime_Diablo		
+258638	Uber_ZoltunKulle_Teleport		
+375929	UberDiablo_MirrorImage		
+30580	Unburied_Knockback		
+30581	Unburied_Melee_Attack		
+202344	Unburied_Wreckable_Attack		
+93715	UnburiedBoss_Cleave		
+122977	UnholyShield		
+79486	UninterruptibleDuringBuff		
+256059	Unique_Monster_Earthquake_Prototype		
+270004	Unique_Monster_Generic_AOE_Nova		
+363519	Unique_Monster_Generic_AOE_RandomAroundOwner		
+270040	Unique_Monster_Generic_AOE_Targeted		
+152540	Unique_Monster_Generic_Projectile		
+346247	Unique_Monster_Generic_Projectile_AllPlayers		
+359684	Unique_Monster_Generic_Projectile2		
+270043	Unique_Monster_Generic_Summon		
+359685	Unique_Monster_Generic_Summon2		
+260815	Unique_Monster_IceTrail_Passive_Prototype		
+256060	Unique_Monster_TempestRush_Prototype	风雷冲	{c_gold}消耗：{/c_gold} {c_green}{Resource Cost}{/c_green} 点内力，此外还将于引导时消耗额外 {c_green}[{Script Formula 15}]{/c_green} 点内力。<br><br>径直在敌人间冲锋奔行，将敌人击退，并使其移动速度降低 {c_green}[{Script Formula 9}*100]%{/c_green} ，持续 {c_green}{Script Formula 11}{/c_green} 秒。奔跑时还将造成 {c_green}[{Script Formula 4}*100]%{/c_green} 的武器伤害。
+30582	UntargetableDuringBuff		
+361300	Urzael_StompAndStun	扩大烈焰之环	
+165553	UseArcaneGlyph		
+220318	UseDungeonStone	召回之石	这是你近距离战斗时所使用的技能。
+30584	UseHealthGlyph		
+1759	UseItem		
+389049	UseLootRunPortal		
+404128	UseLootRunProgressGlyph		
+30585	UseManaGlyph		
+191590	UseStoneOfRecall	召回之石	这是你近距离战斗时所使用的技能。
+30588	Walk		
+143063	WallMonsterSpawn	近战攻击	这是你近距离战斗时所使用的技能。
+316261	WallMonsterSpawnSiegeBreaker		
+30589	Warp		
+132910	WarpInMagical	近战攻击	这是你近距离战斗时所使用的技能。
+57931	waterloggedCorpse_Eel_Spawn		
+57028	waterloggedCorpse_Poison_Cloud		
+396375	waterTower_A_Oasis_caOut_Breakable_Damage	trdun_cath_wallcollapse_damage	
+30592	Weapon_Melee_Instant	近战攻击	用近战武器挥击一名敌人。<br><br>{c_yellow}当能量较低时，技能默认为基本攻击。{/c}
+30593	Weapon_Melee_Instant_BothHand	近战攻击	
+368212	Weapon_Melee_Instant_CowKing	近战攻击	挥动你的近战武器，造成 {c_green}100%{/c_green} 的武器伤害。
+106087	Weapon_Melee_Instant_Freeze_Facing	近战攻击	这是你近距离战斗时所使用的技能。
+30594	Weapon_Melee_Instant_OffHand	近战攻击	
+263041	Weapon_Melee_Instant_ShortEscape		
+202345	Weapon_Melee_Instant_Wreckables	近战攻击	这是你近距离战斗时所使用的技能。
+70218	Weapon_Melee_NoClose	近战	
+30595	Weapon_Melee_Obstruction		
+30596	Weapon_Melee_Reach_Instant	近战攻击	挥动你的近战武器，造成 {c_green}{DamageMin} - {DamageMax}{/c} 点伤害。
+115624	Weapon_Melee_Reach_Instant_Freeze_Facing	近战攻击	这是你使用近战武器时所使用的技能。
+30598	Weapon_Ranged_Instant		
+30599	Weapon_Ranged_Projectile	远程攻击	使用远程武器朝一名敌人射击。<br><br>{c_yellow}当能量较低时，技能默认为基本攻击。{/c}
+30601	Weapon_Ranged_Wand	魔杖射击	使用魔杖朝一名敌人射击。<br><br>{c_yellow}当能量较低时，技能默认为基本攻击。{/c}
+70455	Witchdoctor_AcidCloud	酸蚀之云	{c_gold}消耗：{/c_gold} {c_green}{Resource Cost}{/c_green} 点法力值<br><br>降下酸雨，并在地上留下剧毒之池。
+117402	Witchdoctor_BigBadVoodoo	巫毒狂舞	{c_gold}冷却时间：{/c_gold} {c_green}{Script Formula 12}{/c_green} 秒<br><br>召唤一名鬼娃，使所有同伴的攻击和移动速度提高。
+69866	Witchdoctor_CorpseSpider	尸蛛	{c_gold}修为法术{/c_gold}<br><br>掷出一个装满尸蛛的坛子，蜘蛛在死去之前攻击附近敌人。
+107103	Witchdoctor_CorpseSpider_Leap	尸蛛之跃	
+72785	Witchdoctor_FetishArmy	鬼娃大军	{c_gold}冷却时间：{/c_gold} {c_green}{Script Formula 17}{/c_green} 秒<br><br>召唤出一支由手持匕首的鬼娃组成的军队。
+119166	Witchdoctor_FetishArmy_Hunter	巫医鬼娃猎手	
+226690	Witchdoctor_FetishArmy_Melee	鬼娃大军近战攻击	
+429477	Witchdoctor_FetishArmy_PoisonDart	巫医鬼娃猎手	
+118442	Witchdoctor_FetishArmy_Shaman	巫医鬼娃萨满	
+435275	Witchdoctor_FetishSycophants_Melee	鬼娃大军近战攻击	
+105963	Witchdoctor_Firebats	火蝠	{c_gold}消耗：{/c_gold} {c_green}[{Script Formula 2}]{/c_green} 点法力值<br><br>召唤出一大群火蝠。
+67567	Witchdoctor_Firebomb	烈焰炸弹	{c_gold}修为法术{/c_gold}<br><br>掷出一个被施咒的头骨，会在接触后爆炸。
+30624	Witchdoctor_Gargantuan	僵尸巨兽	{c_gold}冷却时间：{/c_gold} {c_green}{Script Formula 11}{/c_green} 秒<br><br>召唤出一只僵尸巨兽，与你并肩作战。
+121942	Witchdoctor_Gargantuan_Cleave	僵尸巨兽顺劈斩	
+308827	Witchdoctor_Gargantuan_PoisonCloud	僵尸巨兽毒云	
+121943	Witchdoctor_Gargantuan_Slam	僵尸巨兽猛击	
+186851	Witchdoctor_Gargantuan_Smash	僵尸巨兽粉碎	
+69182	Witchdoctor_GraspOfTheDead	亡者之握	{c_gold}消耗：{/c_gold} {c_green}{Script Formula 17}{/c_green} 点法力值<br>{c_gold}冷却时间：{/c_gold} {c_green}[{Script Formula 7}]{/c_green} 秒<br><br>从地下伸出亡者之手，使敌人的移动速度降低并对其造成伤害。
+83602	Witchdoctor_Haunt	蚀魂	{c_gold}消耗：{/c_gold} {c_green}{Resource Cost}{/c_green} 点法力值<br><br>命鬼魂纠缠一名敌人。若受影响的目标死去，鬼魂可自行寻找下个目标。<br><br>{c_yellow}一个敌人同时只会受到一个蚀魂效果的影响。{/c}
+30631	Witchdoctor_Hex	妖术	{c_gold}冷却时间：{/c_gold} {c_green}{Script Formula 17}{/c_green} 秒<br><br>召唤一名鬼娃萨满，可将敌人变成小鸡。
+196974	Witchdoctor_Hex_ChickenWalk	妖术：变形小鸡	你被变成了小鸡！小鸡快跑！！！
+188442	Witchdoctor_Hex_Explode	妖术爆破	爆炸！
+107301	Witchdoctor_Hex_Fetish	痛苦变形	
+107742	Witchdoctor_Hex_Fetish_Heal	hex_fetish_heal	
+67668	Witchdoctor_Horrify	惧灵	{c_gold}冷却时间：{/c_gold} {c_green}{Script Formula 15}{/c_green} 秒<br><br>引导万灵之地的恐怖力量，将附近敌人吓得落荒而逃。
+69867	Witchdoctor_Locust_Swarm	瘟疫虫群	{c_gold}消耗：{/c_gold} {c_green}{Resource Cost}{/c_green} 点法力值<br><br>释放瘟疫虫群攻击敌人，可在多个目标间跳跃。
+67600	Witchdoctor_MassConfusion	群体混乱	{c_gold}冷却时间：{/c_gold} {c_green}{Script Formula 14}{/c_green} 秒<br><br>使敌人陷入混乱，转而为你作战。
+217826	Witchdoctor_Passive_BadMedicine	致命毒药	“他们对致人麻痹的介质有着惊人的驾驭能力。他们常说，在丛林里总能找到缔造无限奇迹的自然产物。”——艾伯纳·锁脊
+208568	Witchdoctor_Passive_BloodRitual	鲜血仪式	“自我和谐……还有比这更高尚的牺牲吗”——鲜血仪式上的临终遗言
+208571	Witchdoctor_Passive_CircleOfLife	生命之环	“那些吊挂在村里的头骨，眼睛都被人用粗线缝上了。不管是什么邪恶法术将这些可怖怪兽召集在了一起，其力量都是无比强大的。”——艾伯纳·锁脊
+340908	Witchdoctor_Passive_CreepingDeath	死亡蔓延	有些恐惧是无法战胜的。它们会一分一秒、一丁一点地将你吞噬。
+218588	Witchdoctor_Passive_FetishSycophants	鬼娃跟班	万灵之地的住民顽皮且又喜追求力量，总是想要侵入我们的世界，可却又总是心浮气躁的匆匆离去。
+208639	Witchdoctor_Passive_FierceLoyalty	狂热忠诚	建立威信。他们便会服从。
+218191	Witchdoctor_Passive_GraveInjustice	剥削死者	只有蠢货才会妄图欺骗死神。智者会选择公平交易。
+208594	Witchdoctor_Passive_GruesomeFeast	骇人盛宴	“我们紧密相连，生时如此，死后亦然。与亡者的灵魂同在，生命便能如野火烧不尽的丛林般繁衍不息。”——走阴人祖尼玛萨
+217968	Witchdoctor_Passive_JungleFortitude	丛林坚毅	若要具备丛林般的坚毅，就要取己所必需，忍己所必忍。
+340909	Witchdoctor_Passive_MidnightFeast	午夜盛宴	在伸手不见五指的漆黑夜晚，它们会现身寻找猎物。
+340910	Witchdoctor_Passive_PhysicalAttunement	沼泽调谐	了解你的敌人，洞悉他们的力量，然后化为己用。
+208628	Witchdoctor_Passive_PierceTheVeil	穿透迷障	“万灵需要供奉。最好备好祭品。”——走阴人祖尼玛萨
+208565	Witchdoctor_Passive_RushOfEssence	元神奔行	若万灵想要回归本源，就只能一往无前。在它们面前没有回头路。
+208569	Witchdoctor_Passive_SpiritualAttunement	灵魂协调	“池水深不见底，波澜不惊，从容不迫，寂静无声。时而化为喷泉，时而化为漩涡。汲取，继而复归充盈。”——浅石上所刻符文
+218501	Witchdoctor_Passive_SpiritVessel	灵魂容器	是人皆会死。有时我们必须要返回，以让一切有始有终。
+208601	Witchdoctor_Passive_TribalRites	部族仪式	“善待那些万灵之地的来客，他们就会善待你。”——五峰部族祖瓦扎
+209041	Witchdoctor_Passive_VisionQuest	灵境追寻	“只可意会，不可眼观。在万灵之地，与自己肩并肩。亦步亦趋，前路漫漫，重见自己在眼前，抑或迷失到永远。”——锤炼颂歌
+208563	Witchdoctor_Passive_ZombieHandler	僵尸统领	亡者都是听话的仆从。死亡对它们而言早已不是未知，因此不足为惧。
+347265	Witchdoctor_Piranhas	食人鱼	{c_gold}消耗：{/c_gold} {c_green}{Resource Cost}{/c_green} 点法力值<br>{c_gold}冷却时间：{/c_gold} {c_green}{Script Formula 23}{/c_green} 秒<br><br>召唤一池致命的食人鱼，造成伤害并使受到影响的敌人受到额外伤害。
+106465	Witchdoctor_PlagueOfToads	蟾蜍之疫	{c_gold}修为法术{/c_gold}<br><br>召唤接触敌人就会爆炸的蟾蜍。
+220908	Witchdoctor_PlagueOfToads_BigToad_TongueSlap	妖术	
+106592	Witchdoctor_PlagueOfToads_BigToadAttack	妖术	
+103181	Witchdoctor_PoisonDart	剧毒飞镖	{c_gold}修为法术{/c_gold}<br><br>射出一枚致命毒镖。
+102572	Witchdoctor_Sacrifice	牺牲	放逐一只已召唤的僵尸犬并使其爆炸。
+67616	Witchdoctor_SoulHarvest	灵魂收割	{c_gold}冷却时间：{/c_gold} {c_green}{Script Formula 14}{/c_green} 秒<br><br>汲取敌人的生命力，使你的智力提高，持续 {c_green}{Script Formula 5}{/c_green} 秒。
+108506	Witchdoctor_SpiritBarrage	灵魂弹幕	{c_gold}消耗：{/c_gold} {c_green}{Resource Cost}{/c_green} 点法力值<br><br>用一发灵魂飞弹轰击目标，飞弹可长途飞行，并能跨越某些障碍物。
+186471	Witchdoctor_SpiritBarrage_RuneC_AOE		
+106237	Witchdoctor_SpiritWalk	灵魂行走	{c_gold}冷却时间：{/c_gold} {c_green}{Script Formula 7}{/c_green} 秒<br><br>魂魄出窍，进入灵魂界域，移动速度加快。<br><br>{c_yellow}该技能在效果结束前不会触发冷却时间。{/c_yellow}
+102573	Witchdoctor_SummonZombieDog	召唤僵尸犬	{c_gold}冷却时间：{/c_gold} {c_green}{Script Formula 18}{/c_green} 秒<br><br>召唤出 {c_green}{Script Formula 0}{/c_green}只僵尸犬，与你并肩作战。
+134837	Witchdoctor_WallOfZombies	亡者之墙	{c_gold}冷却时间：{/c_gold} {c_green}{Script Formula 13}{/c_green} 秒<br><br>召唤一道僵尸之墙，阻挡并攻击敌人。
+74003	Witchdoctor_ZombieCharger	僵尸死士	{c_gold}消耗：{/c_gold} {c_green}{Resource Cost}{/c_green} 点法力值<br><br>召出一只僵尸，在其腐烂倒地前对行进途中遇到的敌人发起冲锋。
+309100	Witchdoctor_ZombieDog_FireAoE	僵尸犬火焰	
+226692	Witchdoctor_ZombieDog_Melee	僵尸犬近战攻击	这是你近距离战斗时所使用的技能。
+310071	Witchdoctor_ZombieDog_PoisonDoT	剧毒之咬	
+30668	Wizard_ArcaneOrb	奥术之球	{c_gold}消耗：{/c_gold} {c_green}[{Script Formula 0}]{/c_green} 点奥能<br><br>掷出一只纯净奥术能量之球，接触后会发生爆炸。
+134456	Wizard_ArcaneTorrent	奥术洪流	{c_gold}消耗：{/c_gold} {c_green}[{Script Formula 22}]{/c_green} 点奥能<br><br>施放出奥术飞弹弹幕。
+165598	Wizard_ArcaneTorrent_RuneC_Mine	奥术洪流	
+134872	Wizard_Archon	御法者	{c_gold}冷却时间：{/c_gold} {c_green}[{Script Formula 10}]{/c_green} 秒<br><br>变形为纯净能量的聚合体，并获得杀伤力十足的新技能，持续 {c_green}{Script Formula 2}{/c_green} 秒。
+167355	Wizard_Archon_ArcaneBlast	奥术冲击	释放纯净能量冲击波，对附近所有敌人造成伤害。
+392883	Wizard_Archon_ArcaneBlast_Cold	冰爆术	释放纯净能量冲击波，对附近所有敌人造成伤害。
+392884	Wizard_Archon_ArcaneBlast_Fire	火焰冲击	释放纯净能量冲击波，对附近所有敌人造成伤害。
+392885	Wizard_Archon_ArcaneBlast_Lightning	闪电冲击	释放纯净能量冲击波，对附近所有敌人造成伤害。
+135166	Wizard_Archon_ArcaneStrike	奥术侵袭	震颤大地，对位于你前方的敌人造成伤害。
+392886	Wizard_Archon_ArcaneStrike_Cold	冰霜打击	震颤大地，对位于你前方的敌人造成伤害。
+392887	Wizard_Archon_ArcaneStrike_Fire	狱火打击	震颤大地，对位于你前方的敌人造成伤害。
+392888	Wizard_Archon_ArcaneStrike_Lightning	闪电打击	震颤大地，对位于你前方的敌人造成伤害。
+166616	Wizard_Archon_Cancel	取消御法者形态	释放御法者的力量，使你回复自然形态。
+135238	Wizard_Archon_DisintegrationWave	溃解光波	引导一道纯净能量射线，穿透所有敌人。
+392889	Wizard_Archon_DisintegrationWave_Cold	溃解光波	引导一道纯净能量射线，穿透所有敌人。
+392890	Wizard_Archon_DisintegrationWave_Fire	溃解光波	引导一道纯净能量射线，穿透所有敌人。
+392891	Wizard_Archon_DisintegrationWave_Lightning	溃解光波	引导一道纯净能量射线，穿透所有敌人。
+135663	Wizard_Archon_SlowTime	时间延缓	制造一个扭曲时间的气泡跟随在你身后。
+167648	Wizard_Archon_Teleport	传送	{c_gold}冷却时间：{/c_gold} {c_green}{Cooldown Time}{/c_green} 秒<br><br>立即传送到某个位置。
+30680	Wizard_Blizzard	暴风雪	{c_gold}消耗：{/c_gold} {c_green}{Script Formula 17}{/c_green} 点奥能<br><br>召唤暴风雪，对被暴风雪击中的敌人造成伤害，并使其减速。
+75599	Wizard_DiamondSkin	钻石体肤	{c_gold}冷却时间：{/c_gold} {c_green}{Cooldown Time}{/c_green} 秒<br><br>将你的皮肤变得如钻石一样坚硬，在短时间内吸收伤害。
+91549	Wizard_Disintegrate	瓦解射线	{c_gold}消耗：{/c_gold} {c_green}[{Script Formula 20}]{/c_green} 点奥能<br><br>引导纯净能量射线，穿透所有敌人。
+1765	Wizard_Electrocute	电刑	{c_gold}修为法术{/c_gold}<br><br>施放连环闪电，对最多 {c_green}[{Script Formula 13}]{/c_green} 个敌人施以电刑。
+86991	Wizard_EnergyArmor	能量护甲	{c_gold}消耗：{/c_gold} {c_green}{Resource Cost}{/c_green} 点奥能<br><br>当能量护甲激活时，提高你的护甲值，但会降低你的奥能上限。<br><br>{c_yellow}你同时只能受到1种护甲的保护。{/c_yellow}
+30708	Wizard_EnergyShield		
+77113	Wizard_EnergyTwister	能量气旋	{c_gold}消耗：{/c_gold} {c_green}{Script Formula 14}{/c_green} 点奥能<br><br>释放出肆虐的旋风，在战场各处造成严重破坏。
+87525	Wizard_ExplosiveBlast	聚能爆破	{c_gold}消耗：{/c_gold} {c_green}{Script Formula 16}{/c_green} 点奥能<br>{c_gold}冷却时间：{/c_gold} {c_green}{Cooldown Time}{/c_green} 秒<br><br>汇聚能量，并释放出毁灭性冲击波。
+99120	Wizard_Familiar	魔星	{c_gold}消耗：{/c_gold} {c_green}{Resource Cost}{/c_green} 点奥能<br><br>召唤一个神秘魔星。你的魔星免疫伤害，并会协助你作战。
+30718	Wizard_FrostNova	冰霜新星	{c_gold}冷却时间：{/c_gold} {c_green}{Script Formula 4}{/c_green} 秒<br><br>冲击附近敌人，并将他们冻在原地。
+30725	Wizard_Hydra	多头蛇	{c_gold}消耗：{/c_gold} {c_green}{Resource Cost}{/c_green} 点奥能<br><br>召唤一只魔法多头蛇，用火舌攻击敌人。
+77068	Wizard_Hydra_DefaultFire_Prototype	多头蛇	
+77066	Wizard_Hydra_RuneAcid_Prototype	多头蛇	
+77067	Wizard_Hydra_RuneArcane_Prototype	奥术多头蛇	
+84030	Wizard_Hydra_RuneBig_Prototype	多头蛇	
+77063	Wizard_Hydra_RuneFire_Prototype	多头蛇	
+83040	Wizard_Hydra_RuneFrost_Prototype	多头蛇	
+77065	Wizard_Hydra_RuneLightning_Prototype	多头蛇	
+73223	Wizard_IceArmor	寒冰护甲	{c_gold}消耗：{/c_gold} {c_green}{Resource Cost}{/c_green} 点奥能<br><br>用寒冰屏障保护你自己，可使攻击者陷入寒冷状态。<br><br>{c_yellow}你同时只能受到1种护甲的保护。{/c_yellow}
+30744	Wizard_MagicMissile	魔法飞弹	{c_gold}修为法术{/c_gold}<br><br>朝目标施放出奥术能量飞弹。
+30745	Wizard_MagicMissile_Count	魔法飞弹	射出额外飞弹
+30746	Wizard_MagicMissile_Damage	魔法飞弹	提高每发飞弹所造成的伤害
+30748	Wizard_MagicMissile_Speed	魔法飞弹	提高施法速度和飞弹速度
+76108	Wizard_MagicWeapon	魔法武器	{c_gold}消耗：{/c_gold} {c_green}{Resource Cost}{/c_green} 点奥能<br><br>将魔法能量灌入武器中，使武器的杀伤力提高。
+69190	Wizard_Meteor	陨石术	{c_gold}消耗：{/c_gold} {c_green}{Script Formula 17}{/c_green} 点奥能<br><br>召唤出一颗巨大的陨石，灼烧被其冲击到的敌人。
+98027	Wizard_MirrorImage	镜像	{c_gold}冷却时间：{/c_gold} {c_green}{Cooldown Time}{/c_green} 秒<br><br>召唤你自身的虚幻复制体嘲讽敌人。镜像施放法术造成有限伤害。
+208823	Wizard_Passive_ArcaneDynamo	奥能迸发	千万别惹恼魔法师。你在他们的怒火面前只不过是一粒轻飘飘的微尘，弹指便可灰飞烟灭。
+208472	Wizard_Passive_AstralPresence	星辰之躯	“感受身边暗藏的力量吧。雷云即将惊响……火山就要喷发。驾驭它，你便能所向披靡。”——艾德莉亚
+208468	Wizard_Passive_Blur	残影	真正强大的魔法师，都善于将法力内化，向体内的每一个细胞注入法能，使自己具备无穷能量和猫般灵敏的反应力。
+226301	Wizard_Passive_ColdBlooded	冷血	“感受你周身的血液变得像冰封海洋中的海水一样冰冷，而且别忘了，我只要弹弹手指就能让你灰飞烟灭。”——寒冰女王的传说
+218044	Wizard_Passive_Conflagration	烧焚	“通红滚烫的护甲令他们的肉身饱受炙烤，令他们的血液沸腾不已，他们绝望地想要将护甲从冒烟的身体上剥离。面对这些防御力尽失的生物，我们在同情心的驱使下结束了他们的性命。”——《卡尔蒂姆传说故事》第十二卷
+208473	Wizard_Passive_Evocation	启发	只要你始终专注于用意志力扭转现实，就连时间本身都会对你妥协。
+208541	Wizard_Passive_GalvanizingWard	法能护体	“能量衍生能量。一个法术所产生的多余能量由另一个法术吸收，从而使效力永续不竭。”——摘自萨文大师在秘传奥术天体上所做的法能增效讲座
+208471	Wizard_Passive_GlassCannon	玻璃大炮	“我将如何活下来？我根本就不打算被击中。要是你能碰到我，那也是因为得到了我的允许。”——变节法师马洛斯
+208547	Wizard_Passive_Illusionist	幻术师	“声东击西是最为明智的战略。”——大法师拉尔西斯
+226348	Wizard_Passive_Paralysis	瘫痪	“我的魔法造诣让一些人感到震惊。”——莱拉·雷风击
+208478	Wizard_Passive_PowerHungry	奥能渴求	“这只是不合我的心意。这些所谓魔法师们的某些行为……是在打死灵法术的擦边球。甚至更糟！反正那不是正统的魔法。”——巫师尊者弗博·杜纳
+208493	Wizard_Passive_Prodigy	天赋奇才	“厚重的钢铁护甲也许能阻挡利刃的穿刺，但让我们看看它在闪电面前能如何！”——莱拉·雷风击在威斯特玛皇家竞技赛上狼狈失误后所说的话
+208477	Wizard_Passive_TemporalFlux	时光涌动	“时间与奥能之力是一对互相嫉妒的伴侣。如果你关心其中一个而忽视另一个，那就是将自己置于极大的危险之中。”——恩奈得智者雷斯科
+208474	Wizard_Passive_UnstableAnomaly	不稳异能	“魔法师需要具备极致的注意力才能游走在无限的边缘。千万不要成为失去注意力焦点的那个人。”——独眼惠普尔
+93395	Wizard_RayOfFrost	冰霜射线	{c_gold}消耗：{/c_gold} {c_green}[{Script Formula 17}]{/c_green} 点奥能<br><br>引导一道纯净冰霜射线，使你的敌人陷入寒冷。
+30783	Wizard_ShockPulse	冲击震波	{c_gold}修为法术{/c_gold}<br><br>在地面四处释放出不可控制的电能脉冲。
+1769	Wizard_SlowTime	时间延缓	{c_gold}冷却时间：{/c_gold} {c_green}{Script Formula 15}{/c_green} 秒<br><br>扭曲时空，使处于你目标位置的敌人减速，同时你可继续不受阻碍地移动。
+71548	Wizard_SpectralBlade	幽魂之刃	{c_gold}修为法术{/c_gold}<br><br>召唤可在敌人间劈砍的神秘之刃。
+74499	Wizard_StormArmor	风暴护甲	{c_gold}消耗：{/c_gold} {c_green}{Resource Cost}{/c_green} 点奥能<br><br>使你自己被魔法风暴包围，用闪电震击攻击者。<br><br>{c_yellow}你同时只能受到1种护甲的保护。{/c_yellow}
+168344	Wizard_Teleport	传送	{c_gold}冷却时间：{/c_gold} {c_green}[{Script Formula 19}]{/c_green} 秒<br><br>立即传送到另一个位置。
+30796	Wizard_WaveOfForce	原力之波	{c_gold}消耗：{/c_gold} {c_green}{Script Formula 27}{/c_green} 点奥能<br><br>发出一股纯净能量冲击波，对附近的敌人造成伤害。
+375412	WoDFlagBuff	典藏版增益	
+30800	WoodWraithSummonSpores		
+223604	WorldCreatingBuff		
+324819	x1_abattoir_furnace_01		地板火炉
+354796	x1_Abattoir_furnaceSpinner		火炉喷口
+359960	x1_Abattoir_furnaceSpinner_Event		火炉喷口
+375458	x1_Abattoir_furnaceSpinner_Event_Phase1		火炉
+375462	x1_Abattoir_furnaceSpinner_Event_Phase2		火炉
+375499	x1_Abattoir_furnaceSpinner_Event_Phase3		火炉
+354856	x1_Abattoir_furnaceSpinner_fireBeam_clockwise		火炉喷口
+355457	x1_Abattoir_furnaceSpinner_fireBeam_clockwise_Event		火炉喷口
+377631	x1_Abattoir_furnaceSpinner_fireBeam_clockwise_Event_Phase1		火炉喷口
+377636	x1_Abattoir_furnaceSpinner_fireBeam_clockwise_Event_Phase2		火炉喷口
+377641	x1_Abattoir_furnaceSpinner_fireBeam_clockwise_Event_Phase3		火炉喷口
+354884	x1_Abattoir_furnaceSpinner_fireBeam_counterClockwise		火炉喷口
+355458	x1_Abattoir_furnaceSpinner_fireBeam_counterClockwise_Event		火炉喷口
+355369	x1_Abattoir_furnaceWall		火炉
+290708	x1_Adria_Arena_FloorPanelFire	地板火焰	
+298181	x1_Adria_Arena_FloorPanelStart	地板火焰	
+340805	X1_Adria_Boss_Arena_Gas_Off0		
+340806	X1_Adria_Boss_Arena_Gas_Off1		
+340804	X1_Adria_Boss_Arena_Gas_On0	沼泽泥塘	
+340807	X1_Adria_Boss_Arena_Gas_On1	沼泽泥塘	
+330791	x1_Adria_CauldronSpawner_Activate		
+358590	x1_Adria_CauldronSpawner_InitialPoolsBuff		
+330783	x1_Adria_CauldronSpawner_LifetimeBuff		
+355825	x1_Adria_CauldronSpawner_RoomPools		
+355826	x1_Adria_CauldronSpawner_RoomPoolsInner		
+355827	x1_Adria_CauldronSpawner_RoomPoolsOuter		
+293152	x1_Adria_DelayedTeleport_Attack		
+362989	x1_Adria_DelayedTeleport_CauldronActivate		
+293151	x1_Adria_DelayedTeleport_Start		
+284247	x1_Adria_JumpBack		
+360204	x1_Adria_PhaseOne_AIState		
+360205	x1_Adria_PhaseTwo_AIState		
+365720	x1_Adria_ScriptedSequence180Turn		
+359746	x1_Adria_SpitAtPlayer		
+354328	x1_Adria_WingSweep_Left		
+354340	x1_Adria_WingSweep_Right		
+341833	X1_armorScavenger_AsteroidRain		萨托尔
+271621	x1_armorScavenger_buff		
+273462	x1_armorScavenger_BurrowIn		
+271740	x1_armorScavenger_BurrowOut		
+322380	x1_armorScavenger_PreBurrow		
+330593	X1_Asteroid_Basic	手雷	掷出三枚手雷，爆炸造成 {Script Formula 0} - [{Script Formula 0} + {Script Formula 1}] 点伤害。
+442208	X1_Asteroid_Basic_Small	手雷	掷出三枚手雷，爆炸造成 {Script Formula 0} - [{Script Formula 0} + {Script Formula 1}] 点伤害。
+330129	X1_Asteroid_Pool	行星之池	掷出三枚手雷，爆炸造成 {script formula 0} - [{script formula 0} + {script formula 1}] 点伤害。
+292865	X1_Asteroid_Spawn	手雷	掷出三枚手雷，爆炸造成 {Script Formula 0} - [{Script Formula 0} + {Script Formula 1}] 点伤害。
+377453	X1_Barbarian_AncientSpear	上古之矛	{c_gold}消耗：{/c_gold} {c_green}{Script Formula 9}{/c_green} 点怒气<br><br>掷出一把长矛穿透敌人。
+353447	X1_Barbarian_Avalanche_v2	山崩地裂	{c_gold}冷却时间：{/c_gold} {c_green}{Script Formula 36}{/c_green} 秒<br><br>在指定区域降下铺天盖地的飞岩碎石。<br><br>{c_yellow}冷却时间随着消耗怒气而缩短。{/c_yellow}
+353458	X1_Barbarian_Avalanche_v2_Passive	山崩地裂	
+361661	X1_Barbarian_Passive_EarthenMight	大地之力	“我的都城成为了我的囚牢，我在里面静静等待着处决。大地在我脚下咆哮，昭告着那群野人的到来，他们粉碎了这个世界的根基，令所有欢乐化为乌有。噢，我真可悲，竟然曾经把他们的野蛮行径看作他们的弱点。”——萨摩雷首领洛伦
+296572	X1_Barbarian_Passive_Rampage	狂暴	“战斗永无竭日，我们的身心都早已疲惫不堪。可他们却在杀戮中获得力量，每一次致命的消灭都让他们嗜血的欲望变得更加高涨。那些人是无可阻挡的。”——军士佩什科夫《围攻野蛮人》，凯基斯坦历1123年
+340877	X1_Barbarian_Passive_SwordAndBoard	剑盾合璧	“成功化解一次敌人的攻击也可摧毁敌人的战斗决心，其威力不亚于命中要害。”——战斗大师卡尔乔
+375483	X1_Barbarian_WarCry_v2	战吼	{c_gold}生成：{/c_gold} {c_green}{Script Formula 15}{/c_green} 点怒气<br>{c_gold}冷却时间：{/c_gold} {c_green}{Cooldown Time}{/c_green} 秒<br><br>发出一声振奋士气的战吼，使你和同伴的护甲值提高，持续 {c_green}{Script Formula 13}{/c_green} 秒。
+377452	X1_Barbarian_WeaponThrow	武器飞掷	{c_gold}生成：{/c_gold} {c_green}{Script Formula 18}{/c_green} 点怒气<br><br>掷出一把强力飞斧，对一名敌人造成伤害。
+364196	X1_Bloodhawk_Event_BallistaBoss_FuriousCharge		
+237495	x1_bog_bearTrap	捕熊陷阱	
+376509	x1_Bog_BearTrap_Trigger		
+335458	x1_Bog_BogWater	沼泽水池	
+335795	x1_Bog_BogWater_large	沼泽水池	
+335789	x1_Bog_BogWater_medium	沼泽水池	
+339982	X1_Bog_Family_Guard_Tower_Setup	泥浆喷泉	
+288754	X1_Bog_KingOfTheHill_Leap		
+234539	x1_Bog_Plant_explodeKnockback	x1_Bog_Plant_explodeKnockback	
+276820	x1_BogBlight_BurrowIn		
+276843	x1_BogBlight_BurrowOut		
+341714	x1_BogBlight_PustuleDeath		
+234556	x1_BogBlight_PustuleSpawn		
+399284	x1_BogBlight_PustuleSpawn_Con		
+238930	x1_BogFamily_Brute_Charge		
+239018	x1_BogFamily_Brute_Shout		
+247961	x1_BogFamily_Brute_SummonMeleeAction		
+355511	x1_BogFamily_Brute_SummonMeleeAction_Unique		
+238965	x1_BogFamily_Brute_ThrowDude		
+338049	x1_BogFamily_Melee_Transform		
+239743	x1_BogFamily_Ranged_BearTrap	捕熊陷阱	
+340026	x1_BogFamily_Ranged_BearTrapFromTower	捕熊陷阱	
+340041	x1_BogFamily_Ranged_BearTrapFromTowerReturnToFacing		
+336527	x1_BogFamily_Ranged_RapidShot		
+339985	x1_BogFamily_Ranged_RapidShotFromTower		
+339986	x1_BogFamily_Ranged_RapidShotFromTowerReturnToFacing		
+263272	x1_Catacombs_Door_A_onDeath		
+267289	x1_Catacombs_Floor_Runes_A_onDeath		
+345943	x1_Catacombs_Spirit_Totem_activate		
+301930	x1_Cesspool_Slime_Posion_Attack		
+299410	x1_Challenge_Buff_Immune_Stun		
+346299	X1_Challenge_Lure_SupersizeLure		
+366438	x1_CrazedAngelArcher_FireArrow		
+269032	X1_Crusader_AkaratsChampion	阿卡拉特勇士	{c_gold}冷却时间：{/c_gold} {c_green}{Script Formula 12}{/c_green} 秒<br><br>爆发出圣教军的狂怒之力，使你造成的伤害和愤怒值恢复速度提高。
+266766	X1_Crusader_BlessedHammer	祝福之锤	{c_gold}消耗：{/c_gold} {c_green}{Resource Cost}{/c_green} 点愤怒值<br><br>召唤一把祝福之锤在你身边旋绕，对击中的所有敌人造成伤害。
+266951	X1_Crusader_BlessedShield	祝福之盾	{c_gold}消耗：{/c_gold} {c_green}{Resource Cost}{/c_green} 点愤怒值<br><br>掷出一面圣盾猛击敌人，圣盾会在敌人之间弹射。
+284876	X1_Crusader_Bombardment	轰击	{c_gold}冷却时间：{/c_gold} {c_green}{Script Formula 40}{/c_green} 秒<br><br>呼叫远程打击，将灼热的沥青石球砸在附近的敌人身上，持续较短的时间。
+266627	X1_Crusader_Condemn	天谴	{c_gold}冷却时间：{/c_gold} {c_green}{Script Formula 8}{/c_green} 秒<br><br>汇聚能量，在 {c_green}{Script Formula 9}{/c_green} 秒后释放能量引发大爆炸。
+273941	X1_Crusader_Consecration	奉献	{c_gold}冷却时间：{/c_gold} {c_green}{Script Formula 6}{/c_green} 秒<br><br>圣化周围大面积的地面。当你和同伴站立在圣洁之地上时，可恢复生命值。
+267818	X1_Crusader_CrushingResolve	坚定决心	{c_gold}生成：{/c_gold} {c_green}{Script Formula 4}{/c_green} 点愤怒值<br><br>攻击造成 {c_green}[{Script Formula 3}*100]%{/c_green} 武器伤害。每攻击一名敌人，可击中的目标数量会增加 {c_green}1{/c_green} 个，最多可达到 {c_green}5{/c_green} 个。
+239137	X1_Crusader_FallingSword	天罚之剑	{c_gold}消耗：{/c_gold} {c_green}{Resource Cost}{/c_green} 点愤怒值<br>{c_gold}冷却时间：{/c_gold} {c_green}{Script Formula 10}{/c_green} 秒<br><br>纵身飞上云霄，以雷霆之势从天而降猛击敌人。<br><br>{c_yellow}该技能在效果结束前不会触发冷却时间。{/c_yellow}
+239218	X1_Crusader_FistOfTheHeavens	天堂之拳	{c_gold}消耗：{/c_gold} {c_green}{Resource Cost}{/c_green} 点愤怒值<br><br>召唤闪电之柱从天而降并引发爆炸，爆炸时分裂成多支箭矢向四周迸射，对附近的所有敌人造成伤害。
+316014	X1_Crusader_HeavensFury3	天堂之怒	{c_gold}冷却时间：{/c_gold} {c_green}{Script Formula 3}{/c_green} 秒<br><br>召唤一道神圣天罚之光，灼烧被其笼罩的所有敌人。
+291804	X1_Crusader_IronSkin	钢铁之肤	{c_gold}冷却时间：{/c_gold} {c_green}{Script Formula 2}{/c_green} 秒<br><br>你的皮肤化为钢铁，在短时间内使你免受大部分伤害。
+267600	X1_Crusader_Judgment	审判	{c_gold}冷却时间：{/c_gold} {c_green}{Script Formula 2}{/c_green} 秒<br><br>对区域内的所有敌人进行审判，在短时间内将其定身。
+325216	X1_Crusader_Justice	正义	{c_gold}生成：{/c_gold} {c_green}{Script Formula 0}{/c_green} 点愤怒值<br><br>向敌人掷出正义之锤。
+290960	X1_Crusader_LawsOfFate	命运律法	{c_gold}冷却时间：{/c_gold} {c_green}{Script Formula 1}{/c_green} 秒<br><br>{c_gold}主动：{/c_gold}吟诵律法，使你和你的盟友在短时间内提高移动速度。<br><br>{c_gold}被动：{/c_gold}每当你闪避攻击时，你和你的盟友有一定几率在短时间内提高移动速度。
+323371	X1_Crusader_LawsOfFate_Passive		
+290912	X1_Crusader_LawsOfHope	希望律法	{c_gold}冷却时间：{/c_gold} {c_green}{Script Formula 1}{/c_green} 秒<br><br>{c_gold}主动：{/c_gold}吟诵律法，使你和同伴的能量恢复速度在短时间内提高。<br><br>{c_gold}被动：{/c_gold}每当你拾取生命球时，你和同伴的能量恢复速度都会提高。
+323370	X1_Crusader_LawsOfHope_Passive		
+342299	X1_Crusader_LawsOfHope_Passive2		
+342279	X1_Crusader_LawsOfHope2	希望律法	{c_gold}冷却时间：{/c_gold} {c_green}{Script Formula 0}{/c_green} 秒<br><br>{c_gold}主动：{/c_gold}强化律法，在短时间内以护盾保护你和同伴。<br><br>{c_gold}被动：{/c_gold}吟诵律法，持续为你和同伴恢复生命值。<br><br>{c_yellow}同时只能激活一种律法效果。{/c_yellow}
+266722	X1_Crusader_LawsOfJustice	正义律法	{c_gold}冷却时间：{/c_gold} {c_green}{Script Formula 1}{/c_green} 秒<br><br>{c_gold}主动：{/c_gold}使你和同伴的所有抗性在短时间内提高。<br><br>{c_gold}被动：{/c_gold}每当你格挡时，都有一定几率使你和同伴在短时间内受到的伤害降低。
+323386	X1_Crusader_LawsOfJustice_Passive		
+342286	X1_Crusader_LawsOfJustice_Passive2		
+342280	X1_Crusader_LawsOfJustice2	正义律法	{c_gold}冷却时间：{/c_gold} {c_green}{Script Formula 0}{/c_green} 秒<br><br>{c_gold}主动：{/c_gold}强化律法，在短时间内使你和同伴从元素的攻击中受到的伤害大大降低。<br><br>{c_gold}被动：{/c_gold}吟诵律法，使你和同伴从元素的攻击中受到的伤害降低。<br><br>{c_yellow}同时只能激活一种律法效果。{/c_yellow}
+290946	X1_Crusader_LawsOfValor	勇气律法	{c_gold}冷却时间：{/c_gold} {c_green}{Script Formula 1}{/c_green} 秒<br><br>{c_gold}主动：{/c_gold}吟诵律法，使你和同伴造成的伤害在短时间内提高。<br><br>{c_gold}被动：{/c_gold}每当你对敌人造成暴击时，有一定几率使你和同伴在短时间内造成的伤害提高。
+323387	X1_Crusader_LawsOfValor_Passive		
+342284	X1_Crusader_LawsOfValor_Passive2		
+342281	X1_Crusader_LawsOfValor2	勇气律法	{c_gold}冷却时间：{/c_gold} {c_green}{Script Formula 0}{/c_green} 秒<br><br>{c_gold}主动：{/c_gold}强化律法，在短时间内使你和同伴的攻击速度大大提高。<br><br>{c_gold}被动：{/c_gold}吟诵律法，使你和同伴的攻击速度提高。<br><br>{c_yellow}同时只能激活一种律法效果。{/c_yellow}
+348773	X1_Crusader_Passive_Blunt	重击之锤	用你的战锤教教那些异端们正确的用锤之道。
+356176	X1_Crusader_Passive_DivineFortress	神圣堡垒	“他的盾牌令人眼花缭乱地绕着他飞旋，在他和敌人之间形成了一道刀枪不入的壁垒。”——卓林传奇
+357218	X1_Crusader_Passive_Fervor	热忱	“当邪恶倒在你的脚下，你就会明白圣战的力量。”——迅隼爵士
+311629	X1_Crusader_Passive_Finery	宝石之力	当你对着那些蕴藏圣光的石头冥想时，你会发现圣光就在你心中。
+286177	X1_Crusader_Passive_HeavenlyStrength	天堂之力	“宁心静体，感受圣光。只有那样才能爆发出潜藏于体内的力量。”——阿克汉教士
+302500	X1_Crusader_Passive_HoldYourGround	坚守阵地	“休想动摇我半分。你们的拳头根本碰不到我。”——金刚不坏的海勒尔
+310804	X1_Crusader_Passive_HolyCause	神圣使命	“用你的力量净化邪恶吧。”——荒地行者迈尔莫斯
+309830	X1_Crusader_Passive_Indestructible	铁胆钢心	“随着我生命力的耗竭，我再也感受不到如暴风雨般砸落的重拳。”——安娜金
+310640	X1_Crusader_Passive_Insurmountable	无懈可击	在毫无胜算的情况下，一个人的忍耐力无疑彰显着他的坚毅品格。
+310783	X1_Crusader_Passive_IronMaiden	铁处女	为那些胆敢带着怒火逼近真正圣教军的可怜人默哀吧，因为他们很快就不复存在了。
+310678	X1_Crusader_Passive_LongArmOfTheLaw	律法无边	“是圣光维系着律法，因为倘若圣光泯灭，律法只不过是一纸空文。”——阿克汉教士
+348741	X1_Crusader_Passive_LordCommander	一统千军	“不跟我走就只有死路一条。”—卡萨
+357269	X1_Crusader_Passive_NephalemMajesty	狂热信念	“虽然已是老生常谈，但先祖毫无保留地拥抱了圣光，那使他们强大得超出了我们的想象。”——阿卡拉特
+356173	X1_Crusader_Passive_Renewal	格挡复原	“铭记我说的话，切勿让黑暗吞噬你心中的光明。所有听到这些话并笃信的人，都将获得重生。”——阿卡拉特
+356147	X1_Crusader_Passive_Righteousness	正义之怒	你的信仰越虔诚，力量就越强大。
+356052	X1_Crusader_Passive_ToweringShield	守御之盾	圣教军总是人盾合一，盾牌早已成为身体的一部分。
+310626	X1_Crusader_Passive_Vigilant	警戒	“愿阿卡拉特保护我，并赐我信仰，让圣光治愈我的灵魂。”——圣教军誓词
+310775	X1_Crusader_Passive_Wrathful	愈体盛怒	“沐浴圣光的人总是能吸收敌人的怒意，然后还施彼身。”——圣教军格言
+375866	X1_Crusader_Phalanx_Basic_Melee	斗阵近战	
+330729	x1_Crusader_Phalanx3	斗阵	{c_gold}消耗：{/c_gold} {c_green}{Script Formula 42}{/c_green} 点愤怒值<br><br>召唤强大的化身，朝目标地点发起冲锋。
+369807	x1_Crusader_PhalanxArcher_Ranged_Projectile	斗阵远程	
+290545	X1_Crusader_Provoke	挑衅	{c_gold}冷却时间：{/c_gold} {c_green}{Script Formula 2}{/c_green} 秒<br>{c_gold}生成：{/c_gold} {c_green}{Script Formula 3}{/c_green} 点愤怒值<br><br>嘲讽附近的所有敌人，每嘲讽一名敌人可立即额外产生 {c_green}{Script Formula 19}{/c_green} 点愤怒值。
+285903	X1_Crusader_Punish	惩罚	{c_gold}生成：{/c_gold} {c_green}{Script Formula 5}{/c_green} 点愤怒值<br><br>猛击敌人并获得钢铁神经效果，使你的格挡几率在短时间内提高。
+353492	X1_Crusader_ShieldBash2	盾牌猛击	{c_gold}消耗：{/c_gold} {c_green}{Resource Cost}{/c_green} 点愤怒值<br><br>冲向敌人，用盾牌猛击目标和周围所有敌人。
+268530	X1_Crusader_ShieldGlare	盾闪	{c_gold}冷却时间：{/c_gold} {c_green}{Script Formula 4}{/c_green} 秒<br><br>从你的盾牌迸射出金光，致盲你前方的所有敌人。
+289243	X1_Crusader_Slash	烈焰斩	{c_gold}生成：{/c_gold} {c_green}{Script Formula 3}{/c_green} 点愤怒值<br><br>点燃你前方的空气，对被烈焰席卷的所有敌人造成伤害。
+286510	X1_Crusader_Smite	链击	{c_gold}生成：{/c_gold} {c_green}{Script Formula 5}{/c_green} 点愤怒值<br><br>用神圣锁链猛击最远 {c_green}{Script Formula 19}{/c_green} 码外的敌人，造成大量伤害。在击中目标后，锁链会粉碎并攻击附近其他敌人，造成少量伤害。
+243853	X1_Crusader_SteedCharge	战马冲锋	{c_gold}冷却时间：{/c_gold} {c_green}{Script Formula 2}{/c_green} 秒<br><br>骑上一匹天神战马，使你在短时间内如入无人之境般地穿越敌阵。
+239042	X1_Crusader_SweepAttack	横扫	{c_gold}消耗：{/c_gold} {c_green}{Resource Cost}{/c_green} 点愤怒值<br><br>挥舞神秘的链枷划出一个大弧，对你前方的所有敌人造成大量伤害。
+363569	x1_DarkAngel_Death		
+335991	x1_DarkAngel_SoulRush		
+342349	x1_DarkAngel_Summon		
+366275	x1_deathMaiden_PowerSlam_LR_Boss	近战攻击	挥动你的近战武器，造成 {c_green}{DamageMin} - {DamageMax}{/c} 点伤害。
+254440	x1_deathMaiden_PowerSlam_Prototype	近战攻击	挥动你的近战武器，造成 {c_green}{DamageMin} - {DamageMax}{/c} 点伤害。
+366276	x1_deathMaiden_Spin_Attack_Mortar_LR_Boss		
+253326	x1_deathMaiden_Spin_Attack_Prototype		
+253328	x1_deathMaiden_Summon_prototype	骷髅王召唤	
+369862	x1_deathMaiden_Summon_prototype_extraskeletons	骷髅王召唤	
+376562	x1_DeathMaiden_Unique_Fire_AbattoirFurnace_FireWreath	Death Maiden Fire Wreath	
+365311	X1_DemonHunter_Companion	战宠	{c_gold}冷却时间：{/c_gold} {c_green}{Cooldown Time}{/c_green} 秒<br><br>{c_gold}主动：{/c_gold}你的邪鸦下一次攻击的伤害提高。<br><br>{c_gold}被动：{/c_gold}从暗影中召唤一只邪鸦战宠。
+365312	x1_DemonHunter_Companion_Passive	战宠	!!Missing!! - Powers:x1_DemonHunter_Companion_Passive_desc
+361936	X1_DemonHunter_EntanglingShot	缠绕射击	{c_gold}生成：{/c} {c_green}{Script Formula 1}{/c} 点憎恨<br><br>在箭上灌注暗影能量，可使最多 {c_green}[{Script Formula 14}+1]{/c_green} 个敌人减速。
+377450	X1_DemonHunter_EvasiveFire	闪避射击	{c_gold}生成：{/c} {c_green}{Script Formula 4}{/c} 点憎恨值<br><br>朝三名敌人开火，若近距离内有敌人，你将会偶尔施放后空翻来躲避。
+352920	X1_DemonHunter_Passive_Ambush	伏击	“出其不意的战术很难领悟，但却值得下苦功夫去掌握。”——猎魔人敏顿
+324770	X1_DemonHunter_Passive_Awareness	濒死本能	“万事皆为试炼。洞悉环境，便能无往不利。”——王牌猎人乔森
+439525	X1_DemonHunter_Passive_Leech	吸血	“对猎魔人而言，杀即是生。杀戮，变强，然后存活下来。”—猎魔人敏顿
+338859	X1_DemonHunter_Passive_SingleOut	逐一击破	心无旁骛，凝神破敌。
+302846	X1_DemonHunter_Vengeance	复仇	{c_gold}冷却时间：{/c_gold} {c_green}{Script Formula 1}{/c_green} 秒<br><br>变成复仇的实体化身，持续 {c_green}{Script Formula 0}{/c_green} 秒。
+363984	x1_Detonate_DOT_Buffs		
+368154	X1_DH_Companion_Boar_Intervene	干涉	当玩家生命值较低时，嘲讽玩家附近的敌人。
+340186	x1_FloaterAngel_LightningBeam		
+359519	x1_FloaterAngel_LightningBeam_Malthael		
+340168	x1_FloaterAngel_Teleport		
+340083	x1_FloaterAngel_Transform		
+357811	x1_FloaterAngel_Transform_Malthael		
+334740	X1_Fortress_JudgeEvent_SpawnKnockback		
+360496	x1_Fortress_Portal_Switch		死神之门
+361425	X1_Fortress_Portal_Switch_CheckMonsters		
+361488	X1_Fortress_Portal_Switch_TeleportMonster		
+330641	x1_Fortress_Rotating_Door		灵魂环门
+343407	X1_FortressB_Visuals		
+377827	X1_Generic_Break_Walls_Buff		
+346580	x1_Ghost_Dark_SoulSiphon		
+298686	x1_Ghost_SoulSiphon		
+346561	x1_Ghost_SoulSiphon_Fire		
+299066	x1_GhostWalkThroughWalls		
+392702	x1_Greed_Death		
+293555	x1_Imperius_Cleave	绝望顺劈斩	
+345327	X1_Imperius_EnemyOrNothing		
+293355	x1_Imperius_LeapSmash	跳斩	{c_gold}生成：{/c} {c_green}{resource gained on first hit}{/c} 点怒气<br>{c_gold}冷却时间：{/c} {c_green}{cooldown time}{/c} 秒<br><br>野蛮人腾空而起，着地时对 {c_green}{script formula 0}{/c_green} 码内的所有敌人造成 {c_green}[{script formula 35}*100]%{/c_green} 的武器伤害，并使其移动速度降低 {c_green}[{Script Formula 5}*100]%{/c_green} ，持续 {c_green}{Script Formula 4}{/c_green} 秒。
+378346	x1_ImperiusWingsBuff		
+315456	X1_Kyla_cheer		
+315448	X1_Kyla_falldownanimation		
+315450	X1_Kyla_shieldup		
+439849	X1_Legendary_AI_RunTo_Guaranteed_Spider		
+344094	X1_Legendary_Potion_06		饮用“库帮”药水能使你在5秒内穿过筑墙精英怪所召唤的墙壁。
+405166	X1_Legendary_Potion_07		当生命值低于 25% 时使用，恢复 {c_magic}[{VALUE1}*100]%{/c_magic} 的能量。
+428812	X1_Legendary_Potion_08		恐惧 12 码内的敌人，持续 {c_magic}{VALUE1}{/c_magic} 秒。
+434626	X1_Legendary_Potion_09		使受到的所有类型的治疗效果提高 {c_magic}[{VALUE1}*100]%{/c_magic}，持续 5 秒。
+451310	X1_Legendary_Potion_10		根据你损失的生命值闪现到别的位置。结果无法预料。
+342078	X1_LegendaryGenericPotionPowerup		
+327306	X1_LifetimeBuff_AbsorbNonPlayerDamage		
+354164	X1_LR_Boss_BigRed_Izual_FrostNova	冰霜新星	寒冰爆破，将附近敌人冰冻 {c_green}[{script formula 2}|1|]秒{/c_green} ，并造成 {c_green}{script formula 0} - [{script formula 0} + {script formula 1}] 点冰霜伤害{/c_green}。冰霜伤害可使敌人陷入寒冷，降低敌人的移动和攻击速度。伤害会中断冰冻效果，但不会中断寒冷效果。<br><br>冷却时间：{c_green}[{cooldown time}|1|]秒{/c_green}
+416435	x1_LR_Boss_Butcher_Spears	屠夫之矛	掷出一根矛枪，最远攻击范围可达 {c_green}{script formula 2}{/c_green} 码，将一名敌人拽至野蛮人身边，使其移动速度降低，并对其造成 {c_green}[{script formula 0}*100]%{/c_green} 的武器伤害。<br><br>生成：{c_green}{script formula 12}{/c_green} 点怒气<br>冷却时间：{c_green}{cooldown time}{/c_green} 秒
+366520	x1_LR_Boss_DarkAngel_SoulRush		
+366525	x1_LR_Boss_DarkAngel_Summon		
+369463	x1_LR_Boss_DarkAngel_Wave		
+354687	X1_LR_Boss_demonFlyerMega_FireBreath	红色烈焰吐息	这是你近距离战斗时所使用的技能。
+374236	X1_LR_Boss_ExpandingFireRing	扩大烈焰之环	
+367112	X1_LR_Boss_FireNova	魔焰树妖火焰新星	
+374471	X1_LR_Boss_Generic_Taunt		
+374569	X1_LR_Boss_MorluSpellcaster_Meteor		
+428903	x1_LR_Boss_morluSpellcaster_Weapon_Melee_Instant	近战攻击	用近战武器挥击一名敌人。<br><br>{c_yellow}当能量较低时，技能默认为基本攻击。{/c}
+427151	X1_LR_Boss_RatKing_BurrowSetup		
+428491	X1_LR_Boss_RatKing_DeadPlayerTaunt		
+428492	X1_LR_Boss_RatKing_DeadPlayerTauntSearch		
+427689	X1_LR_Boss_RatKing_OnDeath		
+439911	x1_LR_Boss_Sandmonster_OnDeath		
+367289	x1_LR_Boss_SharedCooldown		
+373204	X1_LR_Boss_SkeletonKing_Summon_Skeleton	骷髅王召唤	
+375515	X1_LR_Boss_SkeletonKing_Whirlwind		
+359186	X1_LR_Boss_SkeletonSummoner_Projectile		
+369518	X1_LR_Boss_SkeletonSummoner_Projectile_B		
+369519	X1_LR_Boss_SkeletonSummoner_Projectile_C		
+365266	x1_LR_Boss_SkeletonSummoner_Summoning		
+374493	X1_LR_Boss_Succubus_Firestorm		
+445693	X1_LR_Boss_Summon_CoreElites		
+429291	X1_LR_CreepMob_Herding_Attack		
+309921	X1_LR_CreepMob_Multiple_Arm_Attack		
+429077	X1_LR_CreepMob_Ranged_Arm_Line_Attack		
+328714	x1_Malthael_Baal_AIState		
+330055	x1_Malthael_Baal_FesteringAppendage_Melee	近战攻击	挥动你的近战武器，造成 {c_green}{DamageMin} - {DamageMax}{/c} 点伤害。
+324846	x1_Malthael_Baal_Hoarfrost		
+330084	x1_Malthael_Baal_Rift		
+330063	x1_Malthael_Baal_SummonFesteringAppendages		
+325140	x1_Malthael_DeathFogMonster_Setup		
+328715	x1_Malthael_Diablo_AIState		
+334760	x1_Malthael_Diablo_TeleportFireNovaLightning		
+327766	X1_Malthael_DrainSoul		
+340819	x1_Malthael_HealthGlobeDropper		
+328712	x1_Malthael_Mephisto_AIState		
+330366	x1_Malthael_Mephisto_PoisonCloud		
+323604	x1_Malthael_Mephisto_SkullMissile		
+354617	x1_Malthael_Mephisto_SpawnInvisLightningProxies		
+358059	x1_Malthael_Mephisto_SpiralLightning_Inward		
+348226	x1_Malthael_Mephisto_SummonRotatingLightning		
+347681	x1_Malthael_Mephisto_TeleportExplodeOrbs		
+371010	x1_Malthael_OnDeath		
+330358	x1_Malthael_PhaseOne_AIState		
+367300	x1_Malthael_PhaseThree_AIState		
+330360	x1_Malthael_PhaseTwo_AIState		
+327847	X1_Malthael_SickleThrowTeleport		
+360885	x1_Malthael_Spirit_Death		
+362756	x1_Malthael_Spirit_Fog		
+325184	X1_Malthael_SummonDeathFogMonster		
+354045	X1_Malthael_SummonFloaterAngel		
+325648	x1_Malthael_SwordShieldStart		
+325649	x1_Malthael_SwordShieldStop		
+354881	x1_MoleMutant_Ranged_JumpBack_Shot		
+349044	x1_MoleMutant_Ranged_Projectile		
+349528	x1_MoleMutant_Shaman_Blast		
+350639	x1_MoleMutant_Shaman_Resurrect		
+350022	x1_MoleMutantEnragedCombo	近战攻击	这是你近距离战斗时所使用的技能。
+312736	X1_Monk_DashingStrike	疾风击	{c_gold}消耗：{/c_gold} {c_green}{Script Formula 23}{/c_green} 次<br><br>疾冲并重击敌人。<br><br>{c_yellow}每 {c_green}{Script Formula 2}{/c_green} 秒可获得一次疾风击，最多可叠加 {c_green}{Script Formula 0}{/c_green} 次。{/c_yellow}
+312307	X1_Monk_Epiphany	灵光悟	{c_gold}冷却时间：{/c_gold} {c_green}{Cooldown Time}{/c_green} 秒<br><br>使用灵光悟时，每秒恢复的内力提高，并使你在近战攻击时立刻疾冲到目标面前，持续 {c_green}{Script Formula 0}{/c_green} 秒。
+317076	X1_Monk_InnerSanctuary	金轮阵	{c_gold}冷却时间：{/c_gold} {c_green}{Cooldown Time}{/c_green} 秒<br><br>在地上生成一个符文防护法阵，持续较长时间，使法阵内所有同伴受到的所有伤害降低。
+375088	X1_Monk_MantraOfConviction_v2	定罪真言	{c_gold}消耗：{/c_gold} {c_green}{Resource Cost}{/c_green} 点内力<br><br>{c_gold}主动：{/c_gold}在短时间内使伤害加成提高。<br><br>{c_gold}被动：{/c_gold}使附近敌人受到的伤害提高。<br><br>{c_yellow}你一次只能激活一种真言效果。{/c_yellow}
+375089	X1_Monk_MantraOfConviction_v2_Passive	定罪真言	
+375049	X1_Monk_MantraOfEvasion_v2	救赎真言	{c_gold}消耗：{/c_gold} {c_green}{Resource Cost}{/c_green} 点内力<br><br>{c_gold}主动：{/c_gold}使你和附近同伴对全元素抗性大幅提高。<br><br>{c_gold}被动：{/c_gold}你和附近同伴对全元素抗性提高。<br><br>{c_yellow}你一次只能激活一种真言效果。{/c_yellow}
+375050	X1_Monk_MantraOfEvasion_v2_Passive	救赎真言	
+373143	X1_Monk_MantraOfHealing_v2	治愈真言	{c_gold}消耗：{/c_gold} {c_green}{Resource Cost}{/c_green} 点内力<br><br>{c_gold}主动：{/c_gold}使你和同伴被一道神秘护盾笼罩，吸收伤害。<br><br>{c_gold}被动：{/c_gold}你和附近同伴恢复的生命值提高。<br><br>{c_yellow}你一次只能激活一种真言效果。{/c_yellow}
+373154	X1_Monk_MantraOfHealing_v2_Passive	治愈真言	
+375082	X1_Monk_MantraOfRetribution_v2	惩戒真言	{c_gold}消耗：{/c_gold} {c_green}{Resource Cost}{/c_green} 点内力<br><br>{c_gold}主动：{/c_gold}提高对攻击者造成的伤害。<br><br>{c_gold}被动：{/c_gold}你和附近同伴在格挡、躲闪或被击中时，会对攻击者造成相当于一定比例的武器伤害（作为神圣伤害）。<br><br>{c_yellow}你一次只能激活一种真言效果。{/c_yellow}
+375083	X1_Monk_MantraOfRetribution_v2_Passive	惩戒真言	
+363878	X1_Monk_MysticAlly_RuneA_Explode		
+363876	X1_Monk_MysticAlly_RuneA_TagForExplosion		
+362102	X1_Monk_MysticAlly_v2	幻身诀	{c_gold}冷却时间：{/c_gold} {c_green}{Script Formula 18}{/c_green} 秒<br><br>{c_gold}主动：{/c_gold}在短时间内提高你的幻身所造成的伤害。<br><br>{c_gold}被动：{/c_gold}幻身与你并肩作战。
+362118	X1_Monk_MysticAlly_v2_Passive	幻身诀	
+341559	X1_Monk_Passive_Momentum	劲力狂增	永动不息，淌如流水。
+315271	X1_Monk_Passive_MythicRhythm	神秘韵律	“内力不可抑止，其自生自长，日精夜强。”——尊者阿尼西姆
+368899	X1_Monk_Passive_Unity	齐心协力	“吾料将往生，凡躯覆于积雪之下。然其手置于吾肩，热流倏尔遍及吾身，遂比肩退兽。”——北地传说
+384623	X1_MonsterAffix_Avenger_CorpseBomberRare		
+384624	X1_MonsterAffix_Avenger_CorpseBomberRareCast		
+384628	X1_MonsterAffix_Avenger_LightningStorm		
+384630	X1_MonsterAffix_Avenger_LightningStormCast		
+384570	X1_MonsterAffix_Avenger_Orbiter		
+384571	X1_MonsterAffix_Avenger_OrbiterCast		
+308319	X1_MonsterAffix_CorpseBomber		
+308318	X1_MonsterAffix_CorpseBomberCast		
+309247	X1_MonsterAffix_CorpseBomberRare		
+309248	X1_MonsterAffix_CorpseBomberRareCast		
+328052	X1_MonsterAffix_LightningStorm		
+332756	x1_MonsterAffix_LightningStorm_AI_Close		
+349748	X1_MonsterAffix_LightningStorm_KillSelf		
+348532	X1_MonsterAffix_LightningStorm_Pulse		
+332683	X1_MonsterAffix_LightningStorm_TagTarget		
+328053	X1_MonsterAffix_LightningStormCast		
+349751	X1_MonsterAffix_LightningStormChampion		
+343528	X1_MonsterAffix_Orbiter		
+343527	X1_MonsterAffix_OrbiterCast		
+345214	X1_MonsterAffix_OrbiterChampion		
+345215	X1_MonsterAffix_OrbiterChampionCast		
+337106	X1_MonsterAffix_TeleportMines		[TEMP] Mines
+337107	X1_MonsterAffix_TeleportMinesCast		
+334807	X1_NegativeHealthGlobe_Flash		
+338025	x1_NightScreamer_AllyBiteTransform		
+338114	x1_NightScreamer_CanTransform		
+322542	X1_NightScreamer_FuriousCharge		
+324956	x1_NightScreamer_ScreamAttack		
+367807	x1_NPC_Westmarch_Aldritch_CrushingResolve	坚定决心	{c_gold}生成：{/c_gold} {c_green}{Script Formula 4}{/c_green} 点愤怒值<br><br>攻击造成 {c_green}[{Script Formula 3}*100]%{/c_green} 武器伤害。每攻击一名敌人，可击中的目标数量会增加 {c_green}1{/c_green} 个，最多可达到 {c_green}5{/c_green} 个。
+329848	x1_Pand_Brute_Decapitate_Slide	斩首	
+360331	x1_Pand_Ext_Event_greatWeapon_bossSuckIn	Great Weapon Boss Suck In	{c_gold}消耗：{/c_gold} {c_green}{Resource Cost}{/c_green} 点奥能<br>{c_gold}冷却时间：{/c_gold} {c_green}[{Cooldown Time}]{/c_green} 秒
+361400	x1_Pand_Ext_Event_greatWeapon_fireEnergyPulses		
+358496	x1_Pand_Ext_Event_greatWeapon_summonBoss		
+357034	x1_Pand_Ext_Event_greatWeapon_summonMonsters		
+364483	x1_Pand_Ext_ImperiusCharge_towers_chains		
+365313	x1_Pand_Ext_ImperiusCharge_Towers_Setup	泥浆喷泉	
+323354	X1_Pand_Ext_Ram_Knockback	彼列火焰弹	掷出三枚手雷，爆炸造成 {Script Formula 0} - [{Script Formula 0} + {Script Formula 1}] 点伤害。
+321861	X1_Pand_Fortress_Ordnance_ChronoField		
+321168	X1_Pand_Fortress_Ordnance_Mine	X1_Pand_Fortress_Ordnance_Mine	
+321860	X1_Pand_Fortress_Ordnance_Shocker		
+347156	X1_Pand_HexMaze_PortalChampSummon		末日传送门
+277005	x1_Pand_LeaperAngel_Leap		
+270752	x1_Pand_Maze_PortalTest_Power		
+374755	x1_Pand_Maze_PortalTest_Power_Bloone		
+374759	x1_Pand_Maze_PortalTest_Power_Borgoth		
+374763	x1_Pand_Maze_PortalTest_Power_Grotescor		
+374767	x1_Pand_Maze_PortalTest_Power_Haziael		
+374771	x1_Pand_Maze_PortalTest_Power_Magrethar		
+374775	x1_Pand_Maze_PortalTest_Power_Severag		
+330626	x1_Pand_Rockworm_BurstOut		
+279220	x1_Pand_SniperAngel_closeRangedAttack	近战攻击	这是你近距离战斗时所使用的技能。
+375514	x1_Pand_SniperAngel_closeRangedAttack_LR_Boss		
+274493	x1_Pand_SniperAngel_rangedAttack	近战攻击	这是你近距离战斗时所使用的技能。
+365321	x1_Pand_SniperAngel_rangedAttack_LR_Boss	近战攻击	这是你近距离战斗时所使用的技能。
+300679	X1_pandemonium_ideation_timeStopBuff		
+322467	x1_PandExt_Collapsing_Pillar	a2dun_Zolt_Tesla_Tower_Lightning_pewpew_	
+300721	x1_PandExt_ideation_bacon_beaconOnDeath		
+272299	x1_pandExt_Ranged_Prototype	近战攻击	挥动你的近战武器，造成 {c_green}{DamageMin} - {DamageMax}{/c} 点伤害。
+323070	x1_pandExt_Ranged_Prototype_StrafeLeft	近战攻击	挥动你的近战武器，造成 {c_green}{DamageMin} - {DamageMax}{/c} 点伤害。
+323071	x1_pandExt_Ranged_Prototype_StrafeRight	近战攻击	挥动你的近战武器，造成 {c_green}{DamageMin} - {DamageMax}{/c} 点伤害。
+347846	X1_PandExt_TimeTrap		无间之狱
+276351	X1_PandInt_SplitMonster_merge		
+276298	X1_PandInt_SplitMonster_split		
+356461	X1_Passive_BountyScroll	悬赏卷轴	使你和同伴获得一项随机增益效果。
+375252	X1_Passive_BountyScroll_BeastDamage	悬赏卷轴	
+366183	X1_Passive_BountyScroll_BossDamage	悬赏卷轴	
+375246	X1_Passive_BountyScroll_DemonDamage	悬赏卷轴	
+359128	X1_Passive_BountyScroll_EliteDamage	悬赏卷轴	
+356462	X1_Passive_BountyScroll_Experience	悬赏卷轴	
+377214	X1_Passive_BountyScroll_LifeRegen	悬赏卷轴	
+375263	X1_Passive_BountyScroll_RunSpeed	悬赏卷轴	
+375248	X1_Passive_BountyScroll_UndeadDamage	悬赏卷轴	
+359826	x1_Plagued_Lacuni_SpecialMelee	斩首	
+357878	X1_Plagued_LacuniMale_Summon		
+334633	x1_PortalGuardian_Turning		
+302416	x1_portalGuardianMinion_projectile		
+270783	x1_PortalMonster_BurrowIn		
+270782	x1_PortalMonster_BurrowOut		
+270784	x1_PortalMonster_LifetimeBuff		
+325081	X1_PortalMonster_PortalSummon		
+330047	X1_PortalMonster_RoarSummon		
+279029	X1_PortalMonster_Stomp		
+323805	x1_PortalMonster_Swipe	近战攻击	挥动你的近战武器，造成 {c_green}{DamageMin} - {DamageMax}{/c} 点伤害。
+271815	x1_RockFodder_Charge		
+322494	X1_RockFodder_FuriousCharge		
+371040	X1_RockFodder_FuriousCharge_RockHive_Queen		
+327540	x1_RockFodder_Tumble		
+323210	x1_rockworm_pand_projectile		
+439832	X1_Sandmonster_pet_Weapon_Melee_Instant	近战攻击	挥动你的近战武器，造成 {c_green}{DamageMin} - {DamageMax}{/c} 点伤害。
+377188	X1_Sandmonster_Weapon_Melee_Instant	近战攻击	挥动你的近战武器，造成 {c_green}{DamageMin} - {DamageMax}{/c} 点伤害。
+246451	x1_ScaryEyes_BurrowInHidden		
+246453	x1_ScaryEyes_BurrowOut		
+254946	x1_ScaryEyes_charge		
+365395	X1_Scoundrel_Multishot	多重射击	{c_gold}冷却时间：{/c_gold} {c_green}{Script Formula 3}{/c_green} 秒<br><br>{c_gold}主动：{/c_gold}痞子立即射出多支箭矢。<br><br>{c_gold}被动：{/c_gold}痞子的特殊攻击有一定几率射出多支箭矢。
+366585	X1_Scoundrel_Multishot_Passive	多重射击	痞子有时会发起多重射击，且他的特殊攻击能一次射出 {c_green}[{Script Formula 2}+1]{/c_green} 支箭矢。
+333071	X1_ShardPassive_FakeGlobes		
+333072	X1_ShardPassive_MinResource		
+315052	x1_Skeleton_Stab	向下突刺	{c_gold}生成：{/c} {c_green}{resource gained on first hit}{/c} 点怒气<br>{c_gold}冷却时间：{/c} {c_green}{cooldown time}{/c} 秒<br><br>野蛮人腾空而起，着地时对 {c_green}{script formula 0}{/c_green} 码内的所有敌人造成 {c_green}[{script formula 35}*100]%{/c_green} 的武器伤害，并使其移动速度降低 {c_green}[{Script Formula 5}*100]%{/c_green} ，持续 {c_green}{Script Formula 4}{/c_green} 秒。
+314835	x1_Skeleton_Strafe		
+300136	x1_SkeletonArcher_FireArrow		
+313920	x1_SkeletonArcher_FireArrowBackpedal		
+375703	X1_Snitchley_TreasureGoblin_Escape		
+370348	X1_SpectralHound_Buff		
+319739	X1_SummonVanityPet		
+286732	X1_temp_ballista_switch_leap		
+375439	x1_Uber_Diablo_HellSpikes	地狱尖刺	
+338723	x1_Udder_Lightning		
+345292	x1_Unique_NPC_Enchantress_ForcefulPush	原力之冲	在某敌人附近的 {c_green}{Script Formula 5}{/c_green} 码范围内召出奥术爆破，造成 {c_green}[{Script Formula 6}*100]%{/c_green} 的武器伤害（作为奥术伤害），并将被爆破击中的所有敌人击退。<br><br>冷却时间：{c_green}{Script Formula 7}{/c_green} 秒
+344565	x1_Unique_NPC_Enchantress_MassCharm	群体控制	抛出一颗魔能电珠，可将一群敌人变形为小鸡，持续 {c_green}{script formula 6}{/c_green} 秒。被变形的敌人无法作出攻击行为。<br><br>冷却时间：{c_green}{Script Formula 7}{/c_green} 秒
+345394	x1_Unique_NPC_Enchantress_ScorchedEarth	腐蚀	召唤一个能量池，在 {c_green}[{Script Formula 4}]{/c_green} 秒内造成 {c_green}[{Script Formula 9}*{Script Formula 4}*100]%{/c_green} 的武器伤害（作为奥术伤害）。受影响的敌人会从所有攻击中承受额外 {c_green}[{Script Formula 0}*100]%{/c_green} 的伤害，持续 {c_green}[{Script Formula 1}]{/c_green} 秒。<br><br>冷却时间：{c_green}{Script Formula 10}{/c_green} 秒
+344096	x1_Unique_NPC_Templar_Heal	治疗	治疗你和圣殿骑士 {c_green}[{Script Formula 0}]{/c_green} 点生命值。<br><br>冷却时间：{c_green}[{Cooldown Time}]{/c_green} 秒
+344099	x1_Unique_NPC_Templar_Onslaught	突击	对一名敌人发起一记强力重击，造成 {c_green}[{Script Formula 0} * 100]%{/c_green} 的武器伤害。<br><br>冷却时间：{c_green}{Script Formula 3}{/c_green} 秒
+344098	x1_Unique_NPC_Templar_ShieldCharge	冲锋	朝一个目标冲锋，造成 {c_green}[{script formula 0}*100]%{/c_green} 的武器伤害，并使位于 {c_green}{script formula 5}{/c_green} 码内的所有敌人昏迷 {c_green}{script formula 4}{/c_green} 秒。<br><br>冷却时间：{c_green}{Script Formula 6}{/c_green} 秒
+346525	x1_Unique_TriuneSummoner_Projectile		
+340870	x1_Urzael_Cannonball		
+347799	x1_Urzael_Cannonball_Burning		
+346168	x1_Urzael_CeilingDebris		
+347842	x1_Urzael_CeilingDebris_Burning		
+292061	x1_Urzael_FlameSweep		
+346045	x1_Urzael_LeapKnockback		
+308295	x1_Urzael_Melee_Instant	近战攻击	挥动你的近战武器，造成 {c_green}{DamageMin} - {DamageMax}{/c} 点伤害。
+346028	x1_Urzael_PhaseOne_AIState		
+346027	x1_Urzael_PhaseTwo_AIState		
+306381	X1_Westm_Convert		
+307341	X1_Westm_Convert_AoE		
+330009	X1_Westm_Convert_DelayedStart2		
+313957	X1_Westm_Convert_DelayedStartFromTarget		
+328861	X1_Westm_Convert_Scripted		
+330011	X1_Westm_Convert2		
+354949	X1_westm_doomedWoman_visual		
+244759	x1_westm_Hoist_Trigger_onDeathPower		
+319534	x1_westm_Soul_Summoner_Orb_SummonNearTarget		
+301826	X1_westm_Soul_summoner_setup		
+313229	X1_westm_Soul_Summoner_Summon		
+315014	X1_westm_Unique_ghostLord_shockwave		
+364239	x1_Westmarch_Brute_B_Charge_Custom_LR_Boss		
+367003	x1_Westmarch_Brute_B_Charge_Custom_LR_Boss_Hulkmode		
+278970	x1_Westmarch_Brute_Charge		
+278971	x1_Westmarch_Brute_Decapitate	斩首	
+278972	x1_Westmarch_Brute_Vomit		
+360845	x1_Westmarch_Rat_Charge		
+360240	x1_Westmarch_Rat_Kamikaze		
+335450	X1_WestmarchHound_DeadPlayerTaunt		
+335449	X1_WestmarchHound_DeadPlayerTauntSearch		
+335522	X1_WestmarchHound_ShakeTarget		
+289871	x1_westmarchRanged_RangedAttack_Prototype	远程灵魂飞弹	挥动你的近战武器，造成 {c_green}{DamageMin} - {DamageMax}{/c} 点伤害。
+289870	x1_westmarchRanged_SlowAreaDenial_Prototype	慢速地面直线攻击	挥动你的近战武器，造成 {c_green}{DamageMin} - {DamageMax}{/c} 点伤害。
+247959	x1_Wickerman_Aggro		
+348207	X1_WickerMan_FireNova	魔焰树妖火焰新星	
+288538	X1_WickerMan_FirePhantom	魔焰树妖烈焰幻影	{c_gold}消耗：{/c_gold} {c_green}{Resource Cost}{/c_green} 点内力<br>{c_gold}冷却时间：{/c_gold} {c_green}{Script Formula 18}{/c_green} 秒<br><br>在附近多个敌人间快速左冲右突，发起 {c_green}{Script Formula 1}{/c_green} 记猛击，造成 {c_green}[{Script Formula 3} * {Script Formula 1} * 100]%{/c_green} 的武器伤害。
+247960	x1_Wickerman_Suicide		
+442741	X1_WitchDoctor_Passive_ConfidenceRitual	欺瞒仪式	向敌人吐露你的内心世界，拉近与他们之间的距离，以便他们能分享你所为之努力的成果。
+341344	x1_Wizard_Passive_ArcaneAegis	彼消我长	“何必浪费自己的能量？要善用敌人的能量，从而达到此消彼长的效果。还有比这更好的事吗？”—恩奈德智者雷斯科
+341540	X1_Wizard_Passive_Audacity	无畏无惧	“那些胆敢靠近你的人，就要做好后果自负的准备。”——维兹杰雷高阶成员瓦泰克
+342326	X1_Wizard_Passive_ElementalExposure	元素易伤	对受伤的敌人落井下石或许很有趣，但想办法让敌人伤得更重才是硬道理。
+298038	X1_Wizard_Passive_UnwaveringWill	坚定意志	“有时最伟大的战略就是平心静气，在朝敌人发起攻击前先摒除杂念。”——大法师斯盖
+243141	X1_Wizard_Wormhole	黑洞	{c_gold}消耗：{/c_gold} {c_green}{Resource Cost}{/c_green} 点奥能<br>{c_gold}冷却时间：{/c_gold} {c_green}[{Cooldown Time}]{/c_green} 秒<br><br>召唤出一个黑洞把敌人吸过去，并造成伤害。
+291711	x1_Wraith_ChargeClose		
+265587	X1_Wraith_Melee	近战攻击	挥动你的近战武器，造成 {c_green}{DamageMin} - {DamageMax}{/c} 点伤害。
+265911	X1_Wraith_PiercingDash		
+365581	X1_X1_Event_SpeedKill_Champion_Spawner		
+364720	X1_X1_Event_SpeedKill_Spawner		
+355496	x1_ZombieFemale_Projectile_Poison		
+30804	ZK_Ball_Summon_Skeleton		
+30808	zolt_smallFloorSpawner		
+30810	zolt_Tablet_stateChange		
+139705	ZoltunKulle_CollapseCeiling	屋顶塌陷	
+139736	ZoltunKulle_EnergyTwister	能量气旋	能量扭曲者
+139942	ZoltunKulle_FieryBoulder	烈焰巨石	
+139831	ZoltunKulle_SlowTime	时间延缓	
+139711	ZoltunKulle_Teleport	传送	
+241753	ZoltunKulle_TeleportToPlayer		
+243289	ZoltunKulle_TeleportToPlayer_Enrage		
+178483	ZombieEatStart		这是你近距离战斗时所使用的技能。
+178485	ZombieEatStop		这是你近距离战斗时所使用的技能。
+110518	ZombieFemale_Projectile		
+1771	ZombieKillerGrab		

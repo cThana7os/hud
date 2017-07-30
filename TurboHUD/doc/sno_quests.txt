@@ -1,0 +1,1039 @@
+﻿SNO	Name	Type	Event type
+221565	需要帮助的陌生人	Event	None
+30850	躁怒沙漠	Event	None
+433015	恶臭水道	Event	TimedDungeon
+120396	崩裂密室	Event	None
+153424	疯狂的攀爬者	Event	None
+148860	战火铸就	Event	None
+106221	等待支援	Event	None
+409846	当心脚下	Event	TimedDungeon
+74128	鲜血之城	MainQuest	None
+57337	黑暗灵魂石	MainQuest	None
+30864		Event	None
+57339	谎言之王	MainQuest	None
+72221	破损的王冠	MainQuest	None
+72546	追踪巫师会	MainQuest	None
+57331	皇室觐见	MainQuest	None
+80322	沙漠魅影	MainQuest	None
+101756	战争机器	MainQuest	None
+121792	净化卡尔蒂姆	MainQuest	None
+205337	防守医疗站	Event	None
+207236	战争之潮	Event	None
+152246	荣耀之焰	Event	None
+436822	诅咒池塘	Event	None
+447345	被诅咒的永恒宝箱	Event	None
+77099	雷斯一家	Event	None
+81925	清理食腐鸟	Event	None
+225253	贾巴德的复仇	Event	None
+87614	守护者之魂	Event	None
+80128	崩塌之塔	Event	None
+129801	药剂师的兄弟	Event	None
+83314	领主夫人的尸骨	Event	None
+84767	众魂罐	Event	None
+153646	血脉相连	Event	None
+121745	先祖的最终战役	Event	None
+80590		Event	None
+109638	拉卡尼休的圣坛	Event	None
+154436	绝地营救	Event	None
+154195	带领新兵	Event	None
+168859	手动调节	Event	None
+81766	Roadside Repair	Event	None
+105496	献身的隐士	Event	None
+104070	被抢走的剑鞘	Event	None
+107098	珍贵的矿石	Event	None
+106541	重振声誉	Event	None
+158596	失落的坎·达卡布财宝	Event	None
+158377	萨达尔的财宝	Event	None
+107927	卡麦尔的囚犯	Event	None
+112611	永恒之战	Event	None
+30848	矿工的黄金	Event	None
+114901	大魔神	MainQuest	None
+114795	高塔之下	MainQuest	None
+112498	高阶天堂的陨落	MainQuest	None
+113910	希望之光	MainQuest	None
+93396	通往阿尔卡纳斯之路	MainQuest	None
+101758	罪恶之心	MainQuest	None
+93697	被攻破的要塞	MainQuest	None
+93595	要塞围攻	MainQuest	None
+117779	奇异之人的剑	MainQuest	None
+30857	雷格纳人偶	Event	None
+72738	破损的剑刃	MainQuest	None
+405695	大秘境试炼	Event	None
+410418	地狱饲主巢穴	Event	TimedDungeon
+409893	悬赏任务：清理遭围高塔二层	Bounty	None
+409757	悬赏任务：消灭安度西亚	Bounty	None
+409759	悬赏任务：消灭西莫瑞斯	Bounty	None
+409753	悬赏任务：消灭感染者萨布诺克	Bounty	None
+409755	悬赏任务：消灭梅尔法特·拜帕	Bounty	None
+409884	悬赏任务：地狱饲主巢穴	Bounty	TimedDungeon
+409895	悬赏任务：当心脚下	Bounty	None
+409897	悬赏任务：诅咒讲台	Bounty	None
+409888	悬赏任务：虫标	Bounty	None
+409763	悬赏任务：消灭苍白骑手贝莱斯	Bounty	None
+409765	悬赏任务：消灭灰烬恐魔	Bounty	None
+409767	悬赏任务：消灭憎天	Bounty	None
+409761	悬赏任务：消灭埃拉	Bounty	None
+434753	临界点	Event	None
+384641	他兄弟的守护者	Event	None
+436499	检验你的实力	Event	None
+453744	有毒的水源补给	Event	TimedDungeon
+455272	崔斯特姆的黑化	Event	TimedDungeon
+448445	肆虐的掘地魔	Event	None
+448466	肆虐的掘地魔	Event	None
+448481	肆虐的掘地魔	Event	None
+448439	黑暗国王的遗产	Event	None
+448451	黑暗国王的遗产	Event	None
+448463	黑暗国王的遗产	Event	None
+448475	黑暗国王的遗产	Event	None
+448418	诅咒圣坛	Event	None
+448448	诅咒圣坛	Event	None
+448454	诅咒圣坛	Event	None
+448460	诅咒圣坛	Event	None
+448472	诅咒圣坛	Event	None
+448484	诅咒圣坛	Event	None
+448436	被缚的萨满	Event	None
+448442	被缚的萨满	Event	None
+448457	被缚的萨满	Event	None
+448469	被缚的萨满	Event	None
+448478	被缚的萨满	Event	None
+445799	悬赏任务：清理冰窟	Bounty	None
+447218	悬赏任务：被诅咒的永恒森林	Bounty	None
+447419	悬赏任务：被诅咒的永恒宝箱	Bounty	None
+445851	悬赏任务：消灭卡希克	Bounty	TimedDungeon
+436269	悬赏任务：诅咒城郭	Bounty	None
+436284	悬赏任务：三大守护者	Bounty	None
+436267	悬赏任务：诅咒要塞	Bounty	None
+436280	悬赏任务：最后的野蛮人	Bounty	None
+436282	悬赏任务：祭塔之王	Bounty	None
+436271	悬赏任务：消灭塔拉	Bounty	None
+436274	悬赏任务：消灭柯雷伊和萨马伊	Bounty	None
+436276	悬赏任务：消灭加兰	Bounty	None
+436278	悬赏任务：消灭阿莱图	Bounty	None
+447945	悬赏任务：黑暗国王的遗产	Bounty	None
+448150	悬赏任务：黑暗国王的遗产	Bounty	None
+448204	悬赏任务：黑暗国王的遗产	Bounty	None
+448312	悬赏任务：黑暗国王的遗产	Bounty	None
+448258	悬赏任务：黑暗国王的遗产	Bounty	None
+447911	悬赏任务：被缚的萨满	Bounty	None
+448171	悬赏任务：被缚的萨满	Bounty	None
+448224	悬赏任务：被缚的萨满	Bounty	None
+448332	悬赏任务：被缚的萨满	Bounty	None
+448278	悬赏任务：被缚的萨满	Bounty	None
+445856	悬赏任务：诅咒圣坛	Bounty	None
+448159	悬赏任务：诅咒圣坛	Bounty	None
+448212	悬赏任务：诅咒圣坛	Bounty	None
+448320	悬赏任务：诅咒圣坛	Bounty	None
+448266	悬赏任务：诅咒圣坛	Bounty	None
+448127	悬赏任务：肆虐的掘地魔	Bounty	None
+448185	悬赏任务：肆虐的掘地魔	Bounty	None
+448238	悬赏任务：肆虐的掘地魔	Bounty	None
+448346	悬赏任务：肆虐的掘地魔	Bounty	None
+448292	悬赏任务：肆虐的掘地魔	Bounty	None
+446370	悬赏任务：被缚的萨满	Bounty	None
+448173	悬赏任务：被缚的萨满	Bounty	None
+448226	悬赏任务：被缚的萨满	Bounty	None
+448334	悬赏任务：被缚的萨满	Bounty	None
+448280	悬赏任务：被缚的萨满	Bounty	None
+448105	悬赏任务：诅咒圣坛	Bounty	None
+448161	悬赏任务：诅咒圣坛	Bounty	None
+448214	悬赏任务：诅咒圣坛	Bounty	None
+448322	悬赏任务：诅咒圣坛	Bounty	None
+448268	悬赏任务：诅咒圣坛	Bounty	None
+444433	悬赏任务：黑暗国王的遗产	Bounty	None
+448153	悬赏任务：黑暗国王的遗产	Bounty	None
+448206	悬赏任务：黑暗国王的遗产	Bounty	None
+448314	悬赏任务：黑暗国王的遗产	Bounty	None
+448260	悬赏任务：黑暗国王的遗产	Bounty	None
+448109	悬赏任务：诅咒圣坛	Bounty	None
+448163	悬赏任务：诅咒圣坛	Bounty	None
+448216	悬赏任务：诅咒圣坛	Bounty	None
+448324	悬赏任务：诅咒圣坛	Bounty	None
+448270	悬赏任务：诅咒圣坛	Bounty	None
+448100	悬赏任务：黑暗国王的遗产	Bounty	None
+448155	悬赏任务：黑暗国王的遗产	Bounty	None
+448208	悬赏任务：黑暗国王的遗产	Bounty	None
+448316	悬赏任务：黑暗国王的遗产	Bounty	None
+448262	悬赏任务：黑暗国王的遗产	Bounty	None
+448119	悬赏任务：被缚的萨满	Bounty	None
+448175	悬赏任务：被缚的萨满	Bounty	None
+448228	悬赏任务：被缚的萨满	Bounty	None
+448336	悬赏任务：被缚的萨满	Bounty	None
+448282	悬赏任务：被缚的萨满	Bounty	None
+448112	悬赏任务：诅咒圣坛	Bounty	None
+448165	悬赏任务：诅咒圣坛	Bounty	None
+448218	悬赏任务：诅咒圣坛	Bounty	None
+448326	悬赏任务：诅咒圣坛	Bounty	None
+448272	悬赏任务：诅咒圣坛	Bounty	None
+446557	悬赏任务：肆虐的掘地魔	Bounty	None
+448183	悬赏任务：肆虐的掘地魔	Bounty	None
+448236	悬赏任务：肆虐的掘地魔	Bounty	None
+448344	悬赏任务：肆虐的掘地魔	Bounty	None
+448290	悬赏任务：肆虐的掘地魔	Bounty	None
+448103	悬赏任务：黑暗国王的遗产	Bounty	None
+448157	悬赏任务：黑暗国王的遗产	Bounty	None
+448210	悬赏任务：黑暗国王的遗产	Bounty	None
+448318	悬赏任务：黑暗国王的遗产	Bounty	None
+448264	悬赏任务：黑暗国王的遗产	Bounty	None
+448121	悬赏任务：被缚的萨满	Bounty	None
+448177	悬赏任务：被缚的萨满	Bounty	None
+448230	悬赏任务：被缚的萨满	Bounty	None
+448338	悬赏任务：被缚的萨满	Bounty	None
+448284	悬赏任务：被缚的萨满	Bounty	None
+448114	悬赏任务：诅咒圣坛	Bounty	None
+448167	悬赏任务：诅咒圣坛	Bounty	None
+448220	悬赏任务：诅咒圣坛	Bounty	None
+448328	悬赏任务：诅咒圣坛	Bounty	None
+448274	悬赏任务：诅咒圣坛	Bounty	None
+448125	悬赏任务：肆虐的掘地魔	Bounty	None
+448181	悬赏任务：肆虐的掘地魔	Bounty	None
+448234	悬赏任务：肆虐的掘地魔	Bounty	None
+448342	悬赏任务：肆虐的掘地魔	Bounty	None
+448288	悬赏任务：肆虐的掘地魔	Bounty	None
+448123	悬赏任务：被缚的萨满	Bounty	None
+448179	悬赏任务：被缚的萨满	Bounty	None
+448232	悬赏任务：被缚的萨满	Bounty	None
+448340	悬赏任务：被缚的萨满	Bounty	None
+448286	悬赏任务：被缚的萨满	Bounty	None
+448116	悬赏任务：诅咒圣坛	Bounty	None
+448169	悬赏任务：诅咒圣坛	Bounty	None
+448222	悬赏任务：诅咒圣坛	Bounty	None
+448330	悬赏任务：诅咒圣坛	Bounty	None
+448276	悬赏任务：诅咒圣坛	Bounty	None
+448489	悬赏任务：黑暗国王的遗产	Bounty	None
+448558	悬赏任务：黑暗国王的遗产	Bounty	None
+448613	悬赏任务：黑暗国王的遗产	Bounty	None
+448667	悬赏任务：黑暗国王的遗产	Bounty	None
+448516	悬赏任务：被缚的萨满	Bounty	None
+448578	悬赏任务：被缚的萨满	Bounty	None
+448633	悬赏任务：被缚的萨满	Bounty	None
+448687	悬赏任务：被缚的萨满	Bounty	None
+448501	悬赏任务：诅咒圣坛	Bounty	None
+448566	悬赏任务：诅咒圣坛	Bounty	None
+448621	悬赏任务：诅咒圣坛	Bounty	None
+448675	悬赏任务：诅咒圣坛	Bounty	None
+448530	悬赏任务：肆虐的掘地魔	Bounty	None
+448592	悬赏任务：肆虐的掘地魔	Bounty	None
+448647	悬赏任务：肆虐的掘地魔	Bounty	None
+448701	悬赏任务：肆虐的掘地魔	Bounty	None
+448518	悬赏任务：被缚的萨满	Bounty	None
+448580	悬赏任务：被缚的萨满	Bounty	None
+448635	悬赏任务：被缚的萨满	Bounty	None
+448689	悬赏任务：被缚的萨满	Bounty	None
+448503	悬赏任务：诅咒圣坛	Bounty	None
+448568	悬赏任务：诅咒圣坛	Bounty	None
+448623	悬赏任务：诅咒圣坛	Bounty	None
+448677	悬赏任务：诅咒圣坛	Bounty	None
+448492	悬赏任务：黑暗国王的遗产	Bounty	None
+448560	悬赏任务：黑暗国王的遗产	Bounty	None
+448615	悬赏任务：黑暗国王的遗产	Bounty	None
+448669	悬赏任务：黑暗国王的遗产	Bounty	None
+448506	悬赏任务：诅咒圣坛	Bounty	None
+448570	悬赏任务：诅咒圣坛	Bounty	None
+448625	悬赏任务：诅咒圣坛	Bounty	None
+448679	悬赏任务：诅咒圣坛	Bounty	None
+448495	悬赏任务：黑暗国王的遗产	Bounty	None
+448562	悬赏任务：黑暗国王的遗产	Bounty	None
+448617	悬赏任务：黑暗国王的遗产	Bounty	None
+448671	悬赏任务：黑暗国王的遗产	Bounty	None
+448520	悬赏任务：被缚的萨满	Bounty	None
+448582	悬赏任务：被缚的萨满	Bounty	None
+448637	悬赏任务：被缚的萨满	Bounty	None
+448691	悬赏任务：被缚的萨满	Bounty	None
+448508	悬赏任务：诅咒圣坛	Bounty	None
+448572	悬赏任务：诅咒圣坛	Bounty	None
+448627	悬赏任务：诅咒圣坛	Bounty	None
+448681	悬赏任务：诅咒圣坛	Bounty	None
+448528	悬赏任务：肆虐的掘地魔	Bounty	None
+448590	悬赏任务：肆虐的掘地魔	Bounty	None
+448645	悬赏任务：肆虐的掘地魔	Bounty	None
+448699	悬赏任务：肆虐的掘地魔	Bounty	None
+448498	悬赏任务：黑暗国王的遗产	Bounty	None
+448564	悬赏任务：黑暗国王的遗产	Bounty	None
+448619	悬赏任务：黑暗国王的遗产	Bounty	None
+448673	悬赏任务：黑暗国王的遗产	Bounty	None
+448522	悬赏任务：被缚的萨满	Bounty	None
+448584	悬赏任务：被缚的萨满	Bounty	None
+448639	悬赏任务：被缚的萨满	Bounty	None
+448693	悬赏任务：被缚的萨满	Bounty	None
+448511	悬赏任务：诅咒圣坛	Bounty	None
+448574	悬赏任务：诅咒圣坛	Bounty	None
+448629	悬赏任务：诅咒圣坛	Bounty	None
+448683	悬赏任务：诅咒圣坛	Bounty	None
+448526	悬赏任务：肆虐的掘地魔	Bounty	None
+448588	悬赏任务：肆虐的掘地魔	Bounty	None
+448643	悬赏任务：肆虐的掘地魔	Bounty	None
+448697	悬赏任务：肆虐的掘地魔	Bounty	None
+448524	悬赏任务：被缚的萨满	Bounty	None
+448586	悬赏任务：被缚的萨满	Bounty	None
+448641	悬赏任务：被缚的萨满	Bounty	None
+448695	悬赏任务：被缚的萨满	Bounty	None
+448513	悬赏任务：诅咒圣坛	Bounty	None
+448576	悬赏任务：诅咒圣坛	Bounty	None
+448631	悬赏任务：诅咒圣坛	Bounty	None
+448685	悬赏任务：诅咒圣坛	Bounty	None
+444877	悬赏任务：消灭肥汁	Bounty	None
+445139	悬赏任务：诅咒林地	Bounty	TimedDungeon
+445158	悬赏任务：诅咒林地	Bounty	TimedDungeon
+445044	悬赏任务：束缚邪灵	Bounty	TimedDungeon
+436965	悬赏任务：诅咒池塘	Bounty	None
+444573	悬赏任务：鬼魂牢笼	Bounty	None
+444702	悬赏任务：消灭法祖拉	Bounty	None
+444397	悬赏任务：打断森林祷告	Bounty	None
+428251	悬赏任务：消灭赫蒙顿	Bounty	TimedDungeon
+433413	束缚邪恶	Event	TimedDungeon
+447968	肆虐的掘地魔	Event	None
+446546	肆虐的掘地魔	Event	None
+448055	肆虐的掘地魔	Event	None
+447947	黑暗国王的遗产	Event	None
+444083	黑暗国王的遗产	Event	None
+448024	黑暗国王的遗产	Event	None
+448036	黑暗国王的遗产	Event	None
+445858	诅咒圣坛	Event	None
+447973	诅咒圣坛	Event	None
+448001	诅咒圣坛	Event	None
+448015	诅咒圣坛	Event	None
+448032	诅咒圣坛	Event	None
+448060	诅咒圣坛	Event	None
+447908	被缚的萨满	Event	None
+446360	被缚的萨满	Event	None
+448007	被缚的萨满	Event	None
+448028	被缚的萨满	Event	None
+448049	被缚的萨满	Event	None
+434358	鬼魂牢笼	Event	None
+445906	被诅咒的永恒森林	Event	None
+436288	奶牛灾乱	Event	TimedDungeon
+439249	阿卜杜·哈兹尔的回归	Event	TimedDungeon
+437703	深渊的诅咒宝箱	Event	None
+434412	打断森林祷告	Event	TimedDungeon
+444764		Unknown2	TimedDungeon
+444766		Unknown2	TimedDungeon
+447626		Unknown1	TimedDungeon
+447631		Unknown3	TimedDungeon
+447634	套装地下城	Unknown3	TimedDungeon
+444918		Unknown2	TimedDungeon
+444920		Unknown2	TimedDungeon
+447886		Unknown1	TimedDungeon
+447888		Unknown3	TimedDungeon
+447890	套装地下城	Unknown3	TimedDungeon
+444868		Unknown2	TimedDungeon
+444870		Unknown2	TimedDungeon
+447824		Unknown1	TimedDungeon
+447826		Unknown3	TimedDungeon
+447828	套装地下城	Unknown3	TimedDungeon
+444828		Unknown2	TimedDungeon
+444830		Unknown2	TimedDungeon
+447082		Unknown1	TimedDungeon
+447087		Unknown3	TimedDungeon
+447084	套装地下城	Unknown3	TimedDungeon
+444627		Unknown2	TimedDungeon
+444629		Unknown2	TimedDungeon
+448086		Unknown1	TimedDungeon
+448088		Unknown3	TimedDungeon
+448090	套装地下城	Unknown3	TimedDungeon
+444716		Unknown2	TimedDungeon
+444718		Unknown2	TimedDungeon
+448881		Unknown1	TimedDungeon
+448883		Unknown3	TimedDungeon
+448885	套装地下城	Unknown3	TimedDungeon
+445270		Unknown2	TimedDungeon
+445272		Unknown2	TimedDungeon
+447576		Unknown1	TimedDungeon
+447578		Unknown3	TimedDungeon
+449024	套装地下城	Unknown3	TimedDungeon
+445244		Unknown2	TimedDungeon
+445246		Unknown2	TimedDungeon
+447076		Unknown1	TimedDungeon
+447080		Unknown3	TimedDungeon
+447078	套装地下城	Unknown3	TimedDungeon
+445032		Unknown2	TimedDungeon
+445029		Unknown2	TimedDungeon
+449073		Unknown1	TimedDungeon
+449075		Unknown3	TimedDungeon
+449077	套装地下城	Unknown3	TimedDungeon
+444986		Unknown2	TimedDungeon
+444988		Unknown2	TimedDungeon
+449080		Unknown1	TimedDungeon
+449082		Unknown3	TimedDungeon
+449084	套装地下城	Unknown3	TimedDungeon
+445014		Unknown2	TimedDungeon
+445016		Unknown2	TimedDungeon
+447587		Unknown1	TimedDungeon
+447592		Unknown3	TimedDungeon
+449094	套装地下城	Unknown3	TimedDungeon
+445056		Unknown2	TimedDungeon
+445058		Unknown2	TimedDungeon
+449096		Unknown1	TimedDungeon
+449098		Unknown3	TimedDungeon
+449100	套装地下城	Unknown3	TimedDungeon
+445168		Unknown2	TimedDungeon
+445170		Unknown2	TimedDungeon
+449115		Unknown1	TimedDungeon
+449117		Unknown3	TimedDungeon
+449119	套装地下城	Unknown3	TimedDungeon
+445219		Unknown2	TimedDungeon
+445221		Unknown2	TimedDungeon
+449128		Unknown1	TimedDungeon
+449130		Unknown3	TimedDungeon
+449132	套装地下城	Unknown3	TimedDungeon
+445186		Unknown2	TimedDungeon
+445188		Unknown2	TimedDungeon
+447324		Unknown1	TimedDungeon
+447326		Unknown3	TimedDungeon
+449135	套装地下城	Unknown3	TimedDungeon
+445204		Unknown2	TimedDungeon
+445202		Unknown2	TimedDungeon
+449137		Unknown1	TimedDungeon
+449139		Unknown3	TimedDungeon
+449141	套装地下城	Unknown3	TimedDungeon
+445093		Unknown2	TimedDungeon
+445095		Unknown2	TimedDungeon
+449145		Unknown1	TimedDungeon
+449147		Unknown3	TimedDungeon
+449149	套装地下城	Unknown3	TimedDungeon
+445148		Unknown2	TimedDungeon
+445152		Unknown2	TimedDungeon
+449161		Unknown1	TimedDungeon
+449163		Unknown3	TimedDungeon
+449165	套装地下城	Unknown3	TimedDungeon
+445111		Unknown2	TimedDungeon
+445113		Unknown2	TimedDungeon
+449167		Unknown1	TimedDungeon
+449169		Unknown3	TimedDungeon
+449171	套装地下城	Unknown3	TimedDungeon
+445077		Unknown2	TimedDungeon
+445074		Unknown2	TimedDungeon
+449173		Unknown1	TimedDungeon
+449175		Unknown3	TimedDungeon
+449177	套装地下城	Unknown3	TimedDungeon
+444588		Unknown2	TimedDungeon
+444591		Unknown2	TimedDungeon
+449180		Unknown1	TimedDungeon
+449182		Unknown3	TimedDungeon
+449184	套装地下城	Unknown3	TimedDungeon
+444040		Unknown2	TimedDungeon
+444042		Unknown2	TimedDungeon
+449186		Unknown1	TimedDungeon
+449188		Unknown3	TimedDungeon
+449190	套装地下城	Unknown3	TimedDungeon
+444529		Unknown2	TimedDungeon
+444531		Unknown2	TimedDungeon
+449192		Unknown1	TimedDungeon
+449194		Unknown3	TimedDungeon
+449196	套装地下城	Unknown3	TimedDungeon
+444961		Unknown2	TimedDungeon
+444967		Unknown2	TimedDungeon
+449198		Unknown1	TimedDungeon
+449200		Unknown3	TimedDungeon
+449202	套装地下城	Unknown3	TimedDungeon
+87700	陨星	MainQuest	None
+434097	三大守护者	Event	TimedDungeon
+410369	虫标	Event	TimedDungeon
+432383		Bounty	None
+432293	悬赏任务：死灰复燃的三神教	Bounty	None
+434378	悬赏任务：沃桑幸存者	Bounty	None
+432784	悬赏任务：蛛后的点心	Bounty	None
+430723	悬赏任务：调查圣殿骑士	Bounty	None
+433005	悬赏任务：清理东部水渠	Bounty	None
+433003	悬赏任务：清理西部水渠	Bounty	None
+433017	悬赏任务：恶臭水道	Bounty	None
+433009	悬赏任务：消灭古鲁尔	Bounty	None
+433011	悬赏任务：消灭被诅咒的奥特兹	Bounty	None
+433013	悬赏任务：消灭死亡针群	Bounty	None
+433007	悬赏任务：消灭亚卡拉	Bounty	None
+433025	悬赏任务：古老装置	Bounty	None
+432334	悬赏任务：鲜血与钢铁	Bounty	None
+433053	悬赏任务：邪教的囚徒	Bounty	None
+433217	悬赏任务：失踪的巡逻兵	Bounty	None
+433309	悬赏任务：恶魔大门	Bounty	None
+433392	悬赏任务：投石器指挥	Bounty	None
+433099	悬赏任务：痛苦的天使	Bounty	None
+433422	悬赏任务：地狱传送门	Bounty	None
+433339	悬赏任务：拉斯玛的礼物	Bounty	None
+433256	悬赏任务：死亡之拥	Bounty	None
+434220	诅咒城郭	Event	None
+432803	祭塔之王	Event	None
+434211	诅咒要塞	Event	None
+435732	最后的野蛮人	Event	TimedDungeon
+93684	力挽狂澜	MainQuest	None
+78264	命运之交	MainQuest	None
+72095	凯恩的遗踪	MainQuest	None
+72801	被囚禁的天使	MainQuest	None
+136656	返回新崔斯特姆	MainQuest	None
+72061	黑暗国王的统治	MainQuest	None
+203595	灵魂石中的响动	MainQuest	None
+60836	豹人巢穴	Event	None
+73236	沃桑的劫数	MainQuest	None
+101750	攻城兽	MainQuest	None
+331946		Challenge	Zapper
+365120	火焰风暴	Event	TimedDungeon
+257120	女巫	MainQuest	None
+356988	赫拉迪姆骨匣	Event	TimedDungeon
+356994	皇帝的礼物	Event	TimedDungeon
+356996	要塞武库	Event	TimedDungeon
+356999	高阶天堂的祝福	Event	TimedDungeon
+357001	威斯特玛仓库	Event	TimedDungeon
+269552	攻破要塞	MainQuest	None
+356204	遗失已久的记忆	Event	TimedDungeon
+343103	研究难题	Event	TimedDungeon
+350532	沼泽兽宝藏	Event	TimedDungeon
+289320	沼泽山之王	Event	None
+289583	愚者之王	Event	None
+368970	叛国的最终奖励	Event	None
+375198	悬赏任务：诅咒白骨大厅	Bounty	None
+375191	悬赏任务：诅咒庭院	Bounty	None
+361345	悬赏任务：消灭乱疤巨腹	Bounty	None
+361327	悬赏任务：消灭布拉鲁克·格里莫劳	Bounty	None
+361341	悬赏任务：消灭卡奇队长	Bounty	None
+361354	悬赏任务：消灭克莱格队长	Bounty	None
+361336	悬赏任务：消灭大棒刚臂	Bounty	None
+361339	悬赏任务：消灭召火天鬼	Bounty	None
+361331	悬赏任务：消灭滑翼天鬼	Bounty	None
+361343	悬赏任务：消灭基利安达摩特	Bounty	None
+361334	悬赏任务：消灭莫瑞姆·棘颅	Bounty	None
+361352	悬赏任务：消灭拉德·诺伊	Bounty	None
+361320	悬赏任务：消灭拉古斯·格里莫劳	Bounty	None
+361234	悬赏任务：消灭骷髅王	Bounty	None
+349016	悬赏任务：众魂罐	Bounty	None
+349020	悬赏任务：领主夫人的尸骨	Bounty	None
+347095	悬赏任务：消灭数据挖掘者	Bounty	None
+347097	悬赏任务：消灭掘墓者奥德尔	Bounty	None
+347090	悬赏任务：消灭德卢瑞·布朗	Bounty	None
+347092	悬赏任务：消灭棺材约翰·格汉姆	Bounty	None
+347080	Bounty: Kill Lucious the Depraved	Bounty	None
+345517	悬赏任务：清理先祖墓穴	Bounty	None
+345520	悬赏任务：清理勇士之陵	Bounty	None
+345505	悬赏任务：永恒之战	Bounty	None
+345502	悬赏任务：先祖的最终战役	Bounty	None
+347056	悬赏任务：消灭费克拉的鬼魂	Bounty	None
+369251	悬赏任务：消灭加鲁什·瓦尔丹	Bounty	None
+345507	悬赏任务：消灭格里斯迈	Bounty	None
+347054	悬赏任务：消灭霍松·加伯	Bounty	None
+369249	悬赏任务：消灭布罗内勋爵	Bounty	None
+347065	悬赏任务：清理卡兹拉洞穴	Bounty	None
+345496	悬赏任务：清理食腐魔洞穴	Bounty	None
+365401	悬赏任务：诅咒磨坊	Bounty	None
+347058	悬赏任务：雷斯一家	Bounty	None
+347062	悬赏任务：遭袭的农场	Bounty	None
+345500	悬赏任务：清理食腐鸟	Bounty	None
+365381	悬赏任务：诅咒树林	Bounty	None
+347060	悬赏任务：珍贵的矿石	Bounty	None
+347070	悬赏任务：消灭冲锋兽	Bounty	None
+347073	悬赏任务：消灭恐爪·跃行者	Bounty	None
+369243	悬赏任务：消灭咆哮者	Bounty	None
+369246	悬赏任务：消灭罪大恶极的克雷姆	Bounty	None
+345498	悬赏任务：消灭梅尔麦克	Bounty	None
+347077	TEMP Bounty	Bounty	None
+347075	TEMP Bounty	Bounty	None
+355276	悬赏任务：消灭石肠	Bounty	None
+344547	悬赏任务：清理月亮部族洞穴	Bounty	None
+344486	悬赏任务：贾巴德的复仇	Bounty	None
+369763	悬赏任务：诅咒营地	Bounty	None
+344482	悬赏任务：崩塌之塔	Bounty	None
+344488	悬赏任务：被抢走的剑鞘	Bounty	None
+344499	悬赏任务：消灭布拉斯·穿刺者	Bounty	None
+344490	悬赏任务：消灭死亡召唤者卡德胡	Bounty	None
+344493	TEMP Bounty	Bounty	None
+344497	悬赏任务：消灭战士罗格鲁特	Bounty	None
+344501	悬赏任务：消灭强大的罗扎克	Bounty	None
+344503	悬赏任务：消灭红石	Bounty	None
+344495	Bounty: Kill Skehlinrath	Bounty	None
+350529	悬赏任务：药剂师的兄弟	Bounty	None
+369257	悬赏任务：消灭赫鲁高·寻衅者	Bounty	None
+367561	悬赏任务：消灭唤魔师杰泽布	Bounty	None
+367559	悬赏任务：消灭恶毒的克莱伦	Bounty	None
+369273	悬赏任务：消灭帕瑟普斯	Bounty	None
+369253	悬赏任务：消灭可鄙的雷格瑞尔	Bounty	None
+369271	悬赏任务：消灭西奥丁·死亡咏唱者	Bounty	None
+369789	悬赏任务：诅咒火狱	Bounty	None
+345546	悬赏任务：需要帮助的陌生人	Bounty	None
+347005	TEMP Bounty	Bounty	None
+347011	悬赏任务：消灭瘟疫战狂	Bounty	None
+345544	悬赏任务：消灭碎颅·棒槌	Bounty	None
+347023	悬赏任务：消灭断骨狂徒	Bounty	None
+347032	悬赏任务：消灭屠夫	Bounty	None
+345542	悬赏任务：消灭克拉苏斯·折磨者	Bounty	None
+347025	悬赏任务：消灭邪教徒大审讯官	Bounty	None
+347027	悬赏任务：消灭被折磨的加拉克	Bounty	None
+349026	悬赏任务：消灭愚蠢的索特诺布	Bounty	None
+347020	悬赏任务：消灭树拳木脑	Bounty	None
+347030	悬赏任务：消灭典狱长	Bounty	None
+449833	悬赏任务：消灭巴克斯图斯	Bounty	None
+449839	悬赏任务：消灭波亚斯克	Bounty	None
+449837	悬赏任务：消灭汉内斯	Bounty	None
+449835	悬赏任务：消灭乔汉斯	Bounty	None
+449391	悬赏任务：消灭朱维安	Bounty	None
+449841	悬赏任务：消灭摩根·勒戴	Bounty	None
+449389	悬赏任务：消灭斯帕萨里	Bounty	None
+449380	悬赏任务：消灭沃伦	Bounty	None
+369944	悬赏任务：诅咒地窖	Bounty	None
+375201	悬赏任务：诅咒巢穴	Bounty	None
+345860	TEMP Bounty	Bounty	None
+345528	悬赏任务：消灭阿拉尼娅蛛后	Bounty	None
+345862	悬赏任务：消灭库拉什·被唾弃者	Bounty	None
+345526	悬赏任务：消灭拉斯林·寡妇制造者	Bounty	None
+345524	悬赏任务：消灭毒液虫	Bounty	None
+345522	悬赏任务：消灭剧毒的蜇洛比	Bounty	None
+345488	悬赏任务：清理堕落者的洞穴	Bounty	None
+369399	悬赏任务：消灭腐疫	Bounty	None
+369404	悬赏任务：消灭荷鲁斯·黑夜追踪者	Bounty	None
+345490	悬赏任务：消灭癞疥兽	Bounty	None
+347099	悬赏任务：消灭米拉·埃蒙	Bounty	None
+449864	悬赏任务：消灭特费尼	Bounty	None
+346034	悬赏任务：消灭敲骨手	Bounty	None
+347563	悬赏任务：消灭高阶邪教徒墨杜斯	Bounty	None
+347565	悬赏任务：消灭传教士乔鲁姆	Bounty	None
+347558	悬赏任务：消灭麦格妲	Bounty	None
+347569	悬赏任务：消灭狠砸怪	Bounty	None
+346036	悬赏任务：消灭唤魔师尚达尔	Bounty	None
+347560	悬赏任务：消灭耶特	Bounty	None
+346088	悬赏任务：清理掘地骇物的洞穴	Bounty	None
+346086	悬赏任务：清理邪恶洞窟	Bounty	None
+375264	悬赏任务：诅咒藏书馆	Bounty	None
+346092	悬赏任务：消灭布拉戈	Bounty	None
+346094	悬赏任务：消灭血羽	Bounty	None
+354788	悬赏任务：消灭法圣密斯根	Bounty	None
+347609	Bounty: Kill Nine Toads	Bounty	None
+347638	悬赏任务：消灭帕祖祖	Bounty	None
+347607	悬赏任务：消灭承受厄运的普拉加	Bounty	None
+346090	悬赏任务：消灭莱哈	Bounty	None
+358353	悬赏任务：消灭彼列	Bounty	None
+347525	悬赏任务：清理热风洞窟	Bounty	None
+369800	悬赏任务：诅咒岗哨	Bounty	None
+369797	悬赏任务：诅咒城垛	Bounty	None
+345954	悬赏任务：矿工的黄金	Bounty	None
+347520	悬赏任务：豹人巢穴	Bounty	None
+345976	悬赏任务：消灭阿什克	Bounty	None
+347532	悬赏任务：消灭疯子加特	Bounty	None
+347534	悬赏任务：消灭赫米特	Bounty	None
+345973	悬赏任务：消灭利刃巨口	Bounty	None
+345960	悬赏任务：消灭萨哈·鞭笞者	Bounty	None
+345971	悬赏任务：消灭狂野的塔罗斯	Bounty	None
+346069	悬赏任务：清理远古洞穴	Bounty	None
+346071	悬赏任务：清理漫水洞穴	Bounty	None
+347598	悬赏任务：清理神秘洞穴	Bounty	None
+346067	悬赏任务：失落的坎·达卡布财宝	Bounty	None
+347595	悬赏任务：卡麦尔的囚犯	Bounty	None
+347591	悬赏任务：萨达尔的财宝	Bounty	None
+346065	悬赏任务：拉卡尼休的圣坛	Bounty	None
+369813	悬赏任务：诅咒浅滩	Bounty	None
+347600	悬赏任务：消灭毕叔	Bounty	None
+369298	悬赏任务：消灭格莱西恩	Bounty	None
+369300	悬赏任务：消灭蛇人卡胡尔	Bounty	None
+346075	悬赏任务：消灭血痕利爪	Bounty	None
+346073	TEMP Bounty	Bounty	None
+347604	悬赏任务：消灭托沙尔	Bounty	None
+369302	悬赏任务：消灭穿刺者崔迪乌恩	Bounty	None
+350556	悬赏任务：清理废墟	Bounty	None
+350558	Bounty: The Crumbling Vault	Bounty	None
+350560	悬赏任务：守护者之魂	Bounty	None
+350562	悬赏任务：躁怒沙漠	Bounty	None
+350564	悬赏任务：雷格纳人偶	Bounty	None
+369277	悬赏任务：消灭巴尔扎克	Bounty	None
+369291	悬赏任务：消灭矮子巴提	Bounty	None
+355278	悬赏任务：消灭拷问者哈马斯	Bounty	None
+369288	悬赏任务：消灭萨马拉斯·追逐者	Bounty	None
+375261	悬赏任务：诅咒之坑	Bounty	None
+375257	悬赏任务：诅咒高塔	Bounty	None
+346115	悬赏任务：消灭地狱嚎	Bounty	None
+347652	悬赏任务：消灭法圣考斯图斯	Bounty	None
+347654	悬赏任务：消灭法圣弗雷德恩	Bounty	None
+346123	悬赏任务：消灭法圣圭亚恩	Bounty	None
+346121	悬赏任务：消灭法圣思科马拉	Bounty	None
+347650	悬赏任务：消灭石肠	Bounty	None
+346108	悬赏任务：消灭档案保管员	Bounty	None
+346119	悬赏任务：消灭典籍守护者	Bounty	None
+346117	悬赏任务：消灭苏姆	Bounty	None
+346111	悬赏任务：消灭狂怒的图基什	Bounty	None
+347656	悬赏任务：消灭佐敦·库勒	Bounty	None
+349204	悬赏任务：清理战备物资储藏室二层	Bounty	None
+346190	悬赏任务：清理寒冰洞	Bounty	None
+346188	悬赏任务：清理克莱德的哨所	Bounty	None
+349202	悬赏任务：清理坚固的地堡	Bounty	None
+349198	悬赏任务：清理先锋军营房	Bounty	None
+346192	悬赏任务：清理冰瀑洞穴	Bounty	None
+349210	悬赏任务：清理营房	Bounty	None
+349206	悬赏任务：清理铸造间	Bounty	None
+349208	悬赏任务：清理桥底	Bounty	None
+346184	悬赏任务：荣耀之焰	Bounty	None
+349196	悬赏任务：血脉相连	Bounty	None
+346186	悬赏任务：疯狂的攀爬者	Bounty	None
+369851	悬赏任务：诅咒冰川	Bounty	None
+369825	悬赏任务：诅咒要塞	Bounty	None
+346182	悬赏任务：战争之潮	Bounty	None
+346180	悬赏任务：防守医疗站	Bounty	None
+349220	悬赏任务：消灭琪塔拉	Bounty	None
+357123	Bounty: Destroy Demonic Ballistae	Bounty	None
+349216	悬赏任务：消灭恐爪天鬼	Bounty	None
+349212	悬赏任务：消灭死亡缠须	Bounty	None
+346202	悬赏任务：消灭灰烬之翼	Bounty	None
+346204	悬赏任务：消灭加刚纳格	Bounty	None
+349214	悬赏任务：消灭残忍的加勒姆	Bounty	None
+346194	悬赏任务：消灭争斗者格洛克	Bounty	None
+356417	悬赏任务：消灭残暴的卢默克	Bounty	None
+346196	悬赏任务：消灭墨沙克·天谴之躯	Bounty	None
+349218	悬赏任务：消灭仙德拉哈	Bounty	None
+346200	悬赏任务：消灭残暴的舍提克	Bounty	None
+349242	悬赏任务：消灭攻城突击兽	Bounty	None
+369868	悬赏任务：诅咒火山	Bounty	None
+346232	悬赏任务：消灭狂斩埃克格尔	Bounty	None
+349244	悬赏任务：消灭阿兹莫丹	Bounty	None
+346235	悬赏任务：消灭烈火硫魔	Bounty	None
+349222	悬赏任务：消灭布鲁图	Bounty	None
+346219	悬赏任务：消灭长枪查鲁克	Bounty	None
+349234	悬赏任务：消灭毒蟹	Bounty	None
+349224	悬赏任务：消灭辛迪娅	Bounty	None
+346230	悬赏任务：消灭恶毒的魔妮卡	Bounty	None
+349238	悬赏任务：消灭格拉什	Bounty	None
+349232	悬赏任务：消灭尘世之蟒	Bounty	None
+349228	悬赏任务：消灭好斗的葛洛格	Bounty	None
+356422	悬赏任务：消灭嗥牙	Bounty	None
+349240	悬赏任务：消灭哈克索尔	Bounty	None
+346215	悬赏任务：消灭畸形的海鲁格	Bounty	None
+346217	悬赏任务：消灭狂野的马格罗斯	Bounty	None
+346222	悬赏任务：消灭邪恶的莫刚	Bounty	None
+349236	悬赏任务：消灭裂鞭	Bounty	None
+349230	悬赏任务：消灭锯齿猛兽	Bounty	None
+349226	悬赏任务：消灭蝎毒	Bounty	None
+346225	悬赏任务：消灭裂爪	Bounty	None
+349298	悬赏任务：消灭大盗史尼奇	Bounty	None
+346228	悬赏任务：消灭剧毒的瓦力法尔	Bounty	None
+369853	悬赏任务：诅咒深渊	Bounty	None
+346146	悬赏任务：战火铸就	Bounty	None
+349119	悬赏任务：消灭恐怖的阿洛伊休斯	Bounty	None
+349115	悬赏任务：消灭埃克斯格雷·处决者	Bounty	None
+346162	悬赏任务：消灭贝拉戈·穿肉手	Bounty	None
+349301	悬赏任务：消灭波霍兰	Bounty	None
+346157	悬赏任务：消灭戴尔队长	Bounty	None
+346154	悬赏任务：消灭东恩·亚当姆斯队长	Bounty	None
+346166	悬赏任务：消灭冈姆	Bounty	None
+346164	悬赏任务：消灭钢手古金	Bounty	None
+349117	悬赏任务：消灭鞭舌	Bounty	None
+346160	悬赏任务：消灭粉碎者	Bounty	None
+346148	悬赏任务：消灭棘背烈兽	Bounty	None
+349121	悬赏任务：消灭恶毒的苍白灰小鬼	Bounty	None
+369329	悬赏任务：消灭阿鲁卡伊德	Bounty	None
+369326	悬赏任务：消灭巴鲁库斯	Bounty	None
+346130	悬赏任务：消灭砸脸重棍	Bounty	None
+346128	悬赏任务：消灭布里克托	Bounty	None
+369319	悬赏任务：消灭甘萨·欺诈者	Bounty	None
+369323	悬赏任务：消灭格瑞洛德·天谴者	Bounty	None
+346132	悬赏任务：消灭马加锡亚	Bounty	None
+369316	悬赏任务：消灭强大的奥比斯	Bounty	None
+369312	悬赏任务：消灭史隆普·破坏者	Bounty	None
+346126	TEMP Bounty	Bounty	None
+369900	悬赏任务：诅咒高台	Bounty	None
+357127	悬赏任务：消灭痛楚化身	Bounty	None
+357131	悬赏任务：消灭毁灭化身	Bounty	None
+357129	悬赏任务：消灭苦痛化身	Bounty	None
+349254	悬赏任务：消灭考安	Bounty	None
+349258	悬赏任务：消灭卡图恩	Bounty	None
+349252	悬赏任务：消灭奥塔什	Bounty	None
+349262	悬赏任务：消灭拉卡诺斯	Bounty	None
+349256	悬赏任务：消灭燃炬者	Bounty	None
+349260	悬赏任务：消灭凶残的贝桑	Bounty	None
+362140	悬赏任务：清理地狱裂隙	Bounty	None
+364333	悬赏任务：消灭碾槌	Bounty	None
+364336	悬赏任务：消灭巨槌	Bounty	None
+369878	悬赏任务：诅咒教堂	Bounty	None
+357133	悬赏任务：消灭憎恨化身	Bounty	None
+357135	悬赏任务：消灭谎言化身	Bounty	None
+357137	悬赏任务：消灭罪恶化身	Bounty	None
+357139	悬赏任务：消灭恐惧化身	Bounty	None
+349288	悬赏任务：消灭迪亚波罗	Bounty	None
+349272	悬赏任务：消灭无魂恶夜	Bounty	None
+349270	悬赏任务：消灭霍雷斯	Bounty	None
+361421	悬赏任务：消灭衣卒尔	Bounty	None
+349276	悬赏任务：消灭可耻的姬辛德拉	Bounty	None
+349284	Bounty: Kill Nekarat the Keywarden	Bounty	None
+349278	悬赏任务：消灭被诅咒的派尔斯	Bounty	None
+349282	悬赏任务：消灭拉乌·卡耶	Bounty	None
+349274	悬赏任务：消灭萨奥·索。	Bounty	None
+349280	悬赏任务：消灭斯拉格·巨兽	Bounty	None
+369348	悬赏任务：清理凶险洞穴	Bounty	None
+367872	悬赏任务：沼泽兽宝藏	Bounty	None
+369952	悬赏任务：诅咒之城	Bounty	None
+359310	悬赏任务：研究难题	Bounty	None
+375278	悬赏任务：诅咒沼泽	Bounty	None
+359319	悬赏任务：沼泽山之王	Bounty	None
+359314	悬赏任务：愚者之王	Bounty	None
+359280	悬赏任务：火人	Bounty	None
+362923	悬赏任务：消灭灰斑阿尔玛什	Bounty	None
+362897	Bounty: Kill Quorel	Bounty	None
+362915	悬赏任务：消灭板牙	Bounty	None
+367870	悬赏任务：消灭卢·卡	Bounty	None
+362913	悬赏任务：消灭巨兽莫古恩	Bounty	None
+362921	悬赏任务：消灭陷阱投掷兽	Bounty	None
+362925	悬赏任务：消灭塔达迪亚	Bounty	None
+355282	悬赏任务：消灭邪爪	Bounty	None
+359116	悬赏任务：悲伤祭坛	Bounty	None
+359079	悬赏任务：墓穴专家	Bounty	None
+359112	悬赏任务：盗墓贼	Bounty	None
+359101	悬赏任务：险恶的处境	Bounty	None
+359096	悬赏任务：佩尼的请求	Bounty	None
+359233	悬赏任务：消灭厄蒂斯	Bounty	None
+363086	悬赏任务：消灭赫德罗斯	Bounty	None
+363090	悬赏任务：消灭普拉	Bounty	None
+363092	悬赏任务：消灭塔格瑞斯	Bounty	None
+367904	悬赏任务：诅咒水晶	Bounty	None
+367888	悬赏任务：恶魔宝藏	Bounty	None
+363415	Bounty: The War that Time Forgot	Bounty	None
+369908	悬赏任务：诅咒之境	Bounty	None
+367926	悬赏任务：失落军团	Bounty	None
+367884	悬赏任务：复活	Bounty	None
+363342	悬赏任务：声东击西	Bounty	None
+363412	Bounty: The Demonic Prisoner	Bounty	None
+363344	悬赏任务：灭魂仪	Bounty	None
+363346	悬赏任务：岩巢	Bounty	None
+363204	悬赏任务：消灭毕苏斯	Bounty	None
+363200	悬赏任务：消灭布拉斯克·掘洞者	Bounty	None
+367935	悬赏任务：消灭恐怖的穆留克斯	Bounty	None
+363196	悬赏任务：消灭奥布西迪厄斯	Bounty	None
+363194	悬赏任务：消灭洛库鲁斯	Bounty	None
+359543	悬赏任务：消灭萨托尔	Bounty	None
+363198	悬赏任务：消灭斯拉斯·掘洞者	Bounty	None
+363202	悬赏任务：消灭沃特鲁斯	Bounty	None
+363392	悬赏任务：远古囚牢	Bounty	None
+359939	悬赏任务：猛烈攻击	Bounty	None
+374571	悬赏任务：超时	Bounty	None
+363405	悬赏任务：审判	Bounty	None
+363394	悬赏任务：恶魔牢笼	Bounty	None
+375275	悬赏任务：诅咒作战室	Bounty	None
+363390	悬赏任务：水晶牢笼	Bounty	None
+363407	悬赏任务：信仰飞跃	Bounty	None
+363402	悬赏任务：失落的军团	Bounty	None
+363409	悬赏任务：恶魔之魂	Bounty	None
+363559	悬赏任务：消灭亵渎者巴拉塔斯克	Bounty	None
+363552	悬赏任务：消灭洛格拉斯	Bounty	None
+359927	悬赏任务：消灭马萨伊尔	Bounty	None
+363557	悬赏任务：消灭赛西斯	Bounty	None
+363555	悬赏任务：消灭残忍的瓦泰斯克	Bounty	None
+363563	悬赏任务：消灭萨菲恩	Bounty	None
+363561	悬赏任务：消灭佐鲁斯	Bounty	None
+368917	悬赏任务：消灭布鲁	Bounty	None
+368912	悬赏任务：消灭伯格斯	Bounty	None
+368919	悬赏任务：消灭格罗特斯克	Bounty	None
+368921	悬赏任务：消灭黑兹伊尔	Bounty	None
+368796	悬赏任务：消灭玛格雷塔	Bounty	None
+368915	悬赏任务：消灭瑟维拉格	Bounty	None
+363431	悬赏任务：孵化室	Bounty	None
+359911	悬赏任务：藏宝室	Bounty	None
+359913	Bounty: Kill Kalmor	Bounty	None
+363000	悬赏任务：消灭维克·马鲁	Bounty	None
+362996	悬赏任务：消灭维克·塔波克	Bounty	None
+359839	Bounty: Treasure of the Nephalem	Bounty	None
+359907	悬赏任务：黄金密室	Bounty	None
+359915	悬赏任务：消灭艾德莉亚	Bounty	None
+363019	悬赏任务：消灭巴里·哈塔	Bounty	None
+363021	悬赏任务：消灭巴里·摩库	Bounty	None
+363016	悬赏任务：消灭纳克·库金	Bounty	None
+363013	悬赏任务：消灭纳克·萨鲁格	Bounty	None
+432699	悬赏任务：清理公会老巢	Bounty	None
+369383	悬赏任务：清理骸骨地窖	Bounty	None
+375348	悬赏任务：诅咒白骨坑	Bounty	None
+359758	悬赏任务：逃离火海	Bounty	None
+368611	悬赏任务：找回记忆	Bounty	None
+368607	悬赏任务：捉迷藏	Bounty	None
+368601	悬赏任务：狼王真子	Bounty	None
+368613	悬赏任务：害虫问题	Bounty	None
+432701	悬赏任务：消灭布伦特·布林顿	Bounty	None
+432707	悬赏任务：消灭德尼斯·吉内斯特	Bounty	None
+359722	Bounty: Kill Ghrentuloth	Bounty	None
+359765	Bounty: Kill Giga Plague Bearer	Bounty	None
+359661	Bounty: Kill the Lurking Skeletal Captain	Bounty	None
+432705	悬赏任务：消灭梅瑞尔·雷格顿	Bounty	None
+363177	悬赏任务：消灭米奇博尔	Bounty	None
+368789	悬赏任务：消灭潘·菲兹贝恩	Bounty	None
+363185	悬赏任务：消灭苏玛瑞斯·天谴者	Bounty	None
+363180	悬赏任务：消灭西奥多西娅·布赫雷	Bounty	None
+359919	悬赏任务：消灭厄兹尔	Bounty	None
+369377	悬赏任务：清理瘟疫地道	Bounty	None
+375350	悬赏任务：火焰风暴	Bounty	None
+368445	悬赏任务：耻辱之死	Bounty	None
+375268	悬赏任务：诅咒广场	Bounty	None
+368555	悬赏任务：趁火打劫	Bounty	None
+368532	悬赏任务：农民造反	Bounty	None
+368536	悬赏任务：贵族之死	Bounty	None
+368564	悬赏任务：魔法暴走	Bounty	None
+368420	悬赏任务：死灵法师的抉择	Bounty	None
+368559	悬赏任务：重生的邪教徒	Bounty	None
+359394	悬赏任务：愤怒的死者	Bounty	None
+359396	悬赏任务：收获	Bounty	None
+368525	悬赏任务：背水一战	Bounty	None
+368433	悬赏任务：守财奴的遗嘱	Bounty	None
+359426	悬赏任务：托里弗的最后一战	Bounty	None
+359399	悬赏任务：死神之触	Bounty	None
+368543	悬赏任务：失踪的巡逻兵	Bounty	None
+359403	悬赏任务：闲庭信步	Bounty	None
+368783	悬赏任务：消灭基伯队长	Bounty	None
+368781	悬赏任务：消灭达尔·霍松	Bounty	None
+363075	悬赏任务：消灭吉兹洛德	Bounty	None
+368785	悬赏任务：消灭伊格·斯塔弗斯	Bounty	None
+359430	Bounty: Kill Kago	Bounty	None
+363080	悬赏任务：消灭凯瑟琳·拜兹	Bounty	None
+363082	悬赏任务：消灭可憎的玛坦萨斯	Bounty	None
+359428	Bounty: Kill Pontius	Bounty	None
+363078	悬赏任务：消灭耶加切夫	Bounty	None
+338043	孵化室	Event	TimedDungeon
+338054	失落的奈非天宝藏	Event	TimedDungeon
+342320	黄金密室	Event	TimedDungeon
+352099	狄杰斯特的珠宝	Event	TimedDungeon
+365821	诅咒大厅	Event	TimedDungeon
+356736	虫母	Event	TimedDungeon
+377485	被困住了！	Event	TimedDungeon
+340724	火人	Event	TimedDungeon
+346542	奈非天圣骨匣	Event	TimedDungeon
+367029	钉刺者地窖	Event	TimedDungeon
+242053	Goblin Hunter	Event	None
+343588	猛烈攻击	Event	TimedDungeon
+356821	信仰飞跃	Event	TimedDungeon
+336114	失落的军团	Event	TimedDungeon
+335800	恶魔牢笼	Event	TimedDungeon
+334431	恶魔之魂	Event	TimedDungeon
+368306	诅咒教堂	Event	None
+369332	诅咒白骨坑	Event	None
+365252	诅咒地窖	Event	None
+365150	诅咒火狱	Event	None
+365695	诅咒岗哨	Event	None
+367979	诅咒之坑	Event	None
+364880	诅咒树林	Event	None
+369525	诅咒作战室	Event	None
+436360	诅咒林地	Event	None
+436805	诅咒林地	Event	None
+365796	诅咒高塔	Event	None
+365305	诅咒庭院	Event	None
+369366	诅咒广场	Event	None
+369381	诅咒沼泽	Event	None
+368035	诅咒要塞	Event	None
+409871	诅咒讲台	Event	None
+365269	诅咒巢穴	Event	None
+366331	哞哞风暴	Event	Horde
+239301	死灵法师的抉择	Event	None
+365366	最后的先祖	Event	TimedDungeon
+370334	堕落天使的诅咒宝箱	Event	None
+370316	地狱爪牙的诅咒宝箱	Event	None
+369841	秃鹫的诅咒宝箱	Event	None
+370556	女巫的诅咒宝箱	Event	None
+370373	绝望之王的诅咒宝箱	Event	None
+370154	贪吃者的诅咒宝箱	Event	None
+369892	巫师会的诅咒宝箱	Event	None
+365630	黑暗国王的诅咒宝箱	Event	None
+370077	隐匿者的诅咒宝箱	Event	None
+370349	地狱守卫的诅咒宝箱	Event	None
+370066	染疫者的诅咒宝箱	Event	None
+370082	地狱犬的诅咒宝箱	Event	None
+369895	凶恶蝠群的诅咒宝箱	Event	None
+365586	魂灵的诅咒宝箱	Event	None
+365593	暗月部族的诅咒宝箱	Event	None
+370364	捶地魔的诅咒宝箱	Event	None
+370341	陨石唤者的诅咒宝箱	Event	None
+369906	掠食者的诅咒宝箱	Event	None
+370135	鞭笞者的诅咒宝箱	Event	None
+370837	潜伏者的诅咒宝箱	Event	None
+365617	凶邪者的诅咒宝箱	Event	None
+370516	充能的诅咒宝箱	Event	None
+370544	掘洞者的诅咒宝箱	Event	None
+370320	毁灭者的诅咒宝箱	Event	None
+370033	飞翼恶魔的诅咒宝箱	Event	None
+369817	电鳗的诅咒宝箱	Event	None
+370038	堕落者的诅咒宝箱	Event	None
+369837	木乃伊的诅咒宝箱	Event	None
+365551	劫掠者的诅咒宝箱	Event	None
+370053	灰烬誓者的诅咒宝箱	Event	None
+364644	卡兹拉的诅咒宝箱	Event	None
+365509	猎物的诅咒宝箱	Event	None
+370044	羊头人的诅咒宝箱	Event	None
+369873	潜行者的诅咒宝箱	Event	None
+370049	人形蝎怪的诅咒宝箱	Event	None
+370329	军团士兵的诅咒宝箱	Event	None
+370359	掠夺者的诅咒宝箱	Event	None
+369910	谋杀者的诅咒宝箱	Event	None
+365622	死刑犯的诅咒宝箱	Event	None
+370147	强制者的诅咒宝箱	Event	None
+370499	破坏者的诅咒宝箱	Event	None
+364635	国王卫队的诅咒宝箱	Event	None
+370060	神弃者的诅咒宝箱	Event	None
+369856	蛇妖的诅咒宝箱	Event	None
+369884	幼蛛的诅咒宝箱	Event	None
+369863	蜂虫群的诅咒宝箱	Event	None
+370666	可爱的诅咒宝箱	Event	None
+369832	狂热者的诅咒宝箱	Event	None
+365526	祭司的诅咒宝箱	Event	None
+370482	被焚者的诅咒宝箱	Event	None
+370445	爬行怪的诅咒宝箱	Event	None
+370435	野人的诅咒宝箱	Event	None
+370466	追猎者的诅咒宝箱	Event	None
+370452	虫群的诅咒宝箱	Event	None
+370489	爬行怪的诅咒宝箱	Event	None
+370427	缚魂者的诅咒宝箱	Event	None
+370561	哞哞农场的诅咒宝箱	Event	None
+370476	猎手的诅咒宝箱	Event	None
+365547	亡者的诅咒宝箱	Event	None
+369431	诅咒之城	Event	None
+365751	诅咒藏书馆	Event	None
+368092	诅咒火山	Event	None
+365300	诅咒白骨大厅	Event	None
+365033	诅咒磨坊	Event	None
+368056	诅咒冰川	Event	None
+365678	诅咒城垛	Event	None
+368124	诅咒深渊	Event	None
+369482	诅咒之境	Event	None
+368334	诅咒高台	Event	None
+365133	诅咒营地	Event	None
+365953	诅咒浅滩	Event	None
+321939	耻辱之死	Event	TimedDungeon
+303999	死神之触	Event	None
+286155	被激怒的亡者	Event	None
+341244	捉迷藏	Event	TimedDungeon
+350582	托里弗的最后一战	Event	TimedDungeon
+358191	趁火打劫	Event	TimedDungeon
+334512	远古囚牢	Event	TimedDungeon
+369683	超时	Event	None
+334679	判决	Event	TimedDungeon
+273408	死亡天使	MainQuest	None
+355312	水晶牢笼	Event	TimedDungeon
+336254	悲伤祭坛	Event	TimedDungeon
+336293	盗墓贼	Event	TimedDungeon
+337492	奈非天秘境	Event	TimedDungeon
+382695	奈非天大秘境	Event	TimedDungeon
+312429	Adventure Mode Quest	MainQuest	None
+300670	时光囚牢	Event	None
+369344	时光囚牢	Event	None
+347316	恶魔囚徒	Event	TimedDungeon
+369409	恶魔囚徒	Event	TimedDungeon
+354399	灭魂仪	Event	TimedDungeon
+353677	岩巢	Event	TimedDungeon
+353085	声东击西	Event	TimedDungeon
+273790	永恒战场	MainQuest	None
+363899	失落军团	Event	TimedDungeon
+365385	诅咒水晶	Event	TimedDungeon
+351575	复活	Event	TimedDungeon
+365935	恶魔宝藏	Event	TimedDungeon
+301058	被时间所遗忘的战争	Event	None
+369414	被时间所遗忘的战争	Event	None
+309318	姐妹之音	Event	None
+328651	圣殿骑士的清算	Event	None
+263851	混沌界大门	MainQuest	None
+284683	亡者之魂	MainQuest	None
+366021	地窖里的怪声	Event	TimedDungeon
+356582	魔法暴走	Event	TimedDungeon
+302669	找回记忆	Event	None
+356212	狼王真子	Event	TimedDungeon
+359235	守财奴的遗嘱	Event	TimedDungeon
+367578	害虫问题	Event	TimedDungeon
+348273	闲庭信步	Event	TimedDungeon
+304069	收割魔	Event	None
+369017	闹鬼的旅店	Event	TimedDungeon
+332097	险恶的处境	Event	TimedDungeon
+331407	佩尼的请求	Event	TimedDungeon
+334905	墓穴专家	Event	TimedDungeon
+322261	背水一战	Event	TimedDungeon
+251355	威斯特玛的陷落	MainQuest	None
+285098	死亡使者	MainQuest	None
+336583	农民造反	Event	TimedDungeon
+361550	贵族之死	Event	TimedDungeon
+315617	重生的邪教徒	Event	TimedDungeon
+357198	失踪的巡逻兵	Event	TimedDungeon
+303475	手足之情	Event	None
+359735	逃离火海	Event	TimedDungeon
+57335	血染黄沙	MainQuest	None
+78266	赫拉迪姆背叛者	MainQuest	None

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+	<!-- !!! DO NOT MODIFY THIS FILE !!! -->
+	<!-- You have to put your UI customization elements into \config\ui_user folder -->
+	<templates>
+		<default enabled="1" border="1" cooldown_numbers="1">
+			<cooldown_fade enabled="1" color="192,0,0,0" stroke="0"/>
+			<cooldown font_family="tahoma" font_size="8" font_bold="0" font_color="255,255,255,255" font_shadow="1" font_halign="Center">
+				<custom_shadow enabled="1" heavy="1" color="255,0,0,0"/>
+			</cooldown>
+			<stack font_family="tahoma" font_size="7" font_bold="0" font_color="255,255,255,255" font_shadow="1" font_halign="Center">
+				<custom_shadow enabled="1" heavy="1" color="255,0,0,0"/>
+			</stack>
+		</default>
+	</templates>
+	<buffs>
+		<main_bar is_main_bar="1" template="default" tooltips="1">
+			<position x="0" y="0" w="0" h="0" container="-"/>
+			<rules>
+				<Barbarian_Passive_Brawler enabled="0" sno="205133" icon="1" min_icon_count="1"/>
+				<Barbarian_Passive_BerserkerRage enabled="1" sno="205187" icon="1" min_icon_count="1"/>
+				<DemonHunter_Passive_SteadyAim enabled="1" sno="164363" icon="1" min_icon_count="1"/>
+				<DemonHunter_Passive_TacticalAdvantage enabled="1" sno="218385" icon="1" min_icon_count="1" show_cooldown="1"/>
+				<DemonHunter_Passive_HotPursuit enabled="1" sno="155725" icon="1" min_icon_count="1" show_cooldown="1"/>
+				<DemonHunter_Passive_Sharpshooter enabled="1" sno="155715" icon="1" min_icon_count="1" show_stack="1"/>
+				<p1_Monk_Passive_Provocation enabled="1" sno="402633" icon="1" min_icon_count="1" show_stack="1" force_powers_texture="1" force_powers_name="1"/>
+				<X1_Monk_Passive_MythicRhythm enabled="1" sno="315271" icon="0" min_icon_count="1" force_powers_desc="1"/>
+				<Monk_Passive_CombinationStrike enabled="1" sno="218415" icon="1" min_icon_count="1" show_cooldown="1"/>
+				<!-- stacks doesn't work because it is not working the usual way -->
+				<!--WitchDoctor_Passive_PhysicalAttunement enabled="1" sno="340910" icon="0" min_icon_count="1" show_stack="1" /-->
+				<!-- stacks are not supported by D3 -->
+				<WitchDoctor_Passive_RushOfEssence enabled="1" sno="208565" icon="1" min_icon_count="1" show_stack="1"/>
+				<Wizard_Passive_Illusionist enabled="1" sno="208547" icon="1" min_icon_count="1" show_cooldown="1" show_stack="0" force_powers_desc="0" force_powers_texture="0" force_powers_name="0"/>
+				<Wizard_Passive_GalvanizingWard enabled="1" sno="208541" icon="1" min_icon_count="1" show_cooldown="1" show_stack="0" force_powers_desc="0" force_powers_texture="0" force_powers_name="0"/>
+				<X1_Wizard_Passive_UnwaveringWill enabled="1" sno="298038" icon="1" min_icon_count="1" force_powers_texture="1" show_stack="0" show_cooldown="0" force_powers_desc="0" force_powers_name="0"/>
+				<Wizard_Familiar enabled="1" sno="99120" icon="*" min_icon_count="1" show_cooldown="1"/>
+				<MonsterAffix_PlaguedCast enabled="0" sno="231115" icon="10" min_icon_count="1" show_stack="1"/>
+				<!-- currently not working because it has no texture -->
+			</rules>
+		</main_bar>
+		<tal_rasha_meteors enabled="1" template="default" opacity="0.75" ratio="0.75">
+			<position x="10" y="10" w="100" h="100" container="-"/>
+			<conditions active_buffs="359555/*"/>
+			<rules>
+				<a enabled="1" sno="359555" icon="3" min_icon_count="1"/>
+				<c enabled="1" sno="359555" icon="4" min_icon_count="1"/>
+				<f enabled="1" sno="359555" icon="2" min_icon_count="1"/>
+				<l enabled="1" sno="359555" icon="1" min_icon_count="1"/>
+			</rules>
+			<cooldown font_size="7"/>
+			<stack font_size="6"/>
+		</tal_rasha_meteors>
+		<!-- possible directions: left_to_right, right_to_left, top_to_bottom, bottom_to_top, horizontal_center, vertical_center -->
+		<generic_wizard enabled="1" template="default" border="1" opacity="1" ratio="0.75" cooldown_numbers="1" direction="vertical_center" tooltips="0">
+			<position x="56.6" y="-7" w="10" h="100" container="-"/>
+			<rules>
+				<Wizard_IceArmor enabled="1" sno="73223" icon="0" min_icon_count="1" show_cooldown="1"/>
+				<Wizard_StormArmor enabled="1" sno="74499" icon="*" min_icon_count="1" show_cooldown="1"/>
+				<Wizard_MagicWeapon enabled="1" sno="76108" icon="0" min_icon_count="1" show_cooldown="1"/>
+				<Wizard_Familiar enabled="1" sno="99120" icon="*" min_icon_count="1" show_cooldown="1"/>
+				<Wizard_EnergyArmor0 enabled="1" sno="86991" icon="0" min_icon_count="1" show_cooldown="1"/>
+				<!-- no rune and force armor -->
+				<Wizard_EnergyArmor2 enabled="1" sno="86991" icon="2" min_icon_count="1" show_cooldown="1"/>
+				<!-- Prismatic -->
+				<Wizard_EnergyArmor3 enabled="1" sno="86991" icon="3" min_icon_count="1" show_cooldown="1"/>
+				<!-- Absorption-->
+				<Wizard_EnergyArmor4 enabled="1" sno="86991" icon="4" min_icon_count="1" show_cooldown="1"/>
+				<!-- Energy Tap -->
+				<Wizard_EnergyArmor5 enabled="1" sno="86991" icon="5" min_icon_count="1" show_cooldown="1"/>
+				<!-- Pin Point Barrier -->
+				<Barbarian_BattleRage enabled="1" sno="79076" icon="*" min_icon_count="1" show_cooldown="1"/>
+				<Barbarian_WrathoftheBerserker enabled="1" sno="79607" icon="*" min_icon_count="1" show_cooldown="1"/>
+				<Barbarian_WarCry enabled="1" sno="375483" icon="0" min_icon_count="1" show_cooldown="1" show_stack="0" force_powers_desc="0" force_powers_texture="0" force_powers_name="0"/>
+				<Magic_Weapon enabled="0" sno="76108" icon="2" min_icon_count="1" show_stack="1" show_cooldown="1"></Magic_Weapon><Spectral_Blade enabled="0" sno="71548" icon="*" min_icon_count="1" show_stack="1" show_cooldown="1"></Spectral_Blade><Wave_of_Force enabled="0" sno="30796" icon="2" min_icon_count="1" show_stack="1"></Wave_of_Force><Teleport enabled="0" sno="168344" icon="*" min_icon_count="1" show_cooldown="1"></Teleport><Slow_Time enabled="0" sno="1769" icon="2" min_icon_count="1" show_cooldown="1"></Slow_Time><Frost_Nova enabled="0" sno="30718" icon="*" min_icon_count="1" show_cooldown="1"></Frost_Nova><Diamond_Skin enabled="0" sno="75599" icon="*" min_icon_count="1" show_cooldown="1"></Diamond_Skin><Black_Hole enabled="0" sno="243141" icon="*" min_icon_count="1" show_stack="1" show_cooldown="1"></Black_Hole><Archon enabled="0" sno="134872" icon="2" min_icon_count="1" show_stack="1" show_cooldown="1"></Archon><Arcane_Orb enabled="0" sno="30668" icon="5" min_icon_count="1" show_stack="1" show_cooldown="1"></Arcane_Orb><Arcane_Orb2 enabled="0" sno="30668" icon="6" min_icon_count="1" show_stack="1" show_cooldown="1"></Arcane_Orb2><Smoke_Screen enabled="0" sno="130695" icon="*" min_icon_count="1" show_cooldown="1"></Smoke_Screen><Companion enabled="0" sno="365311" icon="*" min_icon_count="1" show_cooldown="1"></Companion><Vengeance enabled="0" sno="302846" icon="0" min_icon_count="1" show_cooldown="1"></Vengeance><Vault enabled="0" sno="111215" icon="1" min_icon_count="1" show_cooldown="1"></Vault><Evasive_Fire enabled="0" sno="377450" icon="0" min_icon_count="1" show_cooldown="1"></Evasive_Fire><Chakram enabled="0" sno="129213" icon="*" min_icon_count="1" show_cooldown="1"></Chakram><Caltrops enabled="0" sno="129216" icon="*" min_icon_count="1"></Caltrops><Shadow_Power enabled="0" sno="130830" icon="*" min_icon_count="1" show_cooldown="1"></Shadow_Power><Preparation enabled="0" sno="129212" icon="*" min_icon_count="1" show_cooldown="1"></Preparation><Fan_of_Knives enabled="0" sno="77546" icon="0" min_icon_count="1" show_cooldown="1"></Fan_of_Knives><Sentry enabled="0" sno="129217" icon="8" min_icon_count="1" show_stack="1"></Sentry><Sentry2 enabled="0" sno="129217" icon="1" min_icon_count="1"></Sentry2><Ignore_Pain enabled="0" sno="79528" icon="*" min_icon_count="1" show_cooldown="1"></Ignore_Pain><Call_of_the_Ancients enabled="0" sno="80049" icon="4" min_icon_count="1" show_cooldown="1"></Call_of_the_Ancients><Overpower enabled="0" sno="159169" icon="1" min_icon_count="1" show_cooldown="1"></Overpower><Overpower2 enabled="0" sno="159169" icon="0" min_icon_count="1" show_cooldown="1"></Overpower2><Revenge enabled="0" sno="109342" icon="2" min_icon_count="1" show_cooldown="1"></Revenge><Leap enabled="0" sno="93409" icon="*" min_icon_count="1" show_cooldown="1"></Leap><Sprint enabled="0" sno="78551" icon="*" min_icon_count="1" show_cooldown="1"></Sprint><Bash enabled="0" sno="79242" icon="*" min_icon_count="1" show_cooldown="1" show_stack="1"></Bash><Frenzy enabled="0" sno="78548" icon="0" min_icon_count="1" show_cooldown="1" show_stack="1"></Frenzy><Sweep_Attack enabled="0" sno="239042" icon="4" min_icon_count="1" show_cooldown="1"></Sweep_Attack><Iron_Skin enabled="0" sno="291804" icon="*" min_icon_count="1" show_cooldown="1"></Iron_Skin><Provoke enabled="0" sno="290545" icon="*" min_icon_count="1" show_cooldown="1" show_stack="1"></Provoke><Steed_Charge enabled="0" sno="243853" icon="0" min_icon_count="1" show_cooldown="1"></Steed_Charge><Phalanx enabled="0" sno="330729" icon="*" min_icon_count="1" show_cooldown="1"></Phalanx><Akarat_Champion enabled="0" sno="269032" icon="*" min_icon_count="1" show_cooldown="1"></Akarat_Champion><Punish enabled="0" sno="285903" icon="*" min_icon_count="1" show_cooldown="1"></Punish><Slash enabled="0" sno="289243" icon="*" min_icon_count="1" show_cooldown="1" show_stack="1"></Slash><Smite enabled="0" sno="286510" icon="1" min_icon_count="1" show_cooldown="1" show_stack="1"></Smite><Justice enabled="0" sno="325216" icon="0" min_icon_count="1" show_cooldown="1" show_stack="1"></Justice><Blessed_Shield enabled="0" sno="266951" icon="2" min_icon_count="1" show_cooldown="1"></Blessed_Shield><Witchdoctor_Sacrifice enabled="0" sno="102572" icon="*" min_icon_count="1" show_stack="1" show_cooldown="1"></Witchdoctor_Sacrifice><Witchdoctor_SoulHarvest enabled="0" sno="67616" icon="*" min_icon_count="1" show_stack="1" show_cooldown="1"></Witchdoctor_SoulHarvest><Witchdoctor_Hex enabled="0" sno="30631" icon="2" min_icon_count="1" show_cooldown="1"></Witchdoctor_Hex><Spirit_Walk enabled="0" sno="106237" icon="*" min_icon_count="1" show_cooldown="1"></Spirit_Walk><Big_Bad_Voodoo enabled="0" sno="117402" icon="4" min_icon_count="1" show_cooldown="1"></Big_Bad_Voodoo><Horrify enabled="0" sno="67668" icon="*" min_icon_count="1" show_cooldown="1"></Horrify><Sweeping_Wind enabled="0" sno="96090" icon="0" min_icon_count="1" show_stack="1" show_cooldown="1"></Sweeping_Wind><Serenity enabled="0" sno="96215" icon="*" min_icon_count="1" show_cooldown="1"></Serenity><Epiphany enabled="0" sno="312307" icon="0" min_icon_count="1" show_cooldown="1"></Epiphany><Dashing_Strike enabled="0" sno="312736" icon="*" min_icon_count="1" show_cooldown="1"></Dashing_Strike><Deadly_Reach enabled="0" sno="96019" icon="*" min_icon_count="1" show_cooldown="1"></Deadly_Reach><Way_of_the_Hundred_Fists enabled="0" sno="97110" icon="4" min_icon_count="1" show_cooldown="1" show_stack="1"></Way_of_the_Hundred_Fists><Way_of_the_Hundred_Fists2 enabled="0" sno="97110" icon="1" min_icon_count="1" show_cooldown="1" show_stack="1"></Way_of_the_Hundred_Fists2><Tempest_Rush enabled="0" sno="121442" icon="3" min_icon_count="1" show_stack="1"></Tempest_Rush><Blinding_Flash enabled="0" sno="136954" icon="*" min_icon_count="1" show_cooldown="1"></Blinding_Flash><Breath_of_Heaven enabled="0" sno="69130" icon="*" min_icon_count="1" show_cooldown="1"></Breath_of_Heaven><Inner_Sanctuary enabled="0" sno="317076" icon="*" min_icon_count="1" show_cooldown="1"></Inner_Sanctuary></rules>
+			<cooldown font_size="7" font_color="160,255,255,255">
+				<custom_shadow color="160,0,0,0"/>
+			</cooldown>
+			<stack font_size="6" font_color="160,255,255,255">
+				<custom_shadow color="160,0,0,0"/>
+			</stack>
+		</generic_wizard>
+		<middle1 template="default" opacity="1" ratio="0.75" cooldown_numbers="1" direction="horizontal_center" enabled="1" tooltips="0">
+			<position x="0" y="54.0" w="100" h="100" container="-"/>
+			<rules>
+				<taeguk enabled="1" sno="403471" icon="*" min_icon_count="1" show_stack="1" show_cooldown="1"/>
+				<focus enabled="1" sno="359583" icon="*" min_icon_count="1" show_cooldown="1"/>
+				<restraint enabled="1" sno="434980" icon="*" min_icon_count="1" show_cooldown="1"/>
+				<ConventionofElements enabled="1" sno="430674" icon="*" min_icon_count="1" show_cooldown="1"/>
+				<Shenlong_Spirit enabled="0" sno="440569" icon="*" min_icon_count="1" force_powers_desc="1"></Shenlong_Spirit><binding_lost enabled="0" sno="96694" icon="1" min_icon_count="1" show_stack="1" show_cooldown="1"></binding_lost><Gogok_of_Swiftness enabled="0" sno="403464" icon="1" min_icon_count="1" show_stack="1" show_cooldown="1"></Gogok_of_Swiftness><Bane_of_the_Powerful enabled="0" sno="383014" icon="*" min_icon_count="1" show_cooldown="1"></Bane_of_the_Powerful><Aquila_Cuirass enabled="0" sno="449064" icon="*" min_icon_count="1" show_stack="0" show_cooldown="0"></Aquila_Cuirass><The_Traveler_Pledge enabled="0" sno="447541" icon="*" min_icon_count="1" show_stack="1" show_cooldown="0"></The_Traveler_Pledge><Istvan_Paired_Blades enabled="0" sno="359582" icon="*" min_icon_count="1" show_stack="1" show_cooldown="1"></Istvan_Paired_Blades><Pride_Fall enabled="0" sno="322977" icon="*" min_icon_count="1"></Pride_Fall><In_geom enabled="0" sno="402458" icon="*" min_icon_count="1" show_cooldown="1"></In_geom><Harrington_Waistguard enabled="0" sno="318881" icon="*" min_icon_count="1" show_cooldown="1"></Harrington_Waistguard><The_Twisted_Sword enabled="0" sno="77113" icon="*" min_icon_count="1" show_stack="1" show_cooldown="0"></The_Twisted_Sword><tals enabled="0" sno="429855" icon="*" min_icon_count="1" show_stack="1" show_cooldown="1"></tals><Orb_of_Infinite_Depth enabled="0" sno="87525" icon="1" min_icon_count="1" show_stack="1" show_cooldown="1"></Orb_of_Infinite_Depth><Slow_Time2 enabled="0" sno="1769" icon="9" min_icon_count="1"></Slow_Time2><Triumvirate enabled="0" sno="434849" icon="*" min_icon_count="1" show_stack="1" show_cooldown="1"></Triumvirate><Chantodo_Resolve enabled="0" sno="440235" icon="*" min_icon_count="1" show_stack="1"></Chantodo_Resolve><Lord_Greenstone_Fan enabled="0" sno="445274" icon="*" min_icon_count="1" show_stack="1" show_cooldown="0"></Lord_Greenstone_Fan><Elusive_Ring enabled="0" sno="446187" icon="*" min_icon_count="1" show_cooldown="1"></Elusive_Ring><Wraps_of_Clarity enabled="0" sno="441517" icon="*" min_icon_count="1" show_cooldown="1"></Wraps_of_Clarity><Wojahnni_Assaulter enabled="0" sno="397780" icon="*" min_icon_count="1" show_cooldown="1" show_stack="1"></Wojahnni_Assaulter><Fortress_Ballista enabled="0" sno="447816" icon="*" min_icon_count="1" show_stack="1"></Fortress_Ballista><Unhallowed_Essence enabled="0" sno="423244" icon="*" min_icon_count="1" show_cooldown="1"></Unhallowed_Essence><Natalya_Vengeance enabled="0" sno="434964" icon="*" min_icon_count="1" show_cooldown="1"></Natalya_Vengeance><Band_of_Might enabled="0" sno="447060" icon="*" min_icon_count="1" show_cooldown="1"></Band_of_Might><The_Legacy_of_Raekor enabled="0" sno="429673" icon="*" min_icon_count="1" show_stack="1"></The_Legacy_of_Raekor><Denial enabled="0" sno="239042" icon="5" min_icon_count="1" show_stack="1"></Denial><Norvald_Fervor enabled="0" sno="447291" icon="*" min_icon_count="1" show_cooldown="1"></Norvald_Fervor><Seeker_of_the_Light enabled="0" sno="239137" icon="4" min_icon_count="1" show_cooldown="1"></Seeker_of_the_Light><Thorns_of_the_Invoker2 enabled="0" sno="445829" icon="1" min_icon_count="1" show_cooldown="1" show_stack="1"></Thorns_of_the_Invoker2><Thorns_of_the_Invoker4 enabled="0" sno="445639" icon="*" min_icon_count="1" show_cooldown="1"></Thorns_of_the_Invoker4><Roland_Legacy enabled="0" sno="409428" icon="*" min_icon_count="1" show_stack="1" show_cooldown="1"></Roland_Legacy><Tiklandian_Visage enabled="0" sno="318774" icon="*" min_icon_count="1" show_cooldown="1"></Tiklandian_Visage><Spirit_of_Arachyr enabled="0" sno="30631" icon="6" min_icon_count="1" show_cooldown="1"></Spirit_of_Arachyr><Lefebvre_Soliloquy enabled="0" sno="223473" icon="0" min_icon_count="1" show_cooldown="1"></Lefebvre_Soliloquy><Spirit_Guards enabled="0" sno="430289" icon="*" min_icon_count="1" show_cooldown="1"></Spirit_Guards><Kekegis_Unbreakable_Spirit enabled="0" sno="318751" icon="*" min_icon_count="1" show_cooldown="1"></Kekegis_Unbreakable_Spirit></rules>
+			<cooldown font_size="7"/>
+			<stack font_size="6"/>
+		</middle1>
+		<shrines template="default" align_to_center="1" opacity="0.5" ratio="0.75" cooldown_numbers="1" direction="top_to_bottom" enabled="1" tooltips="1">
+			<position x="-5.5" y="0" w="100" h="100" container="Root.NormalLayer.minimap_dialog_backgroundScreen.minimap_dialog_pve.minimap_pve_main"/>
+			<rules>
+				<conduit1 enabled="1" sno="263029" icon="*" min_icon_count="1" show_cooldown="1"/>
+				<conduit2 enabled="1" sno="403404" icon="*" min_icon_count="1" show_cooldown="1"/>
+				<enlightened1 enabled="1" sno="278269" icon="*" min_icon_count="1" show_cooldown="1"/>
+				<enlightened2 enabled="1" sno="30477" icon="*" min_icon_count="1" show_cooldown="1"/>
+				<frenzied1 enabled="1" sno="278271" icon="*" min_icon_count="1" show_cooldown="1"/>
+				<frenzied2 enabled="1" sno="30479" icon="*" min_icon_count="1" show_cooldown="1"/>
+				<fortune1 enabled="1" sno="278270" icon="*" min_icon_count="1" show_cooldown="1"/>
+				<fortune2 enabled="1" sno="30478" icon="*" min_icon_count="1" show_cooldown="1"/>
+				<blessed2 enabled="1" sno="278268" icon="*" min_icon_count="1" show_cooldown="1"/>
+				<blessed2 enabled="1" sno="30476" icon="*" min_icon_count="1" show_cooldown="1"/>
+				<channeling enabled="1" sno="266258" icon="*" min_icon_count="1" show_cooldown="1"/>
+				<shield enabled="1" sno="266254" icon="*" min_icon_count="1" show_cooldown="1"/>
+				<power enabled="1" sno="262935" icon="*" min_icon_count="1" show_cooldown="1"/>
+				<speed enabled="1" sno="266271" icon="*" min_icon_count="1" show_cooldown="1"/>
+				<empowered enabled="1" sno="260349" icon="*" min_icon_count="1" show_cooldown="1"/>
+				<fleeting enabled="1" sno="260348" icon="*" min_icon_count="1" show_cooldown="1"/>
+			</rules>
+			<cooldown font_size="7" font_color="160,255,255,255">
+				<custom_shadow color="160,0,0,0"/>
+			</cooldown>
+		</shrines>
+	</buffs>
+</config>

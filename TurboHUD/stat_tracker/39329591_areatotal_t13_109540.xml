@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<config>
+	<area sno="109540" />
+	<time msec="887585" msec_town="0" />
+	<data exp="14527245823" gold="11179944" kill_total="1067" kill_elite="93" drop_all="233" drop_white="187" drop_magic="14" drop_rare="28" drop_legendary="4" drop_ancient="1" drop_primal_ancient="0" drop_blood_shard="0" drop_gold="0" death="0" damage_dealt_all="59121983041099" damage_dealt_crit="43657440099109" damage_taken="11501753" healing="26494495" />
+</config>

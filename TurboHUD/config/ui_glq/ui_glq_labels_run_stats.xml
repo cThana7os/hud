@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+	<overrides>
+		<a enabled="1" file="ui_default_labels_run_stats">
+			<o1 path="labels.header.area_total.expression" value="区域总计"/>
+			<o2 path="labels.header.area_current.expression" value="区域当前"/>
+			<o3 path="labels.header.session.expression" value="本次运行"/>
+			<o4 path="labels.header.hero_today.expression" value="角色今日"/>
+			<o5 path="labels.header.run.expression" value="本房间"/>
+			<o6 path="labels.play_time.info_town.expression" value="游戏时间"/>
+			<o7 path="labels.play_time.info_area.expression" value="游戏时间"/>
+			<o8 path="labels.kill.info_town.expression" value="总击杀"/>
+			<o9 path="labels.kill.info_area.expression" value="总击杀"/>
+			<o10 path="labels.elite.info_town.expression" value="精英击杀"/>
+			<o11 path="labels.elite.info_area.expression" value="精英击杀"/>
+			<o12 path="labels.legendary.info_town.expression" value="传奇数"/>
+			<o13 path="labels.legendary.info_area.expression" value="传奇数"/>
+			<o14 path="labels.exp.info_town.expression" value="经验"/>
+			<o15 path="labels.exp.info_area.expression" value="经验"/>
+		</a>
+	</overrides>
+</config>

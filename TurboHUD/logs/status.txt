@@ -1,0 +1,24 @@
+2017.07.24 21:04:44.203	initializing overlay
+2017.07.24 21:04:44.219		create Direct2D1 Factory
+2017.07.24 21:04:44.224		create DirectWrite Factory
+2017.07.24 21:04:44.226		create DirectInput
+2017.07.24 21:04:44.264		create DirectInput Keyboard
+2017.07.24 21:04:44.279		create SwapChain
+2017.07.24 21:04:44.302		maximum supported feature level: Level_11_0
+2017.07.24 21:04:44.317	create RenderTarget
+2017.07.24 21:04:44.409	loading configuration
+2017.07.24 21:04:44.409		config.xml
+2017.07.24 21:04:44.448		ui_default_buffs.xml
+2017.07.24 21:04:44.450		ui_default_labels_run_stats.xml
+2017.07.24 21:04:44.451		ui_default_main.xml
+2017.07.24 21:04:44.452		ui_default_themeinfo.xml
+2017.07.24 21:04:44.453		ui_glq_CoE_Countdown.xml
+2017.07.24 21:04:44.455		ui_glq_Disable.xml
+2017.07.24 21:04:44.456		ui_glq_labels_run_stats.xml
+2017.07.24 21:04:44.456		ui_glq_ThemeInfo.xml
+2017.07.24 21:04:44.523	starting tcp listener on port #8081
+2017.07.24 21:04:54.927	new run: 死灵法师, Bastion's Keep Stronghold, Difficulty: t13
+2017.07.24 21:04:55.469	create RenderTarget
+2017.07.24 21:24:30.006	new run: 死灵法师, Bastion's Keep Stronghold, Difficulty: t13
+2017.07.24 21:25:07.360	new run: 死灵法师, Hidden Camp, Difficulty: t13
+2017.07.24 22:17:21.782	new run: 死灵法师, Hidden Camp, Difficulty: t13
